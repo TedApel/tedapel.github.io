@@ -13,7 +13,7 @@ https://amandahamiltonart.com/section/165641_BURAN.html
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/buraninstall.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/buraninstall.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
