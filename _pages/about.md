@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Ted Richard Apel is a sound artist whose sculptures and installations focus on the audio transducing element as the source of visual and sonic material.
+Ted Apel is a sound artist whose sculptures and installations focus on the audio transducing element as the source of visual and sonic material.
 He has exhibited his work at sound art festivals and exhibits including the SoundCulture festival in San Francisco; the Ussachevsky Festival in Claremont, California; the Audio Art Festival in Krakow, Poland; the Sound Symposium in St. John's Newfoundland; the O.K. Center for Contemporary Art in Linz, Austria; and the Academy of Arts, Berlin.
 
 He was twice a prizewinner at the Bourges International Electroacoustic Music Competition for his sound installations; his sound installation received an honorary mention at the Prix Ars Electronica 2001; his sound installation won the grand prize in the 2004 Idaho Triennial; and he won the first annual FETA prize for sound art in 2013.
