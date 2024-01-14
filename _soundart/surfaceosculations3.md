@@ -3,7 +3,7 @@ layout: page
 title: Title
 description: A sound installation 
 img: assets/img/image.jpg
-importance: 5
+importance: 60
 category: soundart
 ---
 

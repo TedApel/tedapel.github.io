@@ -3,7 +3,7 @@ layout: page
 title: Articulations
 description: A sound installation 
 img: assets/img/articulations.jpg
-importance: 5
+importance: 82
 category: soundart
 ---
 

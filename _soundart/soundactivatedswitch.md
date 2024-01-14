@@ -3,7 +3,7 @@ layout: page
 title: Sound Activated Switch
 description: A sound installation 
 img: assets/img/soundactivatedswitch.jpg
-importance: 5
+importance: 88
 category: soundart
 ---
 

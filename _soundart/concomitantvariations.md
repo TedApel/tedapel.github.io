@@ -3,7 +3,7 @@ layout: page
 title: Concomitant Variations
 description: A sound installation 
 img: assets/img/concomitant3.jpg
-importance: 1
+importance: 112
 category: work
 ---
 

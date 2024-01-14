@@ -3,7 +3,7 @@ layout: page
 title: Negated Music Series
 description: A series of video works
 img: assets/img/negatedmusic1.jpg
-importance: 5
+importance: 70
 category: soundart
 ---
 

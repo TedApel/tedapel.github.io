@@ -3,7 +3,7 @@ layout: page
 title: Senses
 description: A sonic sculpture 
 img: assets/img/senses.jpg
-importance: 2
+importance: 96
 category: soundart
 ---
 

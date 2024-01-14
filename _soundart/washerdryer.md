@@ -3,7 +3,7 @@ layout: page
 title: Washer Dryer
 description: A sound sculpture 
 img: assets/img/washerdryer.jpg
-importance: 5
+importance: 84
 category: soundart
 ---
 

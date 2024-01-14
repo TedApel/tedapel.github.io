@@ -3,7 +3,7 @@ layout: page
 title: Trochilics
 description: A sound installation 
 img: assets/img/image.jpg
-importance: 1
+importance: 58
 category: soundart
 ---
 

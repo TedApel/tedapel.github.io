@@ -3,7 +3,7 @@ layout: page
 title: Bell Synchresis
 description: A sound installation 
 img: assets/img/bellsynchresis.jpg
-importance: 5
+importance: 62
 category: soundart
 ---
 

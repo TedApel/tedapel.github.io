@@ -3,7 +3,7 @@ layout: page
 title: Acoustic Space
 description: A sonic sculpture 
 img: assets/img/acousticspace.jpg
-importance: 4
+importance: 100
 category: soundart
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Speaker[lego]
 description: Sculpture 
 img: assets/img/speakerlego.jpg
-importance: 2
+importance: 106
 category: soundart
 ---
 

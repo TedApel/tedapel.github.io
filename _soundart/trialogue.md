@@ -3,7 +3,7 @@ layout: page
 title: Trialogue
 description: A sound installation 
 img: assets/img/trialogue.jpg
-importance: 10
+importance: 72
 category: soundart
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: One and Four Speakers
 description: Sonic Sculpture 
 img: assets/img/oneandfourspeakers1.jpg
-importance: 2
+importance: 104
 category: soundart
 ---
 

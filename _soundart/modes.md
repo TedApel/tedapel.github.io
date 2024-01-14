@@ -3,7 +3,7 @@ layout: page
 title: Modes
 description: A sound sculpture 
 img: assets/img/modes1.jpg
-importance: 2
+importance: 102
 category: soundart
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Mirror Music Box
 description: A sound installation 
 img: assets/img/mirrormusicbox2.jpg
-importance: 10
+importance: 98
 category: soundart
 ---
 

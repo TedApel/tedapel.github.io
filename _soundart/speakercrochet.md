@@ -3,7 +3,7 @@ layout: page
 title: Speaker [crochet]
 description: A sound sculpture 
 img: assets/img/speakercrochet.jpg
-importance: 5
+importance: 86
 category: soundart
 ---
 

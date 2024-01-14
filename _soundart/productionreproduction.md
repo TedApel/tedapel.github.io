@@ -3,7 +3,7 @@ layout: page
 title: Production Reproduction
 description: A sound sculpture 
 img: assets/img/production.jpg
-importance: 2
+importance: 92
 category: soundart
 ---
 

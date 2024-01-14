@@ -3,7 +3,7 @@ layout: page
 title: Response Characters
 description: A sound installation 
 img: assets/img/responsecharacters.jpg
-importance: 2
+importance: 94
 category: soundart
 ---
 

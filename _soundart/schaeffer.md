@@ -3,7 +3,7 @@ layout: page
 title: Schaeffer
 description: Sculpture 
 img: assets/img/schaeffer.jpg
-importance: 2
+importance: 108
 category: soundart
 ---
 
