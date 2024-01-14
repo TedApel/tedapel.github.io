@@ -37,7 +37,7 @@ horizontal: false
 
 {%- else -%}
 <!-- Display projects without categories -->
-  {%- assign sorted_soundart = site.soundart | sort: "importance" -%}
+  {%- assign sorted_soundart = site.soundart | sort: "importance" | reverse %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
