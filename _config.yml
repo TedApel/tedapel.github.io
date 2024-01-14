@@ -132,7 +132,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false # Changed to false by Ted Apel Jan 2024
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
