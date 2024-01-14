@@ -1,13 +1,20 @@
 ---
 layout: page
-title: Title
+title: Mobile 4
 description: A sound installation 
 img: assets/img/image.jpg
 importance: 10
 category: soundart
 ---
 
-Text
+Four tubes with speakers are hung as a mobile. Four channel tape composition created on the Samson Box at CCRMA.
+
+    Play a sample of Mobile 4.
+    <audio controls="controls" >
+	<source src="sound/mobile4.ogg" type="audio/ogg"/>
+	<source src="sound/mobile4.mp3" type="audio/mpeg"/>
+    </audio>
+
 
 
 
@@ -19,14 +26,7 @@ Text
 <div class="caption">
     Mobile 4, a sound installation - Ted Apel - heating ducts, speakers, computer generated sound
 
-    Four tubes with speakers are hung as a mobile. Four channel tape composition created on the Samson Box at CCRMA.
-
-    Play a sample of Mobile 4.
-    <audio controls="controls" >
-	<source src="sound/mobile4.ogg" type="audio/ogg"/>
-	<source src="sound/mobile4.mp3" type="audio/mpeg"/>
-    </audio>
-
+    
 </div>
 
 
