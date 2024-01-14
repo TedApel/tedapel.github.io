@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: project 8
+description: a project with no image
 img:
-importance: 4
+importance: 8
 category: work
 ---
 
