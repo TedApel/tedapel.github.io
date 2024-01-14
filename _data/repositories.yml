@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - tedapel
+ 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - tedapel/Raspberry-Pi-Eurorack-Panel
+  - tedapel/Max-Stable-Transient
