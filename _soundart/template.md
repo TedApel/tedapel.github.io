@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Title
+title: Template
 description: A sound installation 
 img: assets/img/image.jpg
 importance: 5
@@ -17,7 +17,7 @@ Text
     </div>
 </div>
 <div class="caption">
-    Title, a sound installation - Ted Apel - Arduinos, electronics, speakers, sound
+    Title, a sound installation - Ted Apel - Materials
 
 </div>
 
