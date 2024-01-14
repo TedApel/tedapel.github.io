@@ -3,7 +3,7 @@ layout: page
 title: String Quartet no. 1
 description: A sound installation 
 img: assets/img/stringquartetone.jpg
-importance: 50
+importance: 78
 category: soundart
 ---
 
