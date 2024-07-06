@@ -3,7 +3,7 @@ layout: page
 title: Template
 description: A sound installation 
 img: assets/img/portraitofmalleus.jpg
-importance: 5
+importance: 22
 category: soundart
 ---
 
