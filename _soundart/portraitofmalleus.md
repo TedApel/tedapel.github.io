@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Template
+title: Portrait of Malleus
 description: A sound installation 
 img: assets/img/portraitofmalleus.jpg
 importance: 22
