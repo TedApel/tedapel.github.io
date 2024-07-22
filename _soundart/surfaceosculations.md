@@ -2,7 +2,7 @@
 layout: page
 title: Surface Osculations
 description: A sound installation 
-img: assets/img/surfaceosculations1a.jpg
+img: assets/img/surfaceosculations1a_768.jpg
 importance: 24
 category: soundart
 ---
@@ -17,7 +17,7 @@ I originally began experimenting with metal plates as an attempt to introduce "e
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/surfaceosculations1a.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/surfaceosculations1a.jpg" title="Surface Osculations" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
