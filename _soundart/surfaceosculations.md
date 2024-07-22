@@ -3,7 +3,7 @@ layout: page
 title: Surface Osculations
 description: A sound installation 
 img: assets/img/osculations1a.jpg
-importance: 60
+importance: 24
 category: soundart
 ---
 
