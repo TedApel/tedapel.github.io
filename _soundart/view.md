@@ -10,14 +10,13 @@ category: soundart
 A light rain started the first night I was in Berlin. I recorded the sound from a courtyard window. I altered this recording to accent prominent droplet sounds and mixed it with the original recording. This is a four channel installation for an outdoor courtyard. Play two channel version of Wenke's View.
 
 Play two channel version of Wenke's View. 
-</p>
+
 	<audio controls="controls" >
 	<source src="sound/WenkesView.ogg" type="audio/ogg"/>
 	<source src="sound/WenkesView.mp3" type="audio/mpeg"/>
 	html5 browsers only.</audio>
 	
-	
-</div>
+
 
 
 
