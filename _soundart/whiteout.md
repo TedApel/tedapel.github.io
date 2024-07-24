@@ -3,7 +3,7 @@ layout: page
 title: Whiteout
 description: A sound installation 
 img: assets/img/whiteout.jpg
-importance: 64
+importance: 58
 category: soundart
 ---
 
