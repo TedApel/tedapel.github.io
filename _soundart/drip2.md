@@ -3,7 +3,7 @@ layout: page
 title: Drip#2
 description: A sound installation 
 img: assets/img/drip21.jpg
-importance: 66
+importance: 60
 category: soundart
 ---
 
