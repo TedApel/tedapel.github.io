@@ -3,7 +3,7 @@ layout: page
 title: Call and Resonance
 description: A sound installation 
 img: assets/img/callandresonance1.jpg
-importance: 68
+importance: 62
 category: soundart
 ---
 
