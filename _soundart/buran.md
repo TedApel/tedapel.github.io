@@ -3,7 +3,7 @@ layout: page
 title: Бура́н (Buran)
 description: A video and sound installation, Amanda Hamilton and Ted Apel
 img: assets/img/buraninstallS_768.jpg
-importance: 76
+importance: 70
 category: soundart
 ---
 
