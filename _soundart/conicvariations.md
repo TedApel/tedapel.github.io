@@ -19,6 +19,9 @@ Conic Variations is a sound installation in which cardboard conic sections are u
         {% include figure.liquid path="assets/img/conic02.png" title="Title" class="img-fluid rounded z-depth-1" %}
     </div>
 
+</div>
+
+<div class="row">
      <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/conic03.png" title="Title" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -26,7 +29,6 @@ Conic Variations is a sound installation in which cardboard conic sections are u
      <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/conic04.png" title="Title" class="img-fluid rounded z-depth-1" %}
     </div>
-
 
 </div>
 <div class="caption">
