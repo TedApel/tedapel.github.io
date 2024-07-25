@@ -16,6 +16,7 @@ Michael Chion's three listening modes are evoked with a causal speaker, a set of
     
         {% include figure.liquid path="assets/img/modes2.jpg" title="example image" class="img-fluid  z-depth-1" %}
 
+
         {% include figure.liquid path="assets/img/modes3.jpg" title="example image" class="img-fluid  z-depth-1" %}
 
 
