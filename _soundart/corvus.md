@@ -25,6 +25,3 @@ html5 browsers only.
     Corvus Brachyrhynchos Chimes, a sound installation - Ted Apel - sound
 
 </div>
-
-
-

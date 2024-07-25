@@ -1,15 +1,13 @@
 ---
 layout: page
 title: Drip#2
-description: A sound installation 
+description: A sound installation
 img: assets/img/drip21.jpg
 importance: 60
 category: soundart
 ---
 
 A continuous drip of water is presented using a separatory funnel and water basin. The sound of the water droplet slowly becomes out of sync with the droplet hitting the water.
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,6 +18,3 @@ A continuous drip of water is presented using a separatory funnel and water basi
     Drip #2, a sound installation - Ted Apel - Sepratory funnel, water, water basin, electronics, sound
 
 </div>
-
-
-

@@ -1,15 +1,11 @@
 ---
 layout: page
 title: Potential Difference
-description: A sound installation 
+description: A sound installation
 img: assets/img/potential02.jpg
 importance: 30
 category: soundart
 ---
-
-
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -27,8 +23,6 @@ The cultural and economic impact of the light bulb has been incomparably greater
 
 The light bulb is not meant to be looked at, but to illuminate objects and spaces. The loudspeaker is similarly not designed as a focus of visual or sonic attention. It is designed to invisibly reproduce a sonic environment independent of the loudspeaker. In this installation the filament is the focus of visual attention and the piezoelectric element is the focus of sonic attention. In this way, the meaning of the sounds cannot be separated from how they are transduced. The installation attempts to use the cultural significance of the light bulb and the specific technologies of the filament and the piezoelectric element to expand the context in which we understand and experience sound.
 
-
-
 The Goethe Institut in Krakow, Poland Audio Art Festival 1999.
 Cal Arts CEAIT Electronic Music Festival 2000.
 Received an honorary mention in Prix Ars Electronica 2001.
@@ -39,4 +33,3 @@ invisible.other, New American Art Union, Portland, Oregon. April 2007
 
 <iframe src="https://player.vimeo.com/video/22675030?h=225e97511e" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/22675030">Potential Difference</a> from <a href="https://vimeo.com/vud">Ted Apel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-

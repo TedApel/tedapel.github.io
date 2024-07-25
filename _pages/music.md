@@ -2,8 +2,7 @@
 layout: page
 permalink: /music/
 title: music
-description: 
+description:
 nav: true
 nav_order: 2
 ---
-

@@ -9,8 +9,6 @@ category: soundart
 
 Laptop improvisation in Kuna Caves
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/kunabw.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
@@ -29,8 +27,8 @@ html5 browsers only.</audio>
 <p>
 
 Listen to the Jude Mix.
+
 </p>
 <audio controls="controls" >
 	<source src="../../assets/sound/KunaCavesJudeMix.mp3" type="audio/mpeg"/>
 	html5 browsers only.</audio>
-

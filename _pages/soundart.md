@@ -2,12 +2,11 @@
 layout: page
 permalink: /soundart/
 title: sound art
-description: 
+description:
 nav: true
 nav_order: 1
 horizontal: false
 ---
-
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -36,10 +35,15 @@ horizontal: false
   {% endfor %}
 
 {%- else -%}
+
 <!-- Display projects without categories -->
-  {%- assign sorted_soundart = site.soundart | sort: "importance" | reverse %}
+
+{%- assign sorted_soundart = site.soundart | sort: "importance" | reverse %}
+
   <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
+
+{% if page.horizontal -%}
+
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_soundart -%}

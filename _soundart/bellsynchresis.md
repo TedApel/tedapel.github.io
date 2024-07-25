@@ -1,15 +1,13 @@
 ---
 layout: page
 title: Bell Synchresis
-description: A sound installation 
+description: A sound installation
 img: assets/img/bellsynchresis.jpg
 importance: 56
 category: soundart
 ---
 
 Two loudspeakers, one is electromagnetically shaken to cause two bells to sound, the other plays the sound of bells. Two doll house loudspeakers serve as the synchretic source of the recorded bell sounds. Synchresis is defined by Michel Chion as the "spontaneous and irresistible mental fusion ... that happens between a sound and a visual when these occur at exactly the same time."
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,6 +20,3 @@ Two loudspeakers, one is electromagnetically shaken to cause two bells to sound,
     Southwestern College, March 2007.
 
 </div>
-
-
-

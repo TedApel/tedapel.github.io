@@ -2,8 +2,7 @@
 layout: page
 permalink: /eurorack/
 title: eurorack
-description: 
+description:
 nav: true
 nav_order: 3
 ---
-

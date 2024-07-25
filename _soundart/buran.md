@@ -20,7 +20,3 @@ https://amandahamiltonart.com/section/165641_BURAN.html
     Title, a sound installation - Amanda Hamilton and Ted Apel - 7 channel video with 3 audio tracks 21" x 21" x 8'
 
 </div>
-
-
-
-
