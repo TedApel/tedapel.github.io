@@ -2,7 +2,7 @@
 layout: page
 title: Corvus Brachyrhynchos Chimes
 description: Field sound recording installed as permanent part of Terry Allen's Trees installation of the Stuart Collection at UCSD.
-img: assets/img/corvussvg_768
+img: assets/img/corvus1a_768.jpg
 importance: 40
 category: soundart
 ---
@@ -18,7 +18,7 @@ html5 browsers only.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/corvussvg_768" title="corvus" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/corvus1a_768.jpg" title="corvus" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
