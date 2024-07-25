@@ -7,6 +7,11 @@ nav: true
 nav_order: 5
 ---
 
+**Fall 2024**  
+Boise State University  
+GIMM 270 Interactive Audio and Video (two sections)  
+GIMM 280 Interactive Physical Computing (two sections) 
+
 **Spring 2024**  
 Boise State University  
 GIMM 290 Game Design Theory (two sections)  
