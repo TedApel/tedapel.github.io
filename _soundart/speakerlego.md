@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Speaker[lego]
-description: Sculpture 
+description: Sculpture
 img: assets/img/speakerlego.jpg
 importance: 106
 category: soundart
 ---
 
 A representation of a loudspeaker built from lego blocks.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,6 +18,3 @@ A representation of a loudspeaker built from lego blocks.
     Speaker[lego], a sonic sculpture - Ted Apel - lego
 
 </div>
-
-
-

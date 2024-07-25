@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sound Activated Switch
-description: A sound installation 
+description: A sound installation
 img: assets/img/soundactivatedswitch.jpg
 importance: 88
 category: soundart
@@ -20,6 +20,3 @@ The Unfinished show catalog can be purchased here [Unfinished](http://www.blurb.
     Sound Activated Switch, a sound sculpture - Ted Apel - sound activated stitches, electronics, piezo speakers, sound
 
 </div>
-
-
-

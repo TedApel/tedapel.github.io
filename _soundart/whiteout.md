@@ -1,15 +1,13 @@
 ---
 layout: page
 title: Whiteout
-description: A sound installation 
+description: A sound installation
 img: assets/img/whiteout.jpg
 importance: 58
 category: soundart
 ---
 
 A site specific installation in which a recording of ambient sounds in a space are averaged over long periods of time. These averaged sounds are mixed with the original recording and played back with a loudspeaker made of paper.
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,6 +19,3 @@ A site specific installation in which a recording of ambient sounds in a space a
     Visual Arts Center, Boise State University, August-September 2007
 
 </div>
-
-
-

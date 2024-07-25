@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Surface Osculations
-description: A sound installation 
+description: A sound installation
 img: assets/img/surfaceosculations1a_768.jpg
 importance: 24
 category: soundart
@@ -13,8 +13,6 @@ I originally began experimenting with metal plates as an attempt to introduce "e
 
 "surface osculations" involves a dialog between the rich sonic and visual textures of the plates. The viewer/listener's perception is formed as the visual and aural senses inform one another. The timbre of the sounds may be perceived as "metallic," "diffuse,"; these perceptions are enhanced by one's understanding of the physical qualities of the plate, such as the characteristics of its size and surface. The visual elements can be thought of as mediating the sounds and the human cognition of the sounds.
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/surfaceosculations1a.jpg" title="Surface Osculations" class="img-fluid rounded z-depth-1" %}
@@ -23,13 +21,9 @@ I originally began experimenting with metal plates as an attempt to introduce "e
 <div class="caption">
     Surface Osculations, a sound installation - Ted Apel - Steel, electronics, sound
 
-
 </div>
-
 
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
       <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/29014526?h=9d19dac7ab" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 </div>
-
-

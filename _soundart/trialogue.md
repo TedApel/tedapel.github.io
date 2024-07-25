@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trialogue
-description: A sound installation 
+description: A sound installation
 img: assets/img/trialogue.jpg
 importance: 66
 category: soundart
@@ -20,6 +20,3 @@ Merge Visual, Macon Museum Of Arts And Sciences, Macon, GA. Sept.-Nov. 2008.
     Trialogue, a sound installation - Ted Apel - organ pipes, speakers, computer, software
 
 </div>
-
-
-

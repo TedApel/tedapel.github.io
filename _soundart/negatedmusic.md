@@ -13,8 +13,6 @@ The video works of the Negated Music Series examine the sounds of musical instru
 
 Musical works take place through the continuous unfolding of sound through time. The specific conception of sonic negation presented here highlights the absent presence of a sound. The new sounds negate the continuous presence of sound and through this process suggest a negation of music’s primary condition of existence.
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/negatedmusic1.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
@@ -24,6 +22,3 @@ Musical works take place through the continuous unfolding of sound through time.
     Negated Music Series, A series of video works - Ted Apel
 
 </div>
-
-
-

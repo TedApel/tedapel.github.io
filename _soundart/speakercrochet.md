@@ -1,15 +1,13 @@
 ---
 layout: page
 title: Speaker [crochet]
-description: A sound sculpture 
+description: A sound sculpture
 img: assets/img/speakercrochet.jpg
 importance: 86
 category: soundart
 ---
 
 A loudspeaker with a crocheted speaker cone.
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,6 +18,3 @@ A loudspeaker with a crocheted speaker cone.
     Title, a sound sculpture - Ted Apel and Janice Neri - speaker, wool
 
 </div>
-
-
-

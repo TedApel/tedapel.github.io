@@ -1,7 +1,7 @@
 ---
 layout: page
 title: notefromthegreenbox
-description: A sound sculpture 
+description: A sound sculpture
 img: assets/img/greenbox2_768.jpg
 importance: 44
 category: soundart
@@ -18,6 +18,3 @@ A pair of ice-tongs as is used as a Readymade. A recording of my installing the 
     Note from the Green Box, a sound sculpture - Ted Apel - Ice tongs, speaker, electronics, sound
 
 </div>
-
-
-

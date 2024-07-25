@@ -1,15 +1,13 @@
 ---
 layout: page
 title: Senses
-description: A sonic sculpture 
+description: A sonic sculpture
 img: assets/img/senses.jpg
 importance: 96
 category: soundart
 ---
 
 The traditional five senses depicted in the context of the loudspeaker.
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,6 +18,3 @@ The traditional five senses depicted in the context of the loudspeaker.
     Senses, a sonic sculpture - Ted Apel - sandpaper, fruit, mirror, loudspeaker, perfume bottle top
 
 </div>
-
-
-

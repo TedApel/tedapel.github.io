@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Washer Dryer
-description: A sound sculpture 
+description: A sound sculpture
 img: assets/img/washerdryer.jpg
 importance: 84
 category: soundart
 ---
 
 Two small loudspeakers produce the sound of a clothes washer and dryer. A viewer's visual experience of the piece is transformed by the sound of the washer and dryer. The sound creates a space for reinterpretation of the physicality of the speaker boxes as washing and drying machines. The object's initial strong identity as a loudspeaker is put into flux by the sonic signifiers of the piece.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,6 +19,3 @@ Two small loudspeakers produce the sound of a clothes washer and dryer. A viewer
 Sound Through Barriers, April 2012, Fort Collins, Colorado.
 
 </div>
-
-
-
