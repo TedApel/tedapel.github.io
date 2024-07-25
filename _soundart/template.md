@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Template
-description: A sound installation
+description: A sound installation 
 img: assets/img/image.jpg
 importance: 5
 category: soundart
 ---
 
 Text
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -18,3 +20,6 @@ Text
     Title, a sound installation - Ted Apel - Materials
 
 </div>
+
+
+
