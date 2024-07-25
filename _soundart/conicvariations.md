@@ -2,7 +2,7 @@
 layout: page
 title: Conic Variations
 description: A sound installation 
-img: assets/img/conic01a.jpg
+img: assets/img/conic01a.png
 importance: 118
 category: soundart
 ---
@@ -12,19 +12,19 @@ Conic Variations is a sound installation in which cardboard conic sections are u
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/conic01.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/conic01.png" title="Title" class="img-fluid rounded z-depth-1" %}
     </div>
 
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/conic02.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/conic02.png" title="Title" class="img-fluid rounded z-depth-1" %}
     </div>
 
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/conic03.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/conic03.png" title="Title" class="img-fluid rounded z-depth-1" %}
     </div>
 
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/conic04.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/conic04.png" title="Title" class="img-fluid rounded z-depth-1" %}
     </div>
 
 
