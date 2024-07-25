@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 **Fall 2024**  
-Boise State University  
+ Boise State University  
 GIMM 270 Interactive Audio and Video (two sections)  
 GIMM 280 Interactive Physical Computing (two sections) 
 
