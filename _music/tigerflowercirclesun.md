@@ -23,27 +23,3 @@ by Ted Apel / Christopher Willits
 [Tiger Flower Circle Sun](https://overlap.bandcamp.com/track/tiger-flower-circle-sun-ted-apel-remix)
 
 	
-	
-1. Intently 09:51
-
-2. Shepherd 06:20
-
-3. Tendency 05:11
-
-4. Earmarks 04:53
-
-5. Bindings 14:02
-
-6. Shoehorn 11:04
-
-7. Pandanus 05:28
-
-
-Handmade instruments and electronics.
-credits
-released November 30, 2015
-
-cover Jonathan Sadler
-
-
-
