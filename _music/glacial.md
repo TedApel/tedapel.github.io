@@ -20,7 +20,8 @@ Glacial Evidence - Athabaska
 </div>
 
 Ted Apel and Scott Crocker
-1994 LP
+1984 
+LP
 
 Side 1
 
