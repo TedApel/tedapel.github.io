@@ -1,6 +1,6 @@
 ---
 layout: page
-title: call-151.
+title: call-151
 description: Album
 img: assets/img/call-151.jpg
 importance: 16
