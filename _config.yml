@@ -177,6 +177,12 @@ collections:
   soundart:
     output: true
     permalink: /soundart/:path/
+  music:
+    output: true
+    permalink: /music/:path/
+    eurorack:
+    output: true
+    permalink: /eurorack/:path/
 
 announcements:
   enabled: true
