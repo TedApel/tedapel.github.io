@@ -180,7 +180,7 @@ collections:
   music:
     output: true
     permalink: /music/:path/
-    eurorack:
+  eurorack:
     output: true
     permalink: /eurorack/:path/
 
