@@ -2,7 +2,7 @@
 layout: page
 title: Stiction
 description: digital album
-img: assets/img/apospory.jpg
+img: assets/img/stiction.jpg
 importance: 22
 category: music
 ---
