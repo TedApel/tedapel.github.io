@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vud.org/sitemap.xml
+Sitemap: https://tedapel.github.io/sitemap.xml
