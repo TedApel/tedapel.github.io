@@ -62,7 +62,7 @@
       "startDate": "2013",
       "endDate": "2015",
       "highlights": [
-        "Courses: CMPO 181: Introduction to Music Technology",
+        "CMPO 181: Introduction to Music Technology",
         "CMPO 211: Creative Projects in Interactive Sonic Arts",
         "CMPO 281: Computer Music Programming for Live Electronics",
         "CMPO 311: Advanced Projects in Interactive Sonic Arts"
@@ -86,6 +86,17 @@
       "highlights": [
         "Art 298: Seminar: Contemporary Art Theory",
         "Art 305: Studio in Visual Design: New Media Art"
+      ]
+    },
+
+    {
+      "name": "Boise State University, Department of Music",
+      "position": "Adjunct Faculty",
+      "startDate": "2005",
+      "endDate": "2012",
+      "highlights": [
+        "Music 312: Introduction to Computer Music (8 semesters)",
+        "Music 512: Electronic Music Applications (2 semesters)"
       ]
     },
     {
