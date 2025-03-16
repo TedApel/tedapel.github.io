@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harmonic Series Generator (v1.5)</title>
+</head>
+<body>
+    <h1>Harmonic Series Sound v1.5</h1>
+    <button id="start">Start</button>
+    <button id="stop">Stop</button>
+
+    <script>
+        let audioContext;
+        let running = false;
+        let baseFreq = 100; // Fundamental frequency
+        let numOvertones = Math.floor(Math.random() * 9) + 6; // Random number of harmonics between 6 and 14 // Number of harmonics
+        let currentHarmonic = 1; // Start at the first harmonic
+        let goingUp = true; // Direction: true = ascending, false = descending
+        let baseTempo = 6.6; // Base tempo in seconds (controls the overall timing)
+        let speedMultipliers = [0.5, 1, 2, 4]; // Allowed tempo multipliers
+        let instanceSpeed = baseTempo * speedMultipliers[Math.floor(Math.random() * speedMultipliers.length)]; // Pick one speed for this session
+        
+        function startAudio() {
+            if (!audioContext) {
+                audioContext = new (window.AudioContext || window.webkitAudioContext)();
+            }
+            if (running) return;
+            running = true;
+
+            function playNextHarmonic() {
+                if (!running) return;
+
+                let osc = audioContext.createOscillator();
+                let gainNode = audioContext.createGain();
+
+                let freq = baseFreq * currentHarmonic; // Compute harmonic frequency
+                osc.frequency.value = freq;
+                osc.type = "sawtooth"; // Hybrid approach: richer harmonics
+                osc.connect(gainNode);
+                let filter = audioContext.createBiquadFilter();
+                filter.type = "bandpass"; // Sharper filtering to isolate harmonics
+                filter.frequency.value = freq; // Center frequency at harmonic pitch for violin-like tone // Adjusted to shape harmonics
+                filter.Q.value = 20; // High Q factor for sharper filtering
+                gainNode.connect(filter);
+                filter.connect(audioContext.destination);
+
+                gainNode.gain.setValueAtTime(0, audioContext.currentTime); // Start silent
+                
+                let fadeInTime = instanceSpeed * 0.03; // Even shorter attack, but smoother // Sharper attack // Smooth but fast attack
+                let sustainTime = instanceSpeed * 0.45; // Slightly reduced sustain for balance // Shorter sustain // Most of the time is sustain
+                let fadeOutTime = instanceSpeed * 0.1; // Faster decay, but smoother // Faster decay // Slow, natural fade-out
+
+                let now = audioContext.currentTime;
+
+                // Fade-in
+                gainNode.gain.linearRampToValueAtTime(0.4, now + fadeInTime);
+
+                // Sustain
+                gainNode.gain.setValueAtTime(0.4, now + fadeInTime + sustainTime);
+
+                // Fade-out
+                gainNode.gain.linearRampToValueAtTime(0, now + fadeInTime + sustainTime + fadeOutTime);
+
+                osc.start(now);
+                osc.stop(now + fadeInTime + sustainTime + fadeOutTime);
+
+                // Decide next harmonic in sequence
+                if (goingUp) {
+                    currentHarmonic++;
+                    if (currentHarmonic > numOvertones) {
+                        goingUp = false; // Switch direction
+                        currentHarmonic = numOvertones; // Stay at top before descending
+                    }
+                } else {
+                    currentHarmonic--;
+                    if (currentHarmonic < 1) {
+                        goingUp = true; // Switch direction
+                        currentHarmonic = 1; // Stay at bottom before ascending
+                    }
+                }
+
+                // Schedule next harmonic
+                setTimeout(playNextHarmonic, instanceSpeed * 1000);
+            }
+
+            playNextHarmonic(); // Start sequence
+        }
+
+        function stopAudio() {
+            running = false;
+        }
+
+        document.getElementById("start").addEventListener("click", startAudio);
+        document.getElementById("stop").addEventListener("click", stopAudio);
+    </script>
+</body>
+</html>
