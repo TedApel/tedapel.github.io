@@ -14,10 +14,10 @@
         let audioContext;
         let running = false;
         let baseFreq = 100; // Fundamental frequency
-        let numOvertones = Math.floor(Math.random() * 9) + 6; // Random number of harmonics between 6 and 14 // Number of harmonics
+        let numOvertones = Math.floor(Math.random() * 9) + 10; // Random number of harmonics between 6 and 14 // Number of harmonics
         let currentHarmonic = 1; // Start at the first harmonic
         let goingUp = true; // Direction: true = ascending, false = descending
-        let baseTempo = 6.6; // Base tempo in seconds (controls the overall timing)
+        let baseTempo = 2.6; // Base tempo in seconds (controls the overall timing)
         let speedMultipliers = [0.5, 1, 2, 4]; // Allowed tempo multipliers
         let instanceSpeed = baseTempo * speedMultipliers[Math.floor(Math.random() * speedMultipliers.length)]; // Pick one speed for this session
         
