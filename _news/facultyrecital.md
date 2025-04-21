@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-04-18
-inline: true
+inline: false
 related_posts: false
 ---
 Faculty Artist Series Recital Dr. Kramer Milan, percussion Dr. Ted Apel, electronics. Works by John Luther Adams, Heinrich Bieber, John Cage, Ted Apel and Kramer Milan. 
