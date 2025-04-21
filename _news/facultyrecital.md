@@ -9,7 +9,12 @@ Faculty Artist Series Recital Dr. Kramer Milan, percussion Dr. Ted Apel, electro
 
 Morrison Center Recital Hall, 7:30pm
 
-<a href="https://www.youtube.com/watch?v=7ioPXqNmRMw&t=2933s>
+
+  {% include figure.liquid path="assets/img/facultyartistrecital.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+
+
+
+<a href="https://www.youtube.com/watch?v=7ioPXqNmRMw&t=2933s">Faculty Artist Series Recital
 
 
 
