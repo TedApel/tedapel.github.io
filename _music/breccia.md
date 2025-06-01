@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Breccia
-description: Group
-img: assets/img/call-151.jpg
+description: an experimental music ensemble
+img: assets/img/breccia.jpg
 importance: 16
 category: music
 ---
@@ -17,7 +17,6 @@ category: music
 an experimental music ensemble
 
 </div>
-
 
 
 Brittany McConnell - Violin
