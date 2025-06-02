@@ -20,22 +20,14 @@ an experimental music ensemble
 
 ## Members
 
-Brittany McConnell - Violin
-
-Gretchen Jude - Koto, Melodica, Shamisen, Voice
-
-Jeff Rice - Saxophone
-
-Jessie Proksa - Cello
-
-Joel Delight - Flute
-
-Melissa Wilson - Cello
-
-Ted Apel - Clarinet
-
-William Lewis - Guitar, Melodica
-
+Brittany McConnell - Violin  
+Gretchen Jude - Koto, Melodica, Shamisen, Voice  
+Jeff Rice - Saxophone  
+Jessie Proksa - Cello  
+Joel Delight - Flute  
+Melissa Wilson - Cello  
+Ted Apel - Clarinet  
+William Lewis - Guitar, Melodica  
 
 ## Repertoire
 
