@@ -31,31 +31,21 @@ William Lewis - Guitar, Melodica
 
 ## Repertoire
 
-Christian Wolff, Stones, Exercise 16
-
-Tom Phillips, Ornamentik
-
-Alvin Lucier, Crossings, for small orchestra with slow-sweep pure wave oscillator
-
-Terry Riley, In C
-
-Michael Pisarro, The Collection
-
-James Tenney, Swell Piece No. 2
-
-Gavin Bryars, Jesus' Blood Never Failed Me Yet
-
-Lynn Goldsmith, Adventures in Success
-
-Frederic Rzewski, Les Moutons de Panurge
+Christian Wolff, Stones, Exercise 16  
+Tom Phillips, Ornamentik  
+Alvin Lucier, Crossings, for small orchestra with slow-sweep pure wave oscillator  
+Terry Riley, In C  
+Michael Pisarro, The Collection  
+James Tenney, Swell Piece No. 2  
+Gavin Bryars, Jesus' Blood Never Failed Me Yet  
+Lynn Goldsmith, Adventures in Success  
+Frederic Rzewski, Les Moutons de Panurge  
 
 ## Performances
 
-Offset, Visual Arts Collective, April 27, 2006.
-
-Boise Experimental Music Festival, Visual Arts Collective, April 29, 2006.
-
-Contemporary Artists Exhibit, 814 Idaho Street, May 4, 2006.
+Offset, Visual Arts Collective, April 27, 2006.  
+Boise Experimental Music Festival, Visual Arts Collective, April 29, 2006.  
+Contemporary Artists Exhibit, 814 Idaho Street, May 4, 2006.  
 
 
 
