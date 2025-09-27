@@ -38,7 +38,7 @@
   ],
   "work": [
     {
-      "name": "Boise State University, GIMM (Games, Interactive Media, and Mobile Technology)",
+      "company": "Boise State University, GIMM (Games, Interactive Media, and Mobile Technology)",
       "position": "Clinical Associate Professor",
       "startDate": "2022",
       "endDate": "Present",
@@ -51,13 +51,13 @@
       ]
     },
     {
-      "name": "Boise State University, GIMM (Games, Interactive Media, and Mobile Technology)",
+      "company": "Boise State University, GIMM (Games, Interactive Media, and Mobile Technology)",
       "position": "Clinical Assistant Professor",
       "startDate": "2016",
       "endDate": "2022"
     },
     {
-      "name": "University of Wellington, School of Music, New Zealand",
+      "company": "University of Wellington, School of Music, New Zealand",
       "position": "Assistant Professor of Sonic Arts and Electronic Music",
       "startDate": "2013",
       "endDate": "2015",
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Boise State University, College of Engineering",
+      "company": "Boise State University, College of Engineering",
       "position": "Adjunct Faculty",
       "startDate": "2010",
       "endDate": "2012",
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "Boise State University, Art Department",
+      "company": "Boise State University, Art Department",
       "position": "Adjunct Faculty",
       "startDate": "2006",
       "endDate": "2012",
@@ -88,9 +88,8 @@
         "Art 305: Studio in Visual Design: New Media Art"
       ]
     },
-
     {
-      "name": "Boise State University, Department of Music",
+      "company": "Boise State University, Department of Music",
       "position": "Adjunct Faculty",
       "startDate": "2005",
       "endDate": "2012",
@@ -100,20 +99,20 @@
       ]
     },
     {
-      "name": "Center for Research in Computing and the Arts, University of California, San Diego",
+      "company": "Center for Research in Computing and the Arts, University of California, San Diego",
       "position": "Technical Director",
       "startDate": "1997",
       "endDate": "2004",
       "summary": "Developed and maintained technical infrastructure for research projects."
     },
     {
-      "name": "LifeLike Productions",
+      "company": "LifeLike Productions",
       "position": "Video Game Audio Programmer",
       "startDate": "1995",
       "endDate": "1996"
     },
     {
-      "name": "Music Annex Recording Studios",
+      "company": "Music Annex Recording Studios",
       "position": "Video Game and Electronic Toy Sound Designer and Audio Programmer",
       "startDate": "1993",
       "endDate": "1995",
@@ -153,83 +152,4 @@
     {
       "name": "Open Source Contributions",
       "description": "Developed sigmund~, fiddle~, bonk~, centroid~ audio tools for Max/MSP, Pd, and Max for Live.",
-      "url": "http://vud.org/max/"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Programming",
-      "keywords": ["C", "C#", "Python", "HTML", "CSS", "LaTeX", "Markdown"]
-    },
-    {
-      "name": "Audio Programming",
-      "keywords": ["Max/MSP", "Pd", "ChucK", "Faust", "Supercollider"]
-    },
-    {
-      "name": "Graphics Programming",
-      "keywords": ["Unity", "Processing"]
-    }
-  ],
-  "publications": [
-    {
-      "name": "Negated Sound Analysis-Synthesis",
-      "date": "2024",
-      "publisher": "Speculative Sound Synthesis Symposium",
-      "summary": "Presented at Graz, Austria, 2024."
-    },
-    {
-      "name": "Portable Real-time Volcano Infrasound Auditory Display Devices",
-      "date": "2021",
-      "publisher": "26th International Conference on Auditory Display"
-    },
-    {
-      "name": "Feature Preservation and Negated Music in a Phase Vocoder Sound Representation",
-      "date": "2008",
-      "publisher": "University of California, San Diego",
-      "summary": "Ph.D. Dissertation"
-    },
-    {
-      "name": "Transformation of Audio Signals by use of the McAulay-Quatieri Sinusoidal Model of Sound",
-      "date": "1993",
-      "publisher": "Dartmouth College",
-      "summary": "M.A. Thesis"
-    },
-    {
-      "name": "Thin Layer Liquid Acoustical Filters",
-      "date": "1990",
-      "publisher": "Pomona College",
-      "summary": "B.A. Thesis"
-    }
-  ],
-  "volunteer": [],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Sound Art and Technology",
-      "keywords": ["Audio Programming", "Interactive Media"]
-    }
-  ],
-  "references": [],
-  "projects_and_exhibitions": [
-    {
-      "category": "Solo Exhibitions",
-      "entries": [
-        {
-          "title": "Organ Trio",
-          "date": "2024",
-          "location": "Ussachevsky Electronic Music Festival, Claremont, CA"
-        },
-        {
-          "title": "The Only Thing We Have to Fear",
-          "date": "2021",
-          "location": "The Green Box, Surel's Place, Boise, Idaho"
-        }
-      ]
-    }
-  ]
-}
+      "url": "http://
