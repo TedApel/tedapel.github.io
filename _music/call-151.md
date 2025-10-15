@@ -25,8 +25,8 @@ CALL-151 is an electronic music ensemble comprised of Ted Apel, Patrick Benolkin
 Listen to Track 1 of the 6 tracks of "5:5 6:5 7:5 8:5 9:5".
 	
 <audio controls="controls" >
-	<source src="sound/Call-151Track01.ogg" type="audio/ogg"/>
-	<source src="sound/Call-151Track01.mp3" type="audio/mpeg"/>
+	<source src="assets/sound/Call-151Track01.ogg" type="audio/ogg"/>
+	<source src="assets/sound/Call-151Track01.mp3" type="audio/mpeg"/>
 html5 browsers only.</audio>
 
 This limited to 100 edition CD-R is available for purchase for $15.00 including shipping. Payment by Paypal only. Click below to purchase. 

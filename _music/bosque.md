@@ -40,10 +40,10 @@ Light Monochromatic Line (1991)
 The Thunderer (1993)
 
 
-<a href="sound/01%20Platinum%20Segments.mp3">Download</a> or listen to Platinum Segments (1994)<br />      
+<a href="assets/sound/01%20Platinum%20Segments.mp3">Download</a> or listen to Platinum Segments (1994)<br />      
 	<audio controls="controls" >
-		<source src="sound/01%20Platinum%20Segments.ogg" type="audio/ogg"/ >
-		<source src="sound/01%20Platinum%20Segments.mp3" type="audio/mpeg"/ >
+		<source src="assets/sound/01%20Platinum%20Segments.ogg" type="audio/ogg"/ >
+		<source src="assets/sound/01%20Platinum%20Segments.mp3" type="audio/mpeg"/ >
 	html5 browsers only.</audio>	
 
 
