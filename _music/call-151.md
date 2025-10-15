@@ -18,7 +18,7 @@ by Ted Apel, Patrick Benolkin, Hope Hampton, and Edward Stumpp.
 
 </div>
 
-This recording employs a system of just intonation based on the ratios 5/5 6/5 7/5 8/5 and 9/5 for sound systhesis. Eight metal and wooden plates are used to combine these electronic signals with each plate's own natural vibrational modes.
+This recording employs a system of just intonation based on the ratios 5/5 6/5 7/5 8/5 and 9/5 for sound synthesis. Eight metal and wooden plates are used to combine these electronic signals with each plate's own natural vibrational modes.
 
 CALL-151 is an electronic music ensemble comprised of Ted Apel, Patrick Benolkin, Hope Hampton, and Edward Stumpp.
 

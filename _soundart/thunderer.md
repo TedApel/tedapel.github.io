@@ -7,7 +7,7 @@ importance: 14
 category: soundart
 ---
 
-A sound installation consisting of a sousaphone bell and loudspeaker. A sounds are played which were produced by squareing the spectra (convolving with itself) John Phillip Sousa's "The Thunderer" march.
+A sound installation consisting of a sousaphone bell and loudspeaker. Sounds are played which were produced by squareing the spectra (convolving with itself) John Phillip Sousa's "The Thunderer" march.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
