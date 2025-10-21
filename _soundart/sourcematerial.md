@@ -7,7 +7,7 @@ importance: 16
 category: soundart
 ---
 
-Six music boxes are modified by removing most of their note pegs. The different lengths of the barrels and the different rates of playback produce a never repeating music. The music boxes are attached to a resonating painter's pallet.
+Six music boxes are modified by removing most of their note pegs. The different lengths of the barrels and the different rates of playback produce a never repeating music. The music boxes are attached to a resonating painter's palette.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
