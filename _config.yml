@@ -184,6 +184,9 @@ collections:
   eurorack:
     output: true
     permalink: /eurorack/:path/
+  infrasound:
+    output: true
+    permalink: /infrasound/:path/
 
 announcements:
   enabled: true
