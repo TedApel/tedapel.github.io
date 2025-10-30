@@ -8,9 +8,9 @@ nav_order: 2
 horizontal: false
 ---
 
-## Volcano Infrasound Research
+## Portable real-time volcano infrasound auditory display devices
 
-This section gathers documentation, recordings, and analysis from ongoing work in volcano infrasound capture and sonification. As the project evolves this page will hold links to papers, field reports, data, and supporting media.
+Portable real-time volcano infrasound auditory display devices
 
 - GitHub repo: _coming soon_
 - Key paper: _coming soon_
