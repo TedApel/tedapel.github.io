@@ -23,6 +23,6 @@ Listen to the Thunderer.
 
 </p>
 	<audio controls="controls">
-	<source src="assets/sound/09%20The%20Thunderer.ogg" type="audio/ogg"/>
-	<source src="assets/sound/09%20The%20Thunderer.mp3" type="audio/mpeg"/>
+	<source src="/assets/sound/09%20The%20Thunderer.ogg" type="audio/ogg"/>
+	<source src="/assets/sound/09%20The%20Thunderer.mp3" type="audio/mpeg"/>
 	html5 browsers only.</audio>
