@@ -12,6 +12,18 @@ horizontal: false
 
 Portable real-time volcano infrasound auditory display devices
 
+Stateemnt of research
+
+Link to Paper
+
+New paper title
+
+Photos
+
+Github with Fritzing
+
+
+
 - GitHub repo: _coming soon_
 - Key paper: _coming soon_
 - Field notebooks and sonifications: _coming soon_
