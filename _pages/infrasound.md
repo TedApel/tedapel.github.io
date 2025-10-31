@@ -12,7 +12,7 @@ horizontal: false
 
 Portable real-time volcano infrasound auditory display devices
 
-Stateemnt of research
+Statement of research
 
 Link to Paper
 
