@@ -5,11 +5,10 @@ inline: true
 related_posts: false
 ---
 
+Presentation at the Annual Workshop 2025, IASPEI/IAVCEI Inter-Association Commission On Volcano Seismology & Acoustics.
 
-Annual Workshop 2025 IASPEI/IAVCEI Inter-Association Commission On "Volcano Seismology & Acoustics"
 
-
-<a href="https://sites.google.com/uct.cl/volcanoworkshop/home">VOLCANO SEISMOLOGY & ACOUSTICS workshop" a>
+<a href="https://sites.google.com/uct.cl/volcanoworkshop/home">Volcano Seismology and Acoustics workshop" a>
 
 
 
