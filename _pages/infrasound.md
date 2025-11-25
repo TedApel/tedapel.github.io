@@ -10,26 +10,12 @@ horizontal: false
 
 ## Portable real-time volcano infrasound auditory display devices
 
-Portable real-time volcano infrasound auditory display devices
-
-Statement of research
-
-Link to Paper
-
-New paper title
-
-Photos
-
-Github with Fritzing
+[Portable Realtime Volcano Infrasound Auditory Display Devices]
+(https://vud.org/assets/pdf/ICAD_2021_Apel_Johnson.pdf)
 
 
+[Portable Realtime Volcano Infrasound Auditory Display Devices - ICAD 2021] (https://www.youtube.com/watch?v=VQlbgFXnrPo)
 
-- GitHub repo: _coming soon_
-- Key paper: _coming soon_
-- Field notebooks and sonifications: _coming soon_
 
-### Highlights
+[Volcano Seismology and Acoustics workshop](https://sites.google.com/uct.cl/volcanoworkshop/home)
 
-- [Volcano Infrasound Array]({{ '/infrasound/volcano-array' | relative_url }}) — placeholder entry demonstrating the format for detailed write‑ups.
-
-More material will be added here as the documentation is prepared.
