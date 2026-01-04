@@ -175,9 +175,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  soundart:
-    output: true
-    permalink: /soundart/:path/
   music:
     output: true
     permalink: /music/:path/
