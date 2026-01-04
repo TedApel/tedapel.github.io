@@ -3,7 +3,7 @@ layout: page
 title: BOSQUE, MOBILE, MARICOPA, BON
 description: CD-R
 img: assets/img/bosque.jpg
-importance: 8
+importance: 1008
 category: music
 ---
 

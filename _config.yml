@@ -175,9 +175,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  music:
-    output: true
-    permalink: /music/:path/
   eurorack:
     output: true
     permalink: /eurorack/:path/

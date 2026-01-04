@@ -3,7 +3,7 @@ layout: page
 title: Findings
 description: digital album
 img: assets/img/findings.jpg
-importance: 20
+importance: 1020
 category: music
 ---
 

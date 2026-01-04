@@ -3,7 +3,7 @@ layout: page
 title: Stiction
 description: digital album
 img: assets/img/stiction.jpg
-importance: 22
+importance: 1022
 category: music
 ---
 

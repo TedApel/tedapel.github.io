@@ -3,7 +3,7 @@ layout: page
 title: Apospory
 description: digital album
 img: assets/img/apospory.jpg
-importance: 24
+importance: 1024
 category: music
 ---
 

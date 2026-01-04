@@ -3,7 +3,7 @@ layout: page
 title: Kiss Without Makeup
 description: CD
 img: assets/img/kisswithout.jpg
-importance: 12
+importance: 1012
 category: music
 ---
 

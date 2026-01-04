@@ -3,7 +3,7 @@ layout: page
 title: Paraph
 description: digital album
 img: assets/img/paraph.jpg
-importance: 28
+importance: 1028
 category: music
 ---
 
