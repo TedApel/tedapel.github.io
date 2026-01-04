@@ -3,7 +3,7 @@ layout: page
 title: The Frog Peak Collaborations Project
 description: CD
 img: assets/img/frogpeak2.jpg
-importance: 1010
+importance: 15
 category: music
 ---
 
