@@ -7,6 +7,11 @@ nav: true
 nav_order: 5
 ---
 
+**Spring 2026**  
+Boise State University  
+GIMM 290 Game Design Theory (two sections)  
+GIMM 360 Game and Virtual Reality Audio (two sections)
+
 **Fall 2025**  
 Boise State University  
 GIMM 270 Interactive Audio and Video (two sections)  
