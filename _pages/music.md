@@ -4,6 +4,7 @@ permalink: /music/
 title: music
 description:
 nav: false
+published: false
 horizontal: false
 ---
 
