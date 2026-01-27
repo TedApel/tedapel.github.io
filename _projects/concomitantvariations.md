@@ -4,7 +4,7 @@ title: Concomitant Variations
 description: A sound installation
 img: assets/img/concomitant3.jpg
 importance: 114
-category: work
+category: soundart
 ---
 
 <div class="row">
