@@ -77,6 +77,32 @@ https://vud.org/projects/washerdryer/
 }
 </style>
 
+
+  <div class="incidentalspeakers-card">
+    <a href="/projects/oneandfourspeakers/">
+      <img src="/assets/img/oneandfourspeakers1.jpg" alt="One and Four Speakers">
+      <h3>One and Four Speakers</h3>
+      <p>Sonic Sculpture</p>
+    </a>
+  </div>
+
+  <div class="incidentalspeakers-card">
+    <a href="/projects/senses/">
+      <img src="/assets/img/senses.jpg" alt="Senses">
+      <h3>Senses</h3>
+      <p>A sonic sculpture</p>
+    </a>
+  </div>
+
+<div class="incidentalspeakers-card">
+    <a href="/projects/productionreproduction/">
+      <img src="/assets/img/production.jpg" alt="Production Reproduction">
+      <h3>Production Reproduction</h3>
+      <p>A sound sculpture</p>
+    </a>
+  </div>
+
+
 <div class="incidentalspeakers-grid">
   <div class="incidentalspeakers-card">
     <a href="/projects/unitsofconveyance/">
@@ -87,12 +113,13 @@ https://vud.org/projects/washerdryer/
   </div>
 
   <div class="incidentalspeakers-card">
-    <a href="/projects/oneandfourspeakers/">
-      <img src="/assets/img/oneandfourspeakers1.jpg" alt="One and Four Speakers">
-      <h3>One and Four Speakers</h3>
-      <p>Sonic Sculpture</p>
+    <a href="/projects/modes/">
+      <img src="/assets/img/modes1.jpg" alt="Modes">
+      <h3>Modes</h3>
+      <p>A sound sculpture</p>
     </a>
   </div>
+
 
   <div class="incidentalspeakers-card">
     <a href="/projects/speakerlego/">
@@ -118,29 +145,9 @@ https://vud.org/projects/washerdryer/
     </a>
   </div>
 
-  <div class="incidentalspeakers-card">
-    <a href="/projects/modes/">
-      <img src="/assets/img/modes1.jpg" alt="Modes">
-      <h3>Modes</h3>
-      <p>A sound sculpture</p>
-    </a>
-  </div>
 
-  <div class="incidentalspeakers-card">
-    <a href="/projects/productionreproduction/">
-      <img src="/assets/img/production.jpg" alt="Production Reproduction">
-      <h3>Production Reproduction</h3>
-      <p>A sound sculpture</p>
-    </a>
-  </div>
 
-  <div class="incidentalspeakers-card">
-    <a href="/projects/senses/">
-      <img src="/assets/img/senses.jpg" alt="Senses">
-      <h3>Senses</h3>
-      <p>A sonic sculpture</p>
-    </a>
-  </div>
+
 
   <div class="incidentalspeakers-card">
     <a href="/projects/speakercrochet/">
