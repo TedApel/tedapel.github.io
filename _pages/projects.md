@@ -6,6 +6,11 @@ description:
 nav: true
 nav_order: 1
 horizontal: false
+display_categories:
+  - soundart
+  - music
+  - infrasound
+  - projects
 ---
 
 <!-- pages/projects.md -->
