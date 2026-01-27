@@ -3,7 +3,7 @@ layout: page
 title: Breccia
 description: an experimental music ensemble
 img: assets/img/breccia.jpg
-importance: 1016
+importance: 59
 category: music
 ---
 
