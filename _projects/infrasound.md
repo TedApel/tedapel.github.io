@@ -2,7 +2,7 @@
 layout: page
 title: infrasound
 description: Volcano infrasound sonification device research
-img: assets/img/<your-image>.jpg
+img: assets/img/infrasound.png
 importance: 900
 category: projects
 nav: false
