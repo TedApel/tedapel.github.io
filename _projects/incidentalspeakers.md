@@ -77,6 +77,7 @@ https://vud.org/projects/washerdryer/
 }
 </style>
 
+<div class="incidentalspeakers-grid">
 
   <div class="incidentalspeakers-card">
     <a href="/projects/oneandfourspeakers/">
@@ -103,7 +104,7 @@ https://vud.org/projects/washerdryer/
   </div>
 
 
-<div class="incidentalspeakers-grid">
+
   <div class="incidentalspeakers-card">
     <a href="/projects/unitsofconveyance/">
       <img src="/assets/img/unitsofconveyance.jpg" alt="Units of Conveyance">
