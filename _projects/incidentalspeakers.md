@@ -34,10 +34,11 @@ https://vud.org/projects/speakercrochet/
 
 https://vud.org/projects/washerdryer/
 
-<div class="grid">
-  {% assign incidental = site.projects | where: "category", "incidentalspeakers" | sort: "importance" | reverse %}
-  {% for project in incidental %}
-    {% include projects.liquid %}
-  {% endfor %}
+<div class="projects">
+  <div class="grid">
+    {% assign incidental = site.projects | where: "category", "incidentalspeakers" | sort: "importance" | reverse %}
+    {% for project in incidental %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
 </div>
-
