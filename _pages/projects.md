@@ -17,6 +17,7 @@ display_categories:
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
+  {% comment %}
   {% for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {% assign categorized_projects = site.projects | where: "category", category %}
@@ -38,6 +39,21 @@ display_categories:
   </div>
   {% endif %}
   {% endfor %}
+  {% endcomment %}
+
+  {% comment %}
+    We keep categories for future filtering, but display a single globally
+    sorted grid here: filter to display_categories, then sort by importance.
+  {% endcomment %}
+  {% assign allowed_categories = page.display_categories %}
+  {% assign filtered_projects = site.projects | where_exp: "p", "allowed_categories contains p.category" %}
+  {% assign sorted_projects = filtered_projects | sort: "importance" | reverse %}
+
+  <div class="grid">
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
 
 {% else %}
 
