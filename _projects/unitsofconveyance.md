@@ -4,7 +4,7 @@ title: Units of Conveyance
 description: A sound installation 
 img: assets/img/unitsofconveyance.jpg
 importance: 110
-category: work
+category: incidentalspeakers
 ---
 
 Eight small speakers each contain battery operated self-contained audio electronics. The asynchronous sound from each speakers combines to create a varying mix of musical sounds.
