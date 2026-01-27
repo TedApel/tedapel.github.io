@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /infrasound/
 title: infrasound
-description:
-nav: true
-nav_order: 2
-horizontal: false
+description: Volcano infrasound sonification device research
+img: assets/img/<your-image>.jpg
+importance: 900
+category: projects
+nav: false
 ---
 
 ## Portable real-time volcano infrasound auditory display devices
