@@ -12,27 +12,7 @@ This ongoing series of sculptures is based on the idea of a loudspeaker as a rep
 
 I have written about these works in my article Incidental Speakers available here:
 
-Incidental Speakers
-
-https://vud.org/projects/unitsofconveyance/
-
-https://vud.org/projects/oneandfourspeakers/
-
-https://vud.org/projects/speakerlego/
-
-https://vud.org/projects/schaeffer/
-
-https://vud.org/projects/acousticspace/
-
-https://vud.org/projects/modes/
-
-https://vud.org/projects/productionreproduction/
-
-https://vud.org/projects/senses/
-
-https://vud.org/projects/speakercrochet/
-
-https://vud.org/projects/washerdryer/
+[Incidental Speakers](https://econtact.ca/21_2/apel_incidentalspeakers.html)
 
 <style>
 .incidentalspeakers-grid {
