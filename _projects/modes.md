@@ -4,7 +4,7 @@ title: Modes
 description: A sound sculpture
 img: assets/img/modes1.jpg
 importance: 102
-category: soundart
+category: incidentalspeakers
 ---
 
 Michael Chion's three listening modes are evoked with a causal speaker, a set of semantic speakers, and a reduced listening speaker. The causal speaker takes the shape of a birdhouse, the semantic speakers are arranged as if to send a message between them, and the reduced listening speaker does not display the speaker cone element.

@@ -4,7 +4,7 @@ title: Speaker[lego]
 description: Sculpture
 img: assets/img/speakerlego.jpg
 importance: 106
-category: soundart
+category: incidentalspeakers
 ---
 
 A representation of a loudspeaker built from lego blocks.

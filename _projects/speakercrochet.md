@@ -4,7 +4,7 @@ title: Speaker [crochet]
 description: A sound sculpture
 img: assets/img/speakercrochet.jpg
 importance: 86
-category: soundart
+category: incidentalspeakers
 ---
 
 A loudspeaker with a crocheted speaker cone.

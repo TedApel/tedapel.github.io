@@ -4,7 +4,7 @@ title: Schaeffer
 description: Sculpture
 img: assets/img/schaeffer.jpg
 importance: 108
-category: soundart
+category: incidentalspeakers
 ---
 
 Text

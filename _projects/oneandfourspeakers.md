@@ -4,7 +4,7 @@ title: One and Four Speakers
 description: Sonic Sculpture
 img: assets/img/oneandfourspeakers1.jpg
 importance: 104
-category: soundart
+category: incidentalspeakers
 ---
 
 A loudspeaker is represented in four ways, a carved sculpture of a loudspeaker, an oil painting of a loudspeaker, a loudspeaker, and a photograph of a loudspeaker.

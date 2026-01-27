@@ -4,7 +4,7 @@ title: Senses
 description: A sonic sculpture
 img: assets/img/senses.jpg
 importance: 96
-category: soundart
+category: incidentalspeakers
 ---
 
 The traditional five senses depicted in the context of the loudspeaker.

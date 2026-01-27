@@ -4,7 +4,7 @@ title: Acoustic Space
 description: A sonic sculpture
 img: assets/img/acousticspace.jpg
 importance: 100
-category: soundart
+category: incidentalspeakers
 ---
 
 The virtual acoustic space created by electronic sound reproduction is represented visually. A loudspeaker cone extends into the wall creating a space inside the speaker that is larger than the speaker box.
