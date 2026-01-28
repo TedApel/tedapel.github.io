@@ -2,7 +2,7 @@
 layout: page
 title: Trio for Organ Pipes
 description: A sound installation
-img: assets/img/organseptet.png
+img: assets/img/organseptet.jpg
 importance: 120
 category: soundart
 ---
