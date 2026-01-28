@@ -1,7 +1,7 @@
 ---
 layout: page
-title: infrasound
-description: Volcano infrasound sonification device research
+title: VADD
+description: Volcano Auditory Display Devices
 img: assets/img/infrasound.png
 importance: 1900
 category: projects
