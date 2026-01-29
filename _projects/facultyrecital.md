@@ -4,6 +4,7 @@ title: Percussion and Electronics
 date: 2025-04-18
 inline: true
 related_posts: false
+img: assets/img/facultyartistrecital.jpg
 importance: 122
 hidden: false
 category: projects
@@ -19,8 +20,4 @@ Faculty Artist Series Recital Dr. Kramer Milan, percussion Dr. Ted Apel, electro
 ---
 
   {% include figure.liquid path="assets/img/facultyartistrecital.jpg" title="Title" class="img-fluid rounded z-depth-1" style="width: 25%;" %}
-
-
-
-
 
