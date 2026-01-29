@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Faculty Artist Series Recital
+title: Percussion and Electronics
 date: 2025-04-18
 inline: true
 related_posts: false
 importance: 122
-hidden: true
-
+hidden: false
+category: projects
 ---
 
 
