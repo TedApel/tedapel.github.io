@@ -3,7 +3,7 @@ layout: page
 title: Raspberry Pi
 description: Eurorack Module
 img: assets/img/eurorack/eurorackRPi02.jpg
-importance: 11
+importance: 6
 category: eurorack
 ---
 

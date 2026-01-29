@@ -3,7 +3,7 @@ layout: page
 title: Music Box
 description: Eurorack Module, Music box, spruce panel, electronics
 img: assets/img/eurorack/musicbox2.jpg
-importance: 5
+importance: 14
 category: eurorack
 ---
 

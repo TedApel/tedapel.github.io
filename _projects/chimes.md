@@ -3,7 +3,7 @@ layout: page
 title: Chimes
 description: Eurorack Module
 img: assets/img/eurorack/chimes2.jpg
-importance: 6
+importance: 12
 category: eurorack
 ---
 
