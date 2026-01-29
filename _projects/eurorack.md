@@ -1,10 +1,11 @@
 ---
 layout: page
-permalink: /eurorack/
 title: eurorack
-description: 
-nav: true
-nav_order: 3
+description: handmand eurorack modules
+img: assets/img/skiffstruments.png
+importance: 1900
+category: projects
+nav: false
 ---
 
 
