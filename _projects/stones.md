@@ -2,7 +2,7 @@
 layout: page
 title: Stones
 description: Eurorack Module
-img: assets/img/eurorack/stones.jpg
+img: assets/img/eurorack/stones2.png
 importance: 9
 category: eurorack
 ---
@@ -20,7 +20,7 @@ Amplified stones.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/eurorack/stones.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/eurorack/stoness.png" title="Title" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
