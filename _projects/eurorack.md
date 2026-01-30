@@ -3,7 +3,7 @@ layout: page
 title: eurorack
 description: handmand eurorack modules
 img: assets/img/skiffstruments.png
-importance: 1900
+importance: 115
 category: projects
 nav: false
 ---
