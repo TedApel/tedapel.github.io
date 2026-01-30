@@ -55,51 +55,18 @@ Across these works, sound is treated not as an isolated event but as evidence of
 </style>
 
 <div class="coupledresonance-grid">
-  <div class="coupledresonance-card">
-    <a href="/projects/callandresonance/">
-      <img src="/assets/img/callandresonance1.jpg" alt="Call and Resonance">
-      <h3>Call and Resonance</h3>
-      <p>A sound installation</p>
-    </a>
-  </div>
-
-  <div class="coupledresonance-card">
-    <a href="/projects/responsecharacters/">
-      <img src="/assets/img/responsecharacters.jpg" alt="Response Characters">
-      <h3>Response Characters</h3>
-      <p>A sound installation</p>
-    </a>
-  </div>
-
-  <div class="coupledresonance-card">
-    <a href="/projects/cubicresponse/">
-      <img src="/assets/img/cubicresponse.png" alt="Cubic Response">
-      <h3>Cubic Response</h3>
-      <p>A sound installation</p>
-    </a>
-  </div>
-
-  <div class="coupledresonance-card">
-    <a href="/projects/concomitantvariations/">
-      <img src="/assets/img/concomitant3.jpg" alt="Concomitant Variations">
-      <h3>Concomitant Variations</h3>
-      <p>A sound installation</p>
-    </a>
-  </div>
-
-  <div class="coupledresonance-card">
-    <a href="/projects/conicvariations/">
-      <img src="/assets/img/conic01a.png" alt="Conic Variations">
-      <h3>Conic Variations</h3>
-      <p>A sound installation</p>
-    </a>
-  </div>
-
-  <div class="coupledresonance-card">
-    <a href="/projects/irresonance/">
-      <img src="/assets/img/irresonance2_768.jpg" alt="Irresonance">
-      <h3>Irresonance</h3>
-      <p>A sound installation</p>
-    </a>
-  </div>
+  {% assign coupled_projects = site.projects | where: "category", "coupledresonance" | sort: "importance" | reverse %}
+  {% for project in coupled_projects %}
+    <div class="coupledresonance-card">
+      <a href="{{ project.url | relative_url }}">
+        {% if project.img %}
+          <img src="{{ project.img | relative_url }}" alt="{{ project.title }}">
+        {% endif %}
+        <h3>{{ project.title }}</h3>
+        {% if project.description %}
+          <p>{{ project.description }}</p>
+        {% endif %}
+      </a>
+    </div>
+  {% endfor %}
 </div>
