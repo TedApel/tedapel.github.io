@@ -48,8 +48,8 @@ display_categories:
   {% assign allowed_categories = page.display_categories %}
   {% assign filtered_projects = site.projects | where_exp: "p", "allowed_categories contains p.category" %}
 
-  {% assign dated_projects = filtered_projects | where_exp: "p", "p.data.date" | sort: "date" | reverse %}
-  {% assign undated_projects = filtered_projects | where_exp: "p", "p.data.date == nil" | sort: "importance" | reverse %}
+  {% assign dated_projects = filtered_projects | where_exp: "p", "p.data['date'] != nil" | sort: "date" | reverse %}
+  {% assign undated_projects = filtered_projects | where_exp: "p", "p.data['date'] == nil" | sort: "importance" | reverse %}
 
   {% assign sorted_projects = dated_projects | concat: undated_projects %}
 
