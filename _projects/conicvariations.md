@@ -4,7 +4,7 @@ title: Conic Variations
 description: A sound installation
 img: assets/img/conic01a.png
 importance: 118
-category: soundart
+category: coupledresonance
 ---
 
 Conic Variations is a sound installation in which cardboard conic sections are used as chambers to impart strong resonances on sounds produced by feedback circuits in each tube. Each circuit delays sounds that derive from a combination of sounds present in the environment. These sounds include the people and ambient sounds of the space, the sounds produced by the other circuits, and the resonated sounds of the tube itself. The resultant sounds are forever evolving in variations derived from interlacing interactions of prior sounds. In this installation the physical materials of the work are highlighted by the specific resonant sounds produced.

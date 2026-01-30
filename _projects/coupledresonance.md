@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coupled Resonance
-description: Interdependent resonant sound works
+description: Series of interdependent resonant sound works
 img: assets/img/concomitant5.png
 importance: 1000
 category: soundart

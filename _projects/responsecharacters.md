@@ -4,7 +4,7 @@ title: Response Characters
 description: A sound installation
 img: assets/img/responsecharacters.jpg
 importance: 94
-category: soundart
+category: coupledresonance
 ---
 
 Seven tubes are used to impart strong resonances on sound recording and playback circuits in each tube. Each circuit independently alternates between recording sound and playing back its recording. The sounds recorded are a combination of the sounds produced by the other tubes, the ambient sounds of the space, and the resonance of the tube. In this way, the combined soundfield is an emergent property of the five tubes, that is, each tubes sound is dependent on the contributions of the others.

@@ -4,7 +4,7 @@ title: Cubic Response
 description: A sound installation
 img: assets/img/cubicresponse.png
 importance: 112
-category: soundart
+category: coupledresonance
 ---
 
 Cubic response uses acoustic feedback and acoustic resonance to create autonomous sounding objects that produce sounds that are a combination of those produced by the other objects, the ambient sounds of the space, and the resonance of the individual object.

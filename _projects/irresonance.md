@@ -4,7 +4,7 @@ title: Irresonance
 description: A sound installation
 img: assets/img/irresonance2_768.jpg
 importance: 42
-category: soundart
+category: coupledresonance
 ---
 
 Irresonance is a sound installation that uses feedback to resonate eight small brass tubes. Each tube is equipped with a small loudspeaker; the differing length of each tube gives them unique resonant characteristics. A single microphone located in the center of the gallery picks up the resonant sounds from the tubes as well as the environmental sounds of the space These sounds are delayed and their resonances are reduced - or "irresonated" - in a computer and sent back to the tubes. In this way, the ambient sounds of the space and the resonant characteristics of the tubes are combined and amplified through the tubes, while the computer combats these resonant tendencies. Although each loudspeaker is driven with the same signal, the resonances of the tubes localize the sounds to individual tubes.
