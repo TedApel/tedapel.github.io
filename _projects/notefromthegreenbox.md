@@ -4,6 +4,7 @@ title: notefromthegreenbox
 description: A sound sculpture
 img: assets/img/greenbox2_768.jpg
 importance: 44
+hidden: true
 category: soundart
 ---
 
