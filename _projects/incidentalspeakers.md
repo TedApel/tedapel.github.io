@@ -2,7 +2,7 @@
 layout: page
 title: Incidental speakers
 description: A series of sound sculptures 
-img: assets/img/concomitant5.png
+img: assets/img/incidentalspeakers.png
 importance: 117
 category: soundart
 ---
