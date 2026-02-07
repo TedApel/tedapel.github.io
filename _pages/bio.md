@@ -1,5 +1,11 @@
 
-
+---
+layout: page
+title: Bio
+permalink: /bio/
+nav: true
+nav_order: 5
+---
 
 
 Ted Apel is a sound artist whose work explores how sound becomes intelligible through material systems, speculative sonic processes, and distributed listening. He has exhibited his work at sound art festivals and exhibits including the SoundCulture festival in San Francisco; the Ussachevsky Festival in Claremont, California; the Audio Art Festival in Krakow, Poland; the Sound Symposium in St. John's Newfoundland; the O.K. Center for Contemporary Art in Linz, Austria; and the Academy of Arts, Berlin.
