@@ -4,7 +4,7 @@ layout: page
 title: Bio
 permalink: /bio/
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 
