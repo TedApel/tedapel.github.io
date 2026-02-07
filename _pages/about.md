@@ -19,4 +19,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Ted Apel is a sound artist whose work explores how sound becomes intelligible through material systems, speculative sonic processes, and distributed listening. His projects include sound installations, performances, and algorithmic works that treat sound as the audible consequence of physical, electronic, and computational conditions.
+Ted Apel is a sound artist whose work explores how sound becomes intelligible through material systems, speculative sonic processes, and distributed listening. His projects include sound installations, performances, recordings, and the development of sound algorithms that treat sound as the audible consequence of physical, perceptual, and computational conditions.
+
