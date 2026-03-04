@@ -22,4 +22,4 @@ A three minute recording of my practicing the G scale on the clarinet was subjec
 <audio autobuffer controls preload="auto">
 	<source src="/assets/sound/averagescale.ogg" type="audio/ogg"/>
 	<source src="/assets/sound/averagescale.mp3" type="audio/mpeg"/>
-	html5 browsers only.
+	html5 browsers only.</audio>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: notefromthegreenbox
+title: Note from the Green Box
 description: A sound sculpture
 img: assets/img/greenbox2_768.jpg
 importance: 44

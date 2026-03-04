@@ -17,7 +17,7 @@ A site specific installation in which a recording of ambient sounds in a space a
     </div>
 </div>
 <div class="caption">
-    Whiteout, a sound installation - Paper, actuator, sound
+    Whiteout, a sound installation - Ted Apel - Paper, actuator, sound
     Visual Arts Center, Boise State University, August-September 2007
 
 </div>

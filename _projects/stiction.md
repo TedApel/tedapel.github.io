@@ -31,8 +31,6 @@ by Ted Apel
 
 released May 21, 2018
 
-cover Jonathan Sadler
-
 cover: Jonathan Sadler
 
 

@@ -10,5 +10,4 @@ The sound installation Conic Variations will be part of the Sound and Music Comp
 
 <a href="https://smcnetwork.org/smc2023/">SMC 2023</a>
 
-Performance with Sharing Speculative Relativity
-Performance
+Performance of *Sharing Speculative Relativity*.

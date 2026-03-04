@@ -14,7 +14,7 @@ I spent several afternoons and early evenings in the eucalyptus grove near the T
 <audio controls="controls">
 	<source src="/assets/sound/corvus.ogg" type="audio/ogg"/>
 	<source src="/assets/sound/corvus.mp3" type="audio/mpeg"/>
-html5 browsers only.
+html5 browsers only.</audio>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

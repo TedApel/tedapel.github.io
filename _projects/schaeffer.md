@@ -7,7 +7,6 @@ importance: 108
 category: incidentalspeakers
 ---
 
-Text
 Pierre Schaeffer's Étude aux chemins de fer is reinterpreted as a loudspeaker.
 
 <div class="row">

@@ -7,8 +7,6 @@ importance: 18
 category: soundart
 ---
 
-Text
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/disktwo.jpg" title="Title" class="img-fluid rounded z-depth-1" %}

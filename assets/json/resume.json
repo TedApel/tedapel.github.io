@@ -1,13 +1,11 @@
 {
   "basics": {
     "name": "Ted Apel",
-    "label": "Clinical Associate Professor",
+    "label": "Full Teaching Professor",
     "email": "tedapel@gmail.com",
     "phone": "",
-    "url": "http://vud.org",
+    "url": "https://vud.org",
     "location": {
-      "address": "906 N. 10th Street",
-      "postalCode": "83702",
       "city": "Boise",
       "countryCode": "US",
       "region": "Idaho"
@@ -18,21 +16,21 @@
       "institution": "University of California, San Diego",
       "area": "Computer Music",
       "studyType": "PhD",
-      "startDate": "2008",
+      "startDate": "2001",
       "endDate": "2008"
     },
     {
       "institution": "Dartmouth College",
       "area": "Electro-Acoustic Music",
       "studyType": "MA",
-      "startDate": "1993",
+      "startDate": "1991",
       "endDate": "1993"
     },
     {
       "institution": "Pomona College",
       "area": "Physics",
       "studyType": "BA",
-      "startDate": "1990",
+      "startDate": "1986",
       "endDate": "1990"
     }
   ],
@@ -57,7 +55,7 @@
       "endDate": "2022"
     },
     {
-      "company": "University of Wellington, School of Music, New Zealand",
+      "company": "Victoria University of Wellington, School of Music, New Zealand",
       "position": "Assistant Professor of Sonic Arts and Electronic Music",
       "startDate": "2013",
       "endDate": "2015",
@@ -152,5 +150,7 @@
     {
       "name": "Open Source Contributions",
       "description": "Developed sigmund~, fiddle~, bonk~, centroid~ audio tools for Max/MSP, Pd, and Max for Live.",
-      "url": "http://vud.org"
-      
+      "url": "https://vud.org"
+    }
+  ]
+}

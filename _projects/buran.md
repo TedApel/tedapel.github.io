@@ -9,7 +9,7 @@ category: soundart
 
 The Soviet space shuttle Buran completed one unmanned flight on November 15, 1988. In 206 minutes the shuttle orbited the earth twice. No further flights were to follow. The Buran shuttle was destroyed on May 12, 2002 when the hangar it was stored in collapsed.
 
-https://amandahamiltonart.com/section/165641_BURAN.html
+[Amanda Hamilton](https://amandahamiltonart.com/section/165641_BURAN.html)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
