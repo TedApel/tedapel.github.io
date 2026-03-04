@@ -7,7 +7,7 @@ importance: 14
 category: eurorack
 ---
 
-Amplified paper strip based music box. Spruce panel died grey. Piezo pickup.
+Amplified paper strip based music box. Spruce panel dyed grey. Piezo pickup.
 
 14 HP and 8 HP of space to the right of the panel
 +/-12V 5mA

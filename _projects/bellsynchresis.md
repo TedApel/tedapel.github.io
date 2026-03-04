@@ -15,7 +15,7 @@ Two loudspeakers, one is electromagnetically shaken to cause two bells to sound,
     </div>
 </div>
 <div class="caption">
-    Title, a sound sculpture - Ted Apel - speakers, bells, doll house speakers, sound
+    Bell Synchresis, a sound sculpture - Ted Apel - speakers, bells, doll house speakers, sound
     Boise Art Museum, December 2006-Jan. 2007.
     Southwestern College, March 2007.
 

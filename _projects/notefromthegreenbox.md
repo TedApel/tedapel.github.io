@@ -8,7 +8,7 @@ hidden: true
 category: soundart
 ---
 
-A pair of ice-tongs as is used as a Readymade. A recording of my installing the work is played through the speaker.
+A pair of ice-tongs is used as a Readymade. A recording of my installing the work is played through the speaker.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

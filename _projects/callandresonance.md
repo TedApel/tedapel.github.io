@@ -19,6 +19,6 @@ Five very large test tubes are used to impart strong resonances on hand made sou
 <p><a href="https://vimeo.com/29117451">Call and Resonance</a> from <a href="https://vimeo.com/vud">Ted Apel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <div class="caption">
-    Call and Resonance, a sound installation - Ted Apel - ATest tubes, electronics, sound
+    Call and Resonance, a sound installation - Ted Apel - Test tubes, electronics, sound
 
 </div>

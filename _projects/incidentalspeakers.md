@@ -8,7 +8,7 @@ category: soundart
 ---
 
 
-This ongoing series of sculptures is based on the idea of a loudspeaker as a representation of sound. In these works Im exploring the idea that the isues and ideas around sound can be explored artistically without sound itself. 
+This ongoing series of sculptures is based on the idea of a loudspeaker as a representation of sound. In these works I'm exploring the idea that the issues and ideas around sound can be explored artistically without sound itself. 
 
 I have written about these works in my article Incidental Speakers available here:
 

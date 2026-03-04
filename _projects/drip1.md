@@ -16,6 +16,6 @@ A copper spigot creates a dripping sound.
 </div>
 <div class="caption">
     Drip #1, a sound installation - Ted Apel - spigot, electronics, sound
-Visual Arts Cente, Boise State University, September 2006.
+Visual Arts Center, Boise State University, September 2006.
 
 </div>

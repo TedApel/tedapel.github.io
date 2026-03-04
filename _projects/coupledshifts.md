@@ -19,6 +19,6 @@ Each plate produces a sound which is the result of a composed electric signal wh
 
 The Third annual Ussachevsky Festival, Pomona College, Claremont California. February 3-5 1996.
 
-WORKS/San Jose as part of the SoundCulture 96 festival.San Jose, California. April 11- May 18 1996.
+WORKS/San Jose as part of the SoundCulture 96 festival. San Jose, California. April 11- May 18 1996.
 
 </div>

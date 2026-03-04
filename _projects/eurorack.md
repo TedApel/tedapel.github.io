@@ -1,7 +1,7 @@
 ---
 layout: page
 title: eurorack
-description: handmand eurorack modules
+description: handmade eurorack modules
 img: assets/img/skiffstruments.png
 importance: 115
 category: projects

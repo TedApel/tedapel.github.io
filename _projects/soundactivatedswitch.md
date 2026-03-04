@@ -17,6 +17,6 @@ The Unfinished show catalog can be purchased here [Unfinished](http://www.blurb.
     </div>
 </div>
 <div class="caption">
-    Sound Activated Switch, a sound sculpture - Ted Apel - sound activated stitches, electronics, piezo speakers, sound
+    Sound Activated Switch, a sound sculpture - Ted Apel - sound activated switches, electronics, piezo speakers, sound
 
 </div>

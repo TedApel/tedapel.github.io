@@ -15,7 +15,7 @@ Thirty five clarinet bells create a serpentine form that emits a recording of cl
     </div>
 </div>
 <div class="caption">
-    Title, a sound installation - Ted Apel - clarinet bells, horn speaker, sound
-Prichard Art Gallery, June 2010-August. 2010.
+    Articulations, a sound installation - Ted Apel - clarinet bells, horn speaker, sound
+Prichard Art Gallery, June 2010 - August 2010.
 
 </div>

@@ -15,6 +15,6 @@ A loudspeaker with a crocheted speaker cone.
     </div>
 </div>
 <div class="caption">
-    Title, a sound sculpture - Ted Apel and Janice Neri - speaker, wool
+    Speaker [crochet], a sound sculpture - Ted Apel and Janice Neri - speaker, wool
 
 </div>

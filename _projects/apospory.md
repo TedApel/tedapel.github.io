@@ -13,7 +13,7 @@ category: music
     </div>
 </div>
 <div class="caption">
-    Paraph
+    Apospory
 by Ted Apel
 
 </div>

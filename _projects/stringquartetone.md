@@ -15,6 +15,6 @@ Four electronically generated sine waves that slowly glissando are used to excit
     </div>
 </div>
 <div class="caption">
-    Title, a sound installation - Ted Apel - piano wire, sine wave generator, actuator
+    String Quartet no. 1, a sound installation - Ted Apel - piano wire, sine wave generator, actuator
 
 </div>

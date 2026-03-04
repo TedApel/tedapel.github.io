@@ -36,6 +36,6 @@ A loudspeaker is represented in four ways, a carved sculpture of a loudspeaker, 
 </div>
 
 <div class="caption">
-    Title, a sonic sculpture - Ted Apel - Ted Apel with William D. Lewis, painting and Jonathan Sadler, photograph. wood, painting, loudspeaker, photograph
+    One and Four Speakers, a sonic sculpture - Ted Apel with William D. Lewis, painting and Jonathan Sadler, photograph. wood, painting, loudspeaker, photograph
 
 </div>

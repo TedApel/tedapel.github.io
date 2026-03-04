@@ -15,7 +15,7 @@ Irresonance is a sound installation that uses feedback to resonate eight small b
     </div>
 </div>
 <div class="caption">
-    Irresonance, a sound installation - Ted Apel - brass tubes, speakers, computer processin
+    Irresonance, a sound installation - Ted Apel - brass tubes, speakers, computer processing
 
 </div>
 

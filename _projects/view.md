@@ -26,7 +26,7 @@ Play two channel version of Wenke's View.
     </div>
 </div>
 <div class="caption">
-    Title, a sound installation - Ted Apel - Materials
+    Wenke's View, a sound installation - Ted Apel
 
 </div>
 

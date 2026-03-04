@@ -26,7 +26,7 @@ Anthony Burr:
 
 Ted's synth patches here are similarly concerned with longer scale understandings of the frequency spectrum: both kinds of longer range averages of timbre but also pulling out features in ways that can also signify as notes. The performances then were a collective effort to tease out a constantly shifting timbre that was also a kind of generative field of harmony in a more old-fashioned musical sense. I found ways of playing that would reliably trigger or sometimes reliably confuse the ways that Ted's electronics were listening. I think we both understood the resulting sound as a single entity rather than a duet.
 
-We chose two contrasting takes for this cassette, and did some minimal mixing and editing but largely left the original performances in tact. The conceptual link to the more sci-fi end of 70s/80s ambient is deliberate:)"
+We chose two contrasting takes for this cassette, and did some minimal mixing and editing but largely left the original performances intact. The conceptual link to the more sci-fi end of 70s/80s ambient is deliberate:)"
 credits
 released December 6, 2018
 

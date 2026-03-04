@@ -15,6 +15,6 @@ A continuous drip of water is presented using a separatory funnel and water basi
     </div>
 </div>
 <div class="caption">
-    Drip #2, a sound installation - Ted Apel - Sepratory funnel, water, water basin, electronics, sound
+    Drip #2, a sound installation - Ted Apel - Separatory funnel, water, water basin, electronics, sound
 
 </div>

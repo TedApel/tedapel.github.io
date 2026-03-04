@@ -11,6 +11,4 @@ Institute of Electronic Music and Acoustics, University of Music and Performing 
 
 Performance of *Sharing Speculative Relativity* with Alberto de Campo and Bruno Gola. 
 
-<a href="https://speculativesoundsynthesis.iem.sh/symposium/">Speculative Sound Synthesis Symposium
-
-
+<a href="https://speculativesoundsynthesis.iem.sh/symposium/">Speculative Sound Synthesis Symposium</a>

@@ -17,7 +17,7 @@ Traditionally, a fundamental principle of loudspeaker design has been to reprodu
     </div>
 </div>
 <div class="caption">
-    Title, a sound installation - Ted Apel - bronze, electronics, sound
+    Portrait of Malleus, a sound installation - Ted Apel - bronze, electronics, sound
 
 EarArt sound Media exhibit, 1078 Gallery, Chico California. May 1997
 

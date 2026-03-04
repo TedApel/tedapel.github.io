@@ -15,6 +15,6 @@ The loudspeaker can be thought of as a producer or a reproducer of sound. These 
     </div>
 </div>
 <div class="caption">
-    Title, a sonic sculpture - Ted Apel - loudspeakers, (9 cm x 9 cm x 9 cm)
+    Production Reproduction, a sonic sculpture - Ted Apel - loudspeakers, (9 cm x 9 cm x 9 cm)
 
 </div>
