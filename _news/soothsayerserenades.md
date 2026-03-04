@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-9-7
+date: 2022-09-07
 inline: true
 related_posts: false
 
