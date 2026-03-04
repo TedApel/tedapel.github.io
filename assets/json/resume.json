@@ -31,7 +31,7 @@
   ],
   "work": [
     {
-      "company": "Boise State University, GIMM (Games, Interactive Media, and Mobile Technology)",
+      "name": "Boise State University, GIMM (Games, Interactive Media, and Mobile Technology)",
       "position": "Full Teaching Professor",
       "startDate": "2026",
       "highlights": [
@@ -43,19 +43,19 @@
       ]
     },
     {
-      "company": "Boise State University, GIMM (Games, Interactive Media, and Mobile Technology)",
+      "name": "Boise State University, GIMM (Games, Interactive Media, and Mobile Technology)",
       "position": "Clinical Associate Professor",
       "startDate": "2022",
       "endDate": "2026"
     },
     {
-      "company": "Boise State University, GIMM (Games, Interactive Media, and Mobile Technology)",
+      "name": "Boise State University, GIMM (Games, Interactive Media, and Mobile Technology)",
       "position": "Clinical Assistant Professor",
       "startDate": "2016",
       "endDate": "2022"
     },
     {
-      "company": "Victoria University of Wellington, School of Music, New Zealand",
+      "name": "Victoria University of Wellington, School of Music, New Zealand",
       "position": "Assistant Professor of Sonic Arts and Electronic Music",
       "startDate": "2013",
       "endDate": "2015",
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "company": "Boise State University, College of Engineering",
+      "name": "Boise State University, College of Engineering",
       "position": "Adjunct Faculty",
       "startDate": "2010",
       "endDate": "2012",
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "company": "Boise State University, Art Department",
+      "name": "Boise State University, Art Department",
       "position": "Adjunct Faculty",
       "startDate": "2006",
       "endDate": "2012",
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "company": "Boise State University, Department of Music",
+      "name": "Boise State University, Department of Music",
       "position": "Adjunct Faculty",
       "startDate": "2005",
       "endDate": "2012",
@@ -97,20 +97,20 @@
       ]
     },
     {
-      "company": "Center for Research in Computing and the Arts, University of California, San Diego",
+      "name": "Center for Research in Computing and the Arts, University of California, San Diego",
       "position": "Technical Director",
       "startDate": "1997",
       "endDate": "2004",
       "summary": "Developed and maintained technical infrastructure for research projects."
     },
     {
-      "company": "LifeLike Productions",
+      "name": "LifeLike Productions",
       "position": "Video Game Audio Programmer",
       "startDate": "1995",
       "endDate": "1996"
     },
     {
-      "company": "Music Annex Recording Studios",
+      "name": "Music Annex Recording Studios",
       "position": "Video Game and Electronic Toy Sound Designer and Audio Programmer",
       "startDate": "1993",
       "endDate": "1995",
