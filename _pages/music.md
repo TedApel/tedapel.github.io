@@ -27,7 +27,7 @@ horizontal: false
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_projects -%}
+    {%- for project in sorted_music -%}
       {% include projects.liquid %}
     {%- endfor %}
   </div>
