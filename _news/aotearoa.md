@@ -10,4 +10,4 @@ Aotearoa Audio Arts festival of sound art and electronic music. 27–29 Septembe
 
 {% include figure.liquid path="assets/img/aaafestival.jpg" title="Aotearoa Audio Arts" class="img-fluid rounded z-depth-1" %}
 
-<a href="https://audioartsaotearoa.org/artists/">Aotearoa Audio Arts</a>
+<a href="https://web.archive.org/web/20230123231657/https://audioartsaotearoa.org/artists/">Aotearoa Audio Arts</a>
