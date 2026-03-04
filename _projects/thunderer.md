@@ -21,7 +21,7 @@ A sound installation consisting of a sousaphone bell and loudspeaker. Sounds are
 
 Listen to the Thunderer.
 
-	<audio controls="controls">
-	<source src="/assets/sound/09%20The%20Thunderer.ogg" type="audio/ogg"/>
-	<source src="/assets/sound/09%20The%20Thunderer.mp3" type="audio/mpeg"/>
-	html5 browsers only.</audio>
+<audio controls="controls">
+<source src="/assets/sound/09%20The%20Thunderer.ogg" type="audio/ogg"/>
+<source src="/assets/sound/09%20The%20Thunderer.mp3" type="audio/mpeg"/>
+html5 browsers only.</audio>

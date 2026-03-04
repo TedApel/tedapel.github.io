@@ -21,14 +21,12 @@ Laptop improvisation in Kuna Caves
 <p>
 Listen to the Apel Mix.
 </p>
-<audio controls="controls" >
-	<source src="../../assets/sound/KunaCavesApelMix.mp3" type="audio/mpeg"/>
+<audio controls="controls">
+<source src="../../assets/sound/KunaCavesApelMix.mp3" type="audio/mpeg"/>
 html5 browsers only.</audio>
-<p>
 
 Listen to the Jude Mix.
 
-</p>
-<audio controls="controls" >
-	<source src="../../assets/sound/KunaCavesJudeMix.mp3" type="audio/mpeg"/>
-	html5 browsers only.</audio>
+<audio controls="controls">
+<source src="../../assets/sound/KunaCavesJudeMix.mp3" type="audio/mpeg"/>
+html5 browsers only.</audio>

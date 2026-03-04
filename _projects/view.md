@@ -11,11 +11,11 @@ A light rain started the first night I was in Berlin. I recorded the sound from 
 
 Play two channel version of Wenke's View.
 
-	<audio controls="controls" >
-	<source src="/assets/sound/WenkesView.ogg" type="audio/ogg"/>
-	<source src="/assets/sound/WenkesView.mp3" type="audio/mpeg"/>
-	html5 browsers only.</audio>
-	
+<audio controls="controls">
+<source src="/assets/sound/WenkesView.ogg" type="audio/ogg"/>
+<source src="/assets/sound/WenkesView.mp3" type="audio/mpeg"/>
+html5 browsers only.</audio>
+
 
 
 

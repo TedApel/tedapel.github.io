@@ -23,10 +23,10 @@ This recording employs a system of just intonation based on the ratios 5/5 6/5 7
 CALL-151 is an electronic music ensemble comprised of Ted Apel, Patrick Benolkin, Hope Hampton, and Edward Stumpp.
 
 Listen to Track 1 of the 6 tracks of "5:5 6:5 7:5 8:5 9:5".
-	
-<audio controls="controls" >
-	<source src="/assets/sound/Call-151Track01.ogg" type="audio/ogg"/>
-	<source src="/assets/sound/Call-151Track01.mp3" type="audio/mpeg"/>
+
+<audio controls="controls">
+<source src="/assets/sound/Call-151Track01.ogg" type="audio/ogg"/>
+<source src="/assets/sound/Call-151Track01.mp3" type="audio/mpeg"/>
 html5 browsers only.</audio>
 
 This limited to 100 edition CD-R is available for purchase for $15.00 including shipping. Payment by Paypal only. Click below to purchase. 
