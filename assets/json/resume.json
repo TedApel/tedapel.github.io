@@ -4,12 +4,7 @@
     "label": "Full Teaching Professor",
     "email": "tedapel@gmail.com",
     "phone": "",
-    "url": "https://vud.org",
-    "location": {
-      "city": "Boise",
-      "countryCode": "US",
-      "region": "Idaho"
-    }
+    "url": "https://vud.org"
   },
   "education": [
     {
@@ -37,9 +32,8 @@
   "work": [
     {
       "company": "Boise State University, GIMM (Games, Interactive Media, and Mobile Technology)",
-      "position": "Clinical Associate Professor",
-      "startDate": "2022",
-      "endDate": "Present",
+      "position": "Full Teaching Professor",
+      "startDate": "2026",
       "highlights": [
         "Courses:",
         "GIMM 270: Interactive Audio and Video",
@@ -47,6 +41,12 @@
         "GIMM 290: Game Design Theory",
         "GIMM 360: Game and Virtual Reality Sound and Music"
       ]
+    },
+    {
+      "company": "Boise State University, GIMM (Games, Interactive Media, and Mobile Technology)",
+      "position": "Clinical Associate Professor",
+      "startDate": "2022",
+      "endDate": "2026"
     },
     {
       "company": "Boise State University, GIMM (Games, Interactive Media, and Mobile Technology)",
