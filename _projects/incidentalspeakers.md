@@ -153,4 +153,12 @@ I have written about these works in my article Incidental Speakers available her
       <p>A sound sculpture</p>
     </a>
   </div>
+
+  <div class="incidentalspeakers-card">
+    <a href="/projects/inkspeaker/">
+      <img src="/assets/img/inkspeaker.jpg" alt="Ink Speaker">
+      <h3>Ink Speaker</h3>
+      <p>A sound sculpture</p>
+    </a>
+  </div>
 </div>
