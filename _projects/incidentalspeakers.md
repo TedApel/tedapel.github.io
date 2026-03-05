@@ -145,4 +145,12 @@ I have written about these works in my article Incidental Speakers available her
       <p>A sound sculpture</p>
     </a>
   </div>
+
+  <div class="incidentalspeakers-card">
+    <a href="/projects/response/">
+      <img src="/assets/img/response.jpg" alt="Response">
+      <h3>Response</h3>
+      <p>A sound sculpture</p>
+    </a>
+  </div>
 </div>
