@@ -21,5 +21,6 @@ Sound Through Barriers, April 2012, Fort Collins, Colorado.
 
 </div>
 
-
-
+<audio controls="controls">
+<source src="/assets/sound/washerdryer.mp3" type="audio/mpeg"/>
+</audio>

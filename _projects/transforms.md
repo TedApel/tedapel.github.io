@@ -21,5 +21,8 @@ Transforms: The Nerve Events Project
 Venation Division
 Music By – Ted Apel
 
+<audio controls="controls">
+<source src="/assets/sound/VenatianDivision.mp3" type="audio/mpeg"/>
+</audio>
 
 [Transforms: The Nerve Events Project](https://www.discogs.com/release/2575019-Various-Transforms-The-Nerve-Events-Project)
