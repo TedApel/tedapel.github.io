@@ -4,7 +4,7 @@ title: Coupled Shifts
 description: A sound installation
 img: assets/img/coupled.jpg
 importance: 20
-category: soundart
+category: surfaceosculations
 ---
 
 Each plate produces a sound which is the result of a composed electric signal which drives it and the plate's own physical characteristics. Thus, the perceived sound is a combination of a composed electronic source signal and the plates' natural vibrational modes.

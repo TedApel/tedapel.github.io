@@ -4,7 +4,7 @@ title: Portrait of Malleus
 description: A sound installation
 img: assets/img/portraitofmalleus.jpg
 importance: 22
-category: soundart
+category: surfaceosculations
 ---
 
 A 20" by 30" bronze plate is electromagnetically excited to produce a quiet and constantly changing music. The plate is hung from the wall with all associated electronics mounted behind the plate.

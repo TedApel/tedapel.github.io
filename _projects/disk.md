@@ -4,7 +4,7 @@ title: Electromagnetic Steel Disk
 description: A sound installation
 img: assets/img/disktwo.jpg
 importance: 18
-category: soundart
+category: surfaceosculations
 ---
 
 <div class="row">

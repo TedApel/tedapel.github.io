@@ -4,7 +4,7 @@ title: Surface Osculations
 description: A sound installation
 img: assets/img/surfaceosculations1a_768.jpg
 importance: 24
-category: soundart
+category: surfaceosculations
 ---
 
 Two large, sound-producing metal plates are suspended from the ceiling. Viewers/listeners move freely around and between the plates to experience a constantly changing sonic and visual environment. Sound from each plate is transmitted electronically to a computer, which in turn processes and returns the signal to the plate. The sound heard from each plate is a combination of the resonant characteristics of the plate and the computer processing of the electronic signal.
