@@ -1,0 +1,31 @@
+---
+layout: page
+title: Negated Sound
+description: Analysis-synthesis method and creative works
+img: assets/img/negatedsound.png
+importance: 1800
+category: projects
+---
+
+Negated sound is an experimental analysis-synthesis method that creates conceptually negated versions of sounds. The method works by computing a long-term spectral average of an entire recording, a droning "ground" that contains all the frequencies present over the full duration, and then subtracting the current sound from this ground, frame by frame. The result is an inverted sonic relationship: when sound is present in the original, it becomes quiet in the negated version; during silences in the original, the full spectral ground is heard.
+
+## Paper
+
+[Negated Sound Analysis-Synthesis](https://speculativesoundsynthesis.iem.sh/symposium/docs/proceedings/apel/) — Speculative Sound Synthesis Symposium 2024, Institute of Electronic Music and Acoustics, University of Music and Performing Arts Graz.
+
+## Presentation
+
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
+<div style="padding:56.25% 0 0 0;position:relative;"><video controls style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://cloud.iem.at/index.php/s/3iqHzWEiWPRsn4r/download/apel-2-comp.mp4"></video></div>
+</div>
+</div>
+<div class="caption">
+Negated Sound Analysis-Synthesis, presentation at the Speculative Sound Synthesis Symposium, Graz, 2024
+</div>
+
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
+{% include figure.liquid path="assets/img/negatedsound.png" title="Negated Sound" class="img-fluid rounded z-depth-1" %}
+</div>
+</div>
