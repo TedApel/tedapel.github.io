@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Negated Sound
-description: Analysis-synthesis method and creative works
+description: Sound Analysis synthesis method
 img: assets/img/negatedsound.png
 importance: 1800
 category: projects
@@ -26,6 +26,9 @@ Negated Sound Analysis-Synthesis, presentation at the Speculative Sound Synthesi
 
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid path="assets/img/negatedsound.png" title="Negated Sound" class="img-fluid rounded z-depth-1" %}
+<div style="padding:56.25% 0 0 0;position:relative;"><video controls style="position:absolute;top:0;left:0;width:100%;height:100%;" src="/assets/video/negatedGong.mp4"></video></div>
 </div>
+</div>
+<div class="caption">
+Negated Gong, performed by Kramer Milan
 </div>
