@@ -7,41 +7,22 @@ nav: true
 nav_order: 6
 ---
 
-## GitHub users
-
-{% if site.data.repositories.github_users %}
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
-
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
-
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
 ## GitHub Repositories
 
-{% if site.data.repositories.github_repos %}
+<div class="repositories">
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
+<div class="repo p-2">
+<a href="https://github.com/tedapel/Raspberry-Pi-Eurorack-Panel">
+<i class="fab fa-github gh-icon"></i>
+<strong>Raspberry-Pi-Eurorack-Panel</strong></a>
+<p>Eurorack panel design for Raspberry Pi</p>
 </div>
-{% endif %}
+
+<div class="repo p-2">
+<a href="https://github.com/tedapel/Max-Stable-Transient">
+<i class="fab fa-github gh-icon"></i>
+<strong>Max-Stable-Transient</strong></a>
+<p>Max/MSP external for stable transient analysis</p>
+</div>
+
+</div>
