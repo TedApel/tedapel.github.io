@@ -26,17 +26,24 @@ nav_order: 6
 </div>
 
 <div class="repo p-2">
-<a href="https://github.com/tedapel/Raspberry-Pi-Eurorack-Panel">
+<a href="https://github.com/TedApel/centroid-">
 <i class="fab fa-github gh-icon"></i>
-<strong>Raspberry-Pi-Eurorack-Panel</strong></a>
-<p>Eurorack panel design for Raspberry Pi</p>
+<strong>centroid</strong></a>
+<p>Spectral centroid external for Max/MSP</p>
 </div>
 
 <div class="repo p-2">
 <a href="https://github.com/tedapel/Max-Stable-Transient">
 <i class="fab fa-github gh-icon"></i>
 <strong>Max-Stable-Transient</strong></a>
-<p>Max/MSP external for stable transient analysis</p>
+<p>Stable/transient spectral segregation for Max/MSP and Max for Live</p>
+</div>
+
+<div class="repo p-2">
+<a href="https://github.com/tedapel/Raspberry-Pi-Eurorack-Panel">
+<i class="fab fa-github gh-icon"></i>
+<strong>Raspberry-Pi-Eurorack-Panel</strong></a>
+<p>Eurorack panel design for Raspberry Pi</p>
 </div>
 
 </div>
