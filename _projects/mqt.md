@@ -2,7 +2,7 @@
 layout: page
 title: MQT — McAulay-Quatieri Transformer
 description: Macintosh application for spectral transformations of sound (1993)
-img:
+img: assets/img/mqt.png
 importance: 10
 category: projects
 ---
