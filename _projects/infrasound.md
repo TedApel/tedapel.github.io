@@ -8,6 +8,8 @@ category: projects
 nav: false
 ---
 
+{% include figure.liquid loading="eager" path="assets/img/infrasound.png" class="img-fluid rounded z-depth-1" %}
+
 A portable real-time infrasound sonification device built on the Teensy 3.6 microcontroller. VADD transposes sub-audible infrasonic signals (below 20 Hz) into the audible range using frequency modulation, allowing researchers to listen to volcanic activity in the field.
 
 The sonification algorithm is written in Faust and compiled to C++ for the Teensy Audio Library. An infrasonic microphone captures low-frequency pressure waves, which are low-pass filtered, scaled, and used to frequency-modulate a carrier oscillator. Bandstop filters remove the unmodulated carrier frequency, leaving only the sonified infrasonic content.
