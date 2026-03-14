@@ -12,6 +12,20 @@ nav_order: 6
 <div class="repositories">
 
 <div class="repo p-2">
+<a href="https://github.com/tedapel/pv-noise-synthesis">
+<i class="fab fa-github gh-icon"></i>
+<strong>pv-noise-synthesis</strong></a>
+<p>Sinusoidality analysis and noise synthesis in phase vocoder time-stretching</p>
+</div>
+
+<div class="repo p-2">
+<a href="https://github.com/tedapel/pv-vibrato-tremolo">
+<i class="fab fa-github gh-icon"></i>
+<strong>pv-vibrato-tremolo</strong></a>
+<p>Vibrato and tremolo preservation during phase vocoder time-stretching</p>
+</div>
+
+<div class="repo p-2">
 <a href="https://github.com/tedapel/Raspberry-Pi-Eurorack-Panel">
 <i class="fab fa-github gh-icon"></i>
 <strong>Raspberry-Pi-Eurorack-Panel</strong></a>
