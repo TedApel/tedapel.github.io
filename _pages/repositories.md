@@ -40,6 +40,13 @@ nav_order: 6
 </div>
 
 <div class="repo p-2">
+<a href="https://github.com/tedapel/MQT">
+<i class="fab fa-github gh-icon"></i>
+<strong>MQT</strong></a>
+<p>McAulay-Quatieri Transformer — spectral sound transformations (1993)</p>
+</div>
+
+<div class="repo p-2">
 <a href="https://github.com/tedapel/Raspberry-Pi-Eurorack-Panel">
 <i class="fab fa-github gh-icon"></i>
 <strong>Raspberry-Pi-Eurorack-Panel</strong></a>
