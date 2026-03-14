@@ -40,6 +40,13 @@ nav_order: 6
 </div>
 
 <div class="repo p-2">
+<a href="https://github.com/tedapel/VADD">
+<i class="fab fa-github gh-icon"></i>
+<strong>VADD</strong></a>
+<p>Volcano Auditory Display Device — infrasound sonification with Teensy/Faust</p>
+</div>
+
+<div class="repo p-2">
 <a href="https://github.com/tedapel/MQT">
 <i class="fab fa-github gh-icon"></i>
 <strong>MQT</strong></a>
