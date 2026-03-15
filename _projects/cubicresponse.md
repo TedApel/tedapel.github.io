@@ -2,7 +2,7 @@
 layout: page
 title: Cubic Response
 description: A sound installation
-img: assets/img/cubicresponse.png
+img: assets/img/cubicresponse.jpg
 importance: 112
 category: coupledresonance
 ---
@@ -13,7 +13,7 @@ The installation consists of seven circuits which record, manipulate and play so
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cubicresponse.png" title="Cubic Response" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/cubicresponse.jpg" title="Cubic Response" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

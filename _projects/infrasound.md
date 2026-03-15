@@ -2,13 +2,13 @@
 layout: page
 title: VADD
 description: Volcano Auditory Display Devices
-img: assets/img/infrasound.png
+img: assets/img/infrasound.jpg
 importance: 1900
 category: projects
 nav: false
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/infrasound.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/infrasound.jpg" class="img-fluid rounded z-depth-1" %}
 
 A portable real-time infrasound sonification device built on the Teensy 3.6 microcontroller. VADD transposes sub-audible infrasonic signals (below 20 Hz) into the audible range using frequency modulation, allowing researchers to listen to volcanic activity in the field.
 

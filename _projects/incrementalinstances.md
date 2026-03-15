@@ -2,7 +2,7 @@
 layout: page
 title: Incremental Instances
 description: Live electroacoustic performances with distributed sound sources
-img: assets/img/incrementalinstances.png
+img: assets/img/incrementalinstances.jpg
 importance: 200
 category: music
 ---
