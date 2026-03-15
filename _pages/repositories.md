@@ -26,10 +26,10 @@ nav_order: 6
 </div>
 
 <div class="repo p-2">
-<a href="https://github.com/TedApel/centroid-">
+<a href="https://github.com/TedApel/Max-externals">
 <i class="fab fa-github gh-icon"></i>
-<strong>centroid</strong></a>
-<p>Spectral centroid external for Max/MSP</p>
+<strong>Max-externals</strong></a>
+<p>Max/MSP externals: fiddle~, bonk~, sigmund~, centroid~, paf~</p>
 </div>
 
 <div class="repo p-2">
