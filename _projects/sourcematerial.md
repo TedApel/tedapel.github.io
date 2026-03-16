@@ -5,6 +5,7 @@ description: A sound installation
 img: assets/img/sourcematerial1b.jpg
 importance: 16
 category: soundart
+published: false
 ---
 
 Six music boxes are modified by removing most of their note pegs. The different lengths of the barrels and the different rates of playback produce a never repeating music. The music boxes are attached to a resonating painter's palette.

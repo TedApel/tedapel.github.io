@@ -5,6 +5,7 @@ description: A sound installation
 img: assets/img/harmonicviolin.jpg
 importance: 12
 category: soundart
+published: false
 ---
 
 The violin features a double length set of strings with a single bridge placed in the middle. Notes played on one side of the bridge produce harmonics on the other set of amplified strings.

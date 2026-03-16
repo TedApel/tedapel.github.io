@@ -4,8 +4,8 @@ title: Note from the Green Box
 description: A sound sculpture
 img: assets/img/greenbox2_768.jpg
 importance: 44
-hidden: true
 category: soundart
+published: false
 ---
 
 A pair of ice-tongs is used as a Readymade. A recording of my installing the work is played through the speaker.
