@@ -4,7 +4,7 @@ title: Cyber Arts 2001, Digital Musics
 description: CD
 img: assets/img/cyberarts_768.jpg
 importance: 35
-category: music
+category: recordings
 ---
 
 <div class="row">

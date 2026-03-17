@@ -4,7 +4,7 @@ title: Stiction
 description: digital album
 img: assets/img/stiction.jpg
 importance: 113
-category: music
+category: recordings
 ---
 
 <div class="row">

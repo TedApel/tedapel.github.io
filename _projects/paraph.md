@@ -4,7 +4,7 @@ title: Paraph
 description: digital album
 img: assets/img/paraph.jpg
 importance: 117
-category: music
+category: recordings
 ---
 
 <div class="row">

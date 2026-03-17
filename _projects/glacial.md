@@ -4,7 +4,7 @@ title: Glacial Evidence - Athabaska
 description: LP
 img: assets/img/glacial_768.jpg
 importance: 10
-category: music
+category: recordings
 ---
 
 <div class="row">

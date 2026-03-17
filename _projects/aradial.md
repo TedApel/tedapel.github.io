@@ -4,7 +4,7 @@ title: Kiss Without Makeup
 description: CD
 img: assets/img/kisswithout.jpg
 importance: 19
-category: music
+category: recordings
 ---
 
 <div class="row">

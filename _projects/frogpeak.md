@@ -4,7 +4,7 @@ title: The Frog Peak Collaborations Project
 description: CD
 img: assets/img/frogpeak2.jpg
 importance: 15
-category: music
+category: recordings
 ---
 
 <div class="row">

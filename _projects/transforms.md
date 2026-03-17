@@ -4,7 +4,7 @@ title: Transforms, The Nerve Event Project
 description: CD
 img: assets/img/transform_768.jpg
 importance: 13
-category: music
+category: recordings
 ---
 
 <div class="row">

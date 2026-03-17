@@ -4,7 +4,7 @@ title: Tiger Flower Circle Sun
 description: Remix
 img: assets/img/willits2.jpg
 importance: 93
-category: music
+category: recordings
 ---
 
 <div class="row">

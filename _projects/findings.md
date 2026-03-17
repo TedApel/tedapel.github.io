@@ -4,7 +4,7 @@ title: Findings
 description: digital album
 img: assets/img/findings.jpg
 importance: 111
-category: music
+category: recordings
 ---
 
 <div class="row">

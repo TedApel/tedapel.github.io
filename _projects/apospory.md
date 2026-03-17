@@ -4,7 +4,7 @@ title: Apospory
 description: digital album
 img: assets/img/apospory.jpg
 importance: 113
-category: music
+category: recordings
 ---
 
 <div class="row">

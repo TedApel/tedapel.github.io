@@ -4,7 +4,7 @@ title: call-151
 description: Album
 img: assets/img/call-151.jpg
 importance: 67
-category: music
+category: recordings
 ---
 
 <div class="row">

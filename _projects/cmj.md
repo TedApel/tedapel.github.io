@@ -4,7 +4,7 @@ title: CMJ, Sound and Video Anthology
 description: DVD
 img: assets/img/cmj.jpg
 importance: 39
-category: music
+category: recordings
 ---
 
 <div class="row">

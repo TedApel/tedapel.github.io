@@ -4,7 +4,7 @@ title: BOSQUE, MOBILE, MARICOPA, BON
 description: CD-R
 img: assets/img/bosque.jpg
 importance: 15
-category: music
+category: recordings
 ---
 
 <div class="row">
