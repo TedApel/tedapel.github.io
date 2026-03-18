@@ -20,4 +20,8 @@ The installation consists of seven circuits which record, manipulate and play so
     Cubic Response, a sound installation - Ted Apel - electronics, sound
 </div>
 
-Prichard Art Gallery, Moscow, Idaho, May 2016
+---
+
+**Exhibitions**
+
+**Prichard Art Gallery**, Moscow, Idaho, *May 2016*

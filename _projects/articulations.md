@@ -19,4 +19,8 @@ Thirty five clarinet bells create a serpentine form that emits a recording of cl
 
 </div>
 
-Prichard Art Gallery, Moscow, Idaho, June–August 2010
+---
+
+**Exhibitions**
+
+**Prichard Art Gallery**, Moscow, Idaho, *June–August 2010*

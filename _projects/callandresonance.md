@@ -23,8 +23,12 @@ Five very large test tubes are used to impart strong resonances on hand made sou
 
 </div>
 
-Boise Art Museum, December 2006–January 2007<br>
-Southwestern College, March 2007<br>
-Knob and Tube Variations, Kristi Engle Gallery, Los Angeles, January–February 2009<br>
-Black Box Gallery, Copenhagen, Denmark, July 2012<br>
-First Prize, Foundation for Emerging Technologies and Arts (FETA) Prize in Sound Art, 2013
+---
+
+**Exhibitions**
+
+**Boise Art Museum**, *December 2006–January 2007*<br>
+**Southwestern College**, *March 2007*<br>
+**Knob and Tube Variations**, Kristi Engle Gallery, Los Angeles, *January–February 2009*<br>
+**Black Box Gallery**, Copenhagen, Denmark, *July 2012*<br>
+**First Prize**, Foundation for Emerging Technologies and Arts (FETA) Prize in Sound Art, *2013*

@@ -26,5 +26,9 @@ Listen to the Thunderer.
 <source src="/assets/sound/09%20The%20Thunderer.mp3" type="audio/mpeg"/>
 html5 browsers only.</audio>
 
-Bregman Electro-Acoustic Music Studio, Dartmouth College, 1993<br>
-SoundCulture 96, WORKS/San Jose, April–May 1996
+---
+
+**Exhibitions**
+
+**Bregman Electro-Acoustic Music Studio**, Dartmouth College, *1993*<br>
+**SoundCulture 96**, WORKS/San Jose, *April–May 1996*

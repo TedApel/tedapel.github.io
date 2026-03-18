@@ -19,4 +19,8 @@ Four electronically generated sine waves that slowly glissando are used to excit
 
 </div>
 
-Linen Building, Boise, Idaho
+---
+
+**Exhibitions**
+
+**Linen Building**, Boise, Idaho
