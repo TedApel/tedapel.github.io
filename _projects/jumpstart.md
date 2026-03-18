@@ -18,3 +18,7 @@ A car battery is connected to a loudspeaker via jumper cables. The sound of a ca
     Jump Start, a sound sculpture - Ted Apel - speaker, car battery, jumper cables
 
 </div>
+
+Boise Art Museum, December 2006–January 2007
+Southwestern College, March 2007
+Knob and Tube Variations, Kristi Engle Gallery, Los Angeles, January–February 2009

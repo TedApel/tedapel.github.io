@@ -5,6 +5,7 @@ description: A sound installation
 img: assets/img/averagescale.jpg
 importance: 74
 category: soundart
+published: false
 ---
 
 A three minute recording of my practicing the G scale on the clarinet was subjected to a process I devised that averages of all the sounds' frequencies present in the recording. This sound heard contains all of the frequencies that I played all of the time.

@@ -20,3 +20,5 @@ The Soviet space shuttle Buran completed one unmanned flight on November 15, 198
     Buran, a sound installation - Amanda Hamilton and Ted Apel - 7 channel video with 3 audio tracks 21" x 21" x 8'
 
 </div>
+
+Modern Art 2010, Boise, Idaho, June 2010

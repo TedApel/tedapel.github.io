@@ -16,6 +16,7 @@ Thirty five clarinet bells create a serpentine form that emits a recording of cl
 </div>
 <div class="caption">
     Articulations, a sound installation - Ted Apel - clarinet bells, horn speaker, sound
-Prichard Art Gallery, June 2010 - August 2010.
 
 </div>
+
+Prichard Art Gallery, Moscow, Idaho, June–August 2010

@@ -18,3 +18,5 @@ Many small speakers form a trail. The normally inaudible sounds of black ants ca
     Solenopsis, a sound installation - Ted Apel - speakers, sound
 
 </div>
+
+Djerassi Resident Artists Program, Woodside, CA, July 2001

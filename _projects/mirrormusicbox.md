@@ -19,6 +19,8 @@ category: soundart
     Mirror Music Box, a sound installation - Ted Apel - music boxes, tactile transducers, plexiglass, electronics
 </div>
 
+Art Space at the Eagle Performing Arts Center, Eagle, Idaho, November–December 2013
+
 This installation breaks down the musical motifs of the music box into an interactive site-specific sonic environment utilizing computer processes, sonic transducers and two hand cranked music boxes. The clear plastic walls of the gallery have been transformed into the sounding mechanism of the loudspeaker, and no two interactions with the music boxes will result in the same sounds.
 
 Two hand-cranked music boxes are affixed on opposite sides of a table. These music boxes have each been modified to play alternating notes. Contact microphones underneath the table are used to pick up the playing of these music boxes. A computer processes these sounds and distributes individual notes to eight different locations in the space via sonic transducers mounted on the clear plastic walls of the space. These transducers transform the walls themselves into the sounding mechanism of the loudspeaker.

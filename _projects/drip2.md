@@ -18,3 +18,6 @@ A continuous drip of water is presented using a separatory funnel and water basi
     Drip #2, a sound installation - Ted Apel - Separatory funnel, water, water basin, electronics, sound
 
 </div>
+
+Boise Art Museum, December 2006–January 2007
+Knob and Tube Variations, Kristi Engle Gallery, Los Angeles, January–February 2009

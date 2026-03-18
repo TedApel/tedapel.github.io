@@ -20,3 +20,5 @@ The Unfinished show catalog can be purchased here [Unfinished](http://www.blurb.
     Sound Activated Switch, a sound sculpture - Ted Apel - sound activated switches, electronics, piezo speakers, sound
 
 </div>
+
+Unfinished, Linen Building, Boise, Idaho, 2013

@@ -18,3 +18,6 @@ Two small loudspeakers contain salt and pepper. The sounds of using a salt shake
     Shakers, a sound sculpture - Ted Apel - speakers, salt, pepper, sound
 
 </div>
+
+Boise Art Museum, June 2005
+Southwestern College, March 2007

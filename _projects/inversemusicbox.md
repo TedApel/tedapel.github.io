@@ -5,6 +5,7 @@ description: A sound sculpture
 img: assets/img/inversemusicbox.jpg
 importance: 48
 category: soundart
+published: false
 ---
 
 The Inverse Music Box sculpture is based on a Sankyo paper strip manivelle music box mechanism. The sounding tines of this music box are activated by holes punched in paper cards that are fed through the mechanism by a hand crank. In the Inverse Music Box the manivelle mechanism is attached to the top of a 1930s era "Sonora" tube radio external speaker cabinet, which is attached to a wall. The Sankyo mechanism is designed to produce twenty distinct chromatic pitches. In this sculpture the paper cards are permanently arranged in a loop through the mechanism.

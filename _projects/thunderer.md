@@ -19,6 +19,9 @@ A sound installation consisting of a sousaphone bell and loudspeaker. Sounds are
 
 </div>
 
+Bregman Electro-Acoustic Music Studio, Dartmouth College, 1993
+SoundCulture 96, WORKS/San Jose, April–May 1996
+
 Listen to the Thunderer.
 
 <audio controls="controls">
