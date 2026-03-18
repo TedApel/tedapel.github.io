@@ -22,3 +22,9 @@ Five very large test tubes are used to impart strong resonances on hand made sou
     Call and Resonance, a sound installation - Ted Apel - Test tubes, electronics, sound
 
 </div>
+
+Boise Art Museum, December 2006–January 2007
+Southwestern College, March 2007
+Knob and Tube Variations, Kristi Engle Gallery, Los Angeles, January–February 2009
+Black Box Gallery, Copenhagen, Denmark, July 2012
+First Prize, Foundation for Emerging Technologies and Arts (FETA) Prize in Sound Art, 2013
