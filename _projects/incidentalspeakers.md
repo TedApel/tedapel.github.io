@@ -165,7 +165,7 @@ I have written about these works in my article Incidental Speakers available her
 
 ---
 
-**Exhibitions** *(works from the series)*
+**Exhibitions**
 
 **Washer Dryer**, Sound Through Barriers, Fort Collins, Colorado, *2012*<br>
 **Loudspeaker - Crochet**, Art Department Faculty Exhibition, Boise State University, *2013*<br>
