@@ -19,5 +19,5 @@ Two small loudspeakers contain salt and pepper. The sounds of using a salt shake
 
 </div>
 
-Boise Art Museum, June 2005
+Boise Art Museum, June 2005<br>
 Southwestern College, March 2007

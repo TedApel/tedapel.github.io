@@ -23,14 +23,14 @@ The cultural and economic impact of the light bulb has been incomparably greater
 
 The light bulb is not meant to be looked at, but to illuminate objects and spaces. The loudspeaker is similarly not designed as a focus of visual or sonic attention. It is designed to invisibly reproduce a sonic environment independent of the loudspeaker. In this installation the filament is the focus of visual attention and the piezoelectric element is the focus of sonic attention. In this way, the meaning of the sounds cannot be separated from how they are transduced. The installation attempts to use the cultural significance of the light bulb and the specific technologies of the filament and the piezoelectric element to expand the context in which we understand and experience sound.
 
-Audio Art Festival, Goethe Institut, Krakow, Poland, 1999
-28th Bourges International Electroacoustic Music Competition, prizewinner
-CEAIT Electronic Music Festival, CalArts, 2000
-Honorary mention, Prix Ars Electronica, 2001
-Ars Electronica Festival, O.K. Center for Contemporary Art, Linz, Austria, 2001
-Sonic Absorption, Consolidated Works Contemporary Art Space, Seattle, WA, February–April 2004
-Boise Art Museum, December 2006–January 2007
-invisible.other, New American Art Union, Portland, Oregon, April 2007
-
 <iframe src="https://player.vimeo.com/video/22675030?h=225e97511e" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/22675030">Potential Difference</a> from <a href="https://vimeo.com/vud">Ted Apel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+Audio Art Festival, Goethe Institut, Krakow, Poland, 1999<br>
+28th Bourges International Electroacoustic Music Competition, prizewinner<br>
+CEAIT Electronic Music Festival, CalArts, 2000<br>
+Honorary mention, Prix Ars Electronica, 2001<br>
+Ars Electronica Festival, O.K. Center for Contemporary Art, Linz, Austria, 2001<br>
+Sonic Absorption, Consolidated Works Contemporary Art Space, Seattle, WA, February–April 2004<br>
+Boise Art Museum, December 2006–January 2007<br>
+invisible.other, New American Art Union, Portland, Oregon, April 2007

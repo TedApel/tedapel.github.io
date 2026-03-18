@@ -19,5 +19,5 @@ A continuous drip of water is presented using a separatory funnel and water basi
 
 </div>
 
-Boise Art Museum, December 2006–January 2007
+Boise Art Museum, December 2006–January 2007<br>
 Knob and Tube Variations, Kristi Engle Gallery, Los Angeles, January–February 2009

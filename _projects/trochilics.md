@@ -18,14 +18,14 @@ The installation is comprised of ten freestanding sculptures. Each sculpture con
     Trochilics, a sound installation - Ted Apel - Computer, electronics, motors, sound
 </div>
 
-CEAIT Electronic Music Festival, CalArts, January 2002
-Ussachevsky Festival, Pomona College, February 2002
-SEARCH V, UCSD, October 2002
-Activating the Medium, Cuesta College Fine Arts Gallery, February–March 2004
-Boise Art Museum, December 2006–January 2007
-Southwestern College, March 2007
-Set in Motion: Kinetic Art in the Northwest, Yellowstone Art Museum, Billings, Montana, July–September 2007
-Prichard Art Gallery, Moscow, Idaho, June–August 2010
-Herrett Center for Arts and Sciences, Twin Falls, Idaho, February–March 2015
-
 <div style="padding:76.92% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/29014458?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Trochilics"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+CEAIT Electronic Music Festival, CalArts, January 2002<br>
+Ussachevsky Festival, Pomona College, February 2002<br>
+SEARCH V, UCSD, October 2002<br>
+Activating the Medium, Cuesta College Fine Arts Gallery, February–March 2004<br>
+Boise Art Museum, December 2006–January 2007<br>
+Southwestern College, March 2007<br>
+Set in Motion: Kinetic Art in the Northwest, Yellowstone Art Museum, Billings, Montana, July–September 2007<br>
+Prichard Art Gallery, Moscow, Idaho, June–August 2010<br>
+Herrett Center for Arts and Sciences, Twin Falls, Idaho, February–March 2015

@@ -21,9 +21,9 @@ A site specific installation in which a recording of ambient sounds in a space a
 
 </div>
 
-Visual Arts Center, Boise State University, August–September 2007
-Paperwork, Walsh Library Gallery, Seton Hall University, South Orange, New Jersey, November–December 2008
-
 <audio controls="controls">
 <source src="/assets/sound/whiteout.mp3" type="audio/mpeg"/>
 </audio>
+
+Visual Arts Center, Boise State University, August–September 2007<br>
+Paperwork, Walsh Library Gallery, Seton Hall University, South Orange, New Jersey, November–December 2008

@@ -17,8 +17,7 @@ Each plate produces a sound which is the result of a composed electric signal wh
 <div class="caption">
     Coupled Shifts, a sound installation - Ted Apel - steel, electronics, computer
 
-The Third annual Ussachevsky Festival, Pomona College, Claremont California. February 3-5 1996.
-
-WORKS/San Jose as part of the SoundCulture 96 festival. San Jose, California. April 11- May 18 1996.
-
 </div>
+
+Third Annual Ussachevsky Festival, Pomona College, Claremont, California, February 1996<br>
+SoundCulture 96, WORKS/San Jose, California, April–May 1996

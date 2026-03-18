@@ -19,5 +19,5 @@ Two loudspeakers, one is electromagnetically shaken to cause two bells to sound,
 
 </div>
 
-Boise Art Museum, December 2006–January 2007
+Boise Art Museum, December 2006–January 2007<br>
 Southwestern College, March 2007

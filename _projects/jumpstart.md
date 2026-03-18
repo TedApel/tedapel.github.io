@@ -19,6 +19,6 @@ A car battery is connected to a loudspeaker via jumper cables. The sound of a ca
 
 </div>
 
-Boise Art Museum, December 2006–January 2007
-Southwestern College, March 2007
+Boise Art Museum, December 2006–January 2007<br>
+Southwestern College, March 2007<br>
 Knob and Tube Variations, Kristi Engle Gallery, Los Angeles, January–February 2009

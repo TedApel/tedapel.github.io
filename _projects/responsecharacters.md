@@ -24,8 +24,6 @@ Seven tubes are used to impart strong resonances on sound recording and playback
 </div>
 </div>
 
-Black Box Gallery, Copenhagen, 2012.
-
-Ussachevsky Electronic Music Festival, Pomona College, 2014.
-
-The Auricle, Sonic Arts Gallery, Christchurch, New Zealand, September 2014.
+Black Box Gallery, Copenhagen, 2012<br>
+Ussachevsky Electronic Music Festival, Pomona College, 2014<br>
+The Auricle, Sonic Arts Gallery, Christchurch, New Zealand, September 2014

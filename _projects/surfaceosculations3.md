@@ -16,6 +16,7 @@ Five large, sound-producing metal plates of differing widths are suspended from 
 </div>
 <div class="caption">
     Surface Osculations III, a sound installation - Ted Apel - Steel, electronics, sound
-    Boise Art Museum, December 2006 - Jan. 2007
 
 </div>
+
+Boise Art Museum, December 2006–January 2007
