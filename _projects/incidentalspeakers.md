@@ -162,3 +162,17 @@ I have written about these works in my article Incidental Speakers available her
     </a>
   </div>
 </div>
+
+---
+
+**Exhibitions** *(works from the series)*
+
+**Washer Dryer**, Sound Through Barriers, Fort Collins, Colorado, *2012*<br>
+**Loudspeaker - Crochet**, Art Department Faculty Exhibition, Boise State University, *2013*<br>
+**Incidental Speakers**, solo exhibit, Enso Artspace, Boise, Idaho, *August–September 2013*<br>
+**Response Characters / Incidental Speakers**, solo exhibit, Auricle Sonic Arts Gallery, Christchurch, New Zealand, *September 2014*<br>
+**Incidental Speakers**, solo exhibit, Herrett Center for Arts and Sciences, Twin Falls, Idaho, *February–March 2015*<br>
+**Units of Conveyance**, solo exhibit, Prichard Art Gallery, Moscow, Idaho, *May 2016*<br>
+**Incidental Speakers**, SEAMUS Conference, St. Cloud State University, Saint Cloud, Minnesota, *April 2017*<br>
+**One and Four Speakers / Senses**, Aotearoa Audio Arts Festival, Potocki Paterson Gallery, Wellington, New Zealand, *September 2018*<br>
+**Speaker [crochet]**, Seeing of Sound Exhibition, Art League Rhode Island Gallery, Providence, Rhode Island, *December 2019*

@@ -18,3 +18,9 @@ The traditional five senses depicted in the context of the loudspeaker.
     Senses, a sonic sculpture - Ted Apel - sandpaper, fruit, mirror, loudspeaker, perfume bottle top
 
 </div>
+
+---
+
+**Exhibitions**
+
+**Aotearoa Audio Arts Festival**, Potocki Paterson Gallery, Wellington, New Zealand, *September 2018*

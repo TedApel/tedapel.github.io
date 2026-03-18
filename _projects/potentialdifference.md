@@ -37,4 +37,5 @@ The light bulb is not meant to be looked at, but to illuminate objects and space
 **Ars Electronica Festival**, O.K. Center for Contemporary Art, Linz, Austria, *2001*<br>
 **Sonic Absorption**, Consolidated Works Contemporary Art Space, Seattle, WA, *February–April 2004*<br>
 **Boise Art Museum**, *December 2006–January 2007*<br>
-**invisible.other**, New American Art Union, Portland, Oregon, *April 2007*
+**invisible.other**, New American Art Union, Portland, Oregon, *April 2007*<br>
+**LUMEN**, Middlesex College, *2010*

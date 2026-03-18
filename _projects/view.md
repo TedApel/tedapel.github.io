@@ -30,5 +30,8 @@ html5 browsers only.</audio>
 
 </div>
 
+---
 
+**Exhibitions**
 
+**College of Santa Fe**, New Mexico, *2000*

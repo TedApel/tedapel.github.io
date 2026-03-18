@@ -17,10 +17,15 @@ Two small loudspeakers produce the sound of a clothes washer and dryer. A viewer
 </div>
 <div class="caption">
     Washer Dryer, a sound sculpture - Ted Apel - loudspeakers (3.5" x 3.5"), sound
-Sound Through Barriers, April 2012, Fort Collins, Colorado.
 
 </div>
 
 <audio controls="controls">
 <source src="/assets/sound/washerdryer.mp3" type="audio/mpeg"/>
 </audio>
+
+---
+
+**Exhibitions**
+
+**Sound Through Barriers**, Fort Collins, Colorado, *April 2012*

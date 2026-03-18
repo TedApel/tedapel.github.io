@@ -32,3 +32,8 @@ Eight small speakers each contain battery operated self-contained audio electron
     Units of Conveyance, a sound installation - Ted Apel - Arduinos, electronics, speakers, sound
 </div>
 
+---
+
+**Exhibitions**
+
+**Prichard Art Gallery**, University of Idaho, Moscow, Idaho, *May 2016*

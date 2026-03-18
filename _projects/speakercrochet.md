@@ -18,3 +18,10 @@ A loudspeaker with a crocheted speaker cone.
     Speaker [crochet], a sound sculpture - Ted Apel and Janice Neri - speaker, wool
 
 </div>
+
+---
+
+**Exhibitions**
+
+**Art Department Faculty Exhibition**, Boise State University, *2013*<br>
+**Seeing of Sound**, Art League Rhode Island Gallery, Providence, Rhode Island, *December 2019*
