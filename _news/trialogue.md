@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Trialogue at the Museum of Arts and Sciences, Macon, Georgia. September 12 – November 2, 2008.
+Trialogue at Merge Visual, Museum of Arts and Sciences, Macon, Georgia. September 12 – November 2, 2008.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Plainfield Fire at the Bregman Electroacoustic Music Studio, Dartmouth College, Hanover, New Hampshire.
+Plainfield Fire, installation at the Bregman Electroacoustic Music Studio, Dartmouth College, Hanover, New Hampshire, 1998.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Washer Dryer at Sound Through Barriers, Fort Collins, Colorado.
+Washer Dryer at Sound Through Barriers, Fort Collins, Colorado, April 2012.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Potential Difference on CD Cyber Arts 2001: Digital Musics, Ars Electronica.
+Potential Difference on the CD Cyber Arts 2001: Digital Musics, Ars Electronica, 2001.

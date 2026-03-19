@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Fleming Fellowship for the Built Environment, Pomona College.
+Fleming Fellowship for the Built Environment, Pomona College, 1990.

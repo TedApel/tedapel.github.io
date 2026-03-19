@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Apospory, digital release of solo live electronic music.
+Apospory, digital release of solo live electronic music, 2018.

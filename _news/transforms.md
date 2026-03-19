@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Venation Division from Transforms: The Nerve Events Project from 1993, released on Cuneiform Records.
+Venation Division on Transforms: The Nerve Events Project, Cuneiform Records, 1993.
 
 <a href="https://www.doctornerve.org/nerve/pages/trnsform.shtml">Transforms</a>

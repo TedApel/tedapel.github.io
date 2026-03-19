@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Composer Workshop at the New Zealand School of Music.
+Composer Workshop at the New Zealand School of Music, Wellington, New Zealand, April 2013.

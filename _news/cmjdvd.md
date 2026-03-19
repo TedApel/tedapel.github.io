@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-surface osculations on DVD Computer Music Journal: Sound and Video Anthology, Volume 27, Issue 4.
+surface osculations on DVD Computer Music Journal: Sound and Video Anthology, Volume 27, Issue 4, MIT Press, 2003.

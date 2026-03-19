@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Electromagnetic Steel Disk #1, live performance with Pauline Oliveros, New Music Festival, Dartmouth College.
+Electromagnetic Steel Disk #1, live performance with Pauline Oliveros, New Music Festival, Dartmouth College, Hanover, New Hampshire, 1992.

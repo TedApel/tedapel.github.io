@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Djerassi Resident Artist, July 2001.
+Rebecca Goldfarb Fellowship at the Djerassi Resident Artist Program, Woodside, California, July 2001.

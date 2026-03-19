@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-la radia and a radial released on Kiss Without Makeup by Franklin Bruno.
+a radial and dia lara released on Kiss Without Makeup by Franklin Bruno, Absolutely Kosher Records, 2000.

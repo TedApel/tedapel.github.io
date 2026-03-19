@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Trochilics at the CEAIT Electronic Music Festival. January 2002.
+Trochilics at the CEAIT Electronic Music Festival, CalArts, Valencia, California, January 2002.

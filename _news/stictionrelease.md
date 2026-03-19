@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Stiction, digital release of solo live electronic music.
+Stiction, digital release of solo live electronic music, 2018.

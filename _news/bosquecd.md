@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Bosque, Mobile, Maricopa, Bon: Audio Works by Ted Apel. Independent CD release.
+Bosque, Mobile, Maricopa, Bon: Audio Works by Ted Apel. Independent CD release, 1995.

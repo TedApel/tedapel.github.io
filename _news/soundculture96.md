@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Coupled Shifts, Steel Disk 2, and Thunderer at SoundCulture 96, WORKS/San Jose, California.
+Coupled Shifts, Steel Disk 2, and Thunderer at SoundCulture 96, WORKS/San Jose, California, 1996.

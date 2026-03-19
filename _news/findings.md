@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Findings, digital release of solo live electronic music.
+Findings, digital release of solo live electronic music, 2015.
