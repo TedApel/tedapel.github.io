@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Tethered and Lambent Planes at the Sound Symposium, St. John's, Newfoundland. July 2000.
+[Tethered and Lambent Planes](/projects/tethered/) at the Sound Symposium, St. John's, Newfoundland. July 2000.

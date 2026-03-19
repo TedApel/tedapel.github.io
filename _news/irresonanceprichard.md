@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Irresonance, installation at the Prichard Gallery, University of Idaho, Moscow, Idaho, 2005.
+[Irresonance](/projects/irresonance/), installation at the Prichard Gallery, University of Idaho, Moscow, Idaho, 2005.

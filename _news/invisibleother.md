@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Potential Difference at Invisible.Other, New American Art Union, Portland, Oregon, April 2007.
+[Potential Difference](/projects/potentialdifference/) at Invisible.Other, New American Art Union, Portland, Oregon, April 2007.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Trochilics at SEARCH V, UCSD. October 2002.
+[Trochilics](/projects/trochilics/) at SEARCH V, UCSD. October 2002.

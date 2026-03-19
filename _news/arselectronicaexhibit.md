@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Potential Difference exhibited at the Ars Electronica Festival, O.K. Center for Contemporary Art, Linz, Austria, September 2001.
+[Potential Difference](/projects/potentialdifference/) exhibited at the Ars Electronica Festival, O.K. Center for Contemporary Art, Linz, Austria, September 2001.

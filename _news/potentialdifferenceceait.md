@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Potential Difference at the CEAIT Electronic Music Festival, CalArts, Valencia, California, 2000.
+[Potential Difference](/projects/potentialdifference/) at the CEAIT Electronic Music Festival, CalArts, Valencia, California, 2000.

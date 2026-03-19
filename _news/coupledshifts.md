@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Coupled Shifts, installation at the Ussachevsky Electronic Music Festival, Claremont, California. February 1996.
+[Coupled Shifts](/projects/coupledshifts/), installation at the Ussachevsky Electronic Music Festival, Claremont, California. February 1996.

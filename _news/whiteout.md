@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Whiteout at the Walsh Library Gallery, Seton Hall University, New Jersey. November 10 – December 12, 2008.
+[Whiteout](/projects/whiteout/) at the Walsh Library Gallery, Seton Hall University, New Jersey. November 10 – December 12, 2008.

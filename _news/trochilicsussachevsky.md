@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Trochilics at the Ussachevsky Festival, Pomona College. February 2002.
+[Trochilics](/projects/trochilics/) at the Ussachevsky Festival, Pomona College. February 2002.

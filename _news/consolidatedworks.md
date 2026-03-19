@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Potential Difference at Consolidated Works, Seattle. February – April 2004.
+[Potential Difference](/projects/potentialdifference/) at Consolidated Works, Seattle. February – April 2004.

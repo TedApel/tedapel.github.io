@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Units of Conveyance, solo exhibit at the Prichard Art Gallery, Moscow, Idaho. May 2016.
+[Units of Conveyance](/projects/unitsofconveyance/), solo exhibit at the Prichard Art Gallery, Moscow, Idaho. May 2016.

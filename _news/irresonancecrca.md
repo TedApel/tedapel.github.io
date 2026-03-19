@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Irresonance at Three Sound Works, CRCA, UC San Diego, California, 2003.
+[Irresonance](/projects/irresonance/) at Three Sound Works, CRCA, UC San Diego, California, 2003.

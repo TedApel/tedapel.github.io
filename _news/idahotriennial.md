@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Irresonance wins the grand prize at the Idaho Triennial, Boise Art Museum. December 2004 – March 2005.
+[Irresonance](/projects/irresonance/) wins the grand prize at the Idaho Triennial, Boise Art Museum. December 2004 – March 2005.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Potential Difference at the Audio Art Festival, Goethe-Institut, Kraków, Poland, November 1999.
+[Potential Difference](/projects/potentialdifference/) at the Audio Art Festival, Goethe-Institut, Kraków, Poland, November 1999.

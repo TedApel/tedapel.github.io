@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-surface osculations II at the Academy of Arts, Berlin. International Computer Music Conference, August 27 – September 1, 2000.
+[surface osculations II](/projects/osculate2/) at the Academy of Arts, Berlin. International Computer Music Conference, August 27 – September 1, 2000.

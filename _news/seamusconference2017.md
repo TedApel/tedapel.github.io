@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Incidental Speakers, sound installation at the SEAMUS Conference, St. Cloud State University, Saint Cloud, Minnesota. April 2017.
+[Incidental Speakers](/projects/incidentalspeakers/), sound installation at the SEAMUS Conference, St. Cloud State University, Saint Cloud, Minnesota. April 2017.

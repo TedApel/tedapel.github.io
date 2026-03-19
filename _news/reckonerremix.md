@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Immer Lichter, a remix of Radiohead's Reckoner, 2008.
+[Immer Lichter](/projects/immerlichter/), a remix of Radiohead's Reckoner, 2008.

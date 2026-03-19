@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Buran Control Room (with Amanda Hamilton) at Modern Art 2010, Boise, Idaho.
+[Buran](/projects/buran/) Control Room (with Amanda Hamilton) at Modern Art 2010, Boise, Idaho.

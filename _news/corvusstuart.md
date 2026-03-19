@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Corvus Brachyrhynchos Chimes permanently installed at the UCSD Stuart Collection. June 2002.
+[Corvus Brachyrhynchos Chimes](/projects/chimes/) permanently installed at the UCSD Stuart Collection. June 2002.

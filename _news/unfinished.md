@@ -6,7 +6,7 @@ title: Unfinished
 related_posts: false
 ---
 
-Sound Activated Switch at "Unfinished" at the Linen Building, Boise.
+[Sound Activated Switch](/projects/soundactivatedswitch/) at "Unfinished" group show, Linen Building, Boise, Idaho, March 2013.
 
 {% include figure.liquid path="assets/img/art_unfinished.jpg" title="Unfinished" class="img-fluid rounded z-depth-1" %}
 

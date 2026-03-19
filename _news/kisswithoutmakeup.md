@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-a radial and dia lara released on Kiss Without Makeup by Franklin Bruno, Absolutely Kosher Records, 2000.
+[a radial](/projects/aradial/) and dia lara released on Kiss Without Makeup by Franklin Bruno, Absolutely Kosher Records, 2000.

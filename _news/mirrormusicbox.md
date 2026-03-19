@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Mirror Music Box, installation at Artspace at the Eagle Performing Arts Center, Eagle, Idaho. September–October 2013.
+[Mirror Music Box](/projects/mirrormusicbox/), installation at Artspace at the Eagle Performing Arts Center, Eagle, Idaho. September–October 2013.

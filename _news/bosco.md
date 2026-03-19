@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Shakers at the Boise Open Studios Collective Organization, Boise Art Museum, Boise, Idaho.
+[Shakers](/projects/shakers/) at the Boise Open Studios Collective Organization, Boise Art Museum, Boise, Idaho.

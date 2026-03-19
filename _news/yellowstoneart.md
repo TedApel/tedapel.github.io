@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Trochilics at Set in Motion, Yellowstone Art Museum, Billings, Montana, 2007.
+[Trochilics](/projects/trochilics/) at Set in Motion, Yellowstone Art Museum, Billings, Montana, 2007.

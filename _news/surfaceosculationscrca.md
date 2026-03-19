@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-surface osculations, installation at the Center for Research in Computing and the Arts, La Jolla, California, 1998.
+[surface osculations](/projects/surfaceosculations/), installation at the Center for Research in Computing and the Arts, La Jolla, California, 1998.

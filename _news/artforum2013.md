@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Selected for Artforum International Magazine's Best of 2013 for the Call and Resonance installation.
+Selected for Artforum International Magazine's Best of 2013 for the [Call and Resonance](/projects/callandresonance/) installation.

@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Selected as the 2013 winner of the FETA Prize in Sound Art for the work Call and Resonance.
+Selected as the 2013 winner of the FETA Prize in Sound Art for the work [Call and Resonance](/projects/callandresonance/).
 
 <a href="https://fetafoundation.org/feta-sound-prize-virtual-archives/">FETA Prize</a>

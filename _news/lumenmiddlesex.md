@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Potential Difference at LUMEN, Middlesex College, Edison, New Jersey, 2010.
+[Potential Difference](/projects/potentialdifference/) at LUMEN, Middlesex College, Edison, New Jersey, 2010.

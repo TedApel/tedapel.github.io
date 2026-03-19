@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Potential Difference receives an honorary mention in the Digital Musics category at the Prix Ars Electronica, Linz, Austria, 2001.
+[Potential Difference](/projects/potentialdifference/) receives an honorary mention in the Digital Musics category at the Prix Ars Electronica, Linz, Austria, 2001.
