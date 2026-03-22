@@ -15,7 +15,7 @@ Five very large test tubes are used to impart strong resonances on hand made sou
     </div>
 </div>
 
-<iframe src="https://player.vimeo.com/video/29117451?h=edc8fa058a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+{% include video.liquid path="https://player.vimeo.com/video/29117451" class="img-fluid rounded z-depth-1" %}
 <p><a href="https://vimeo.com/29117451">Call and Resonance</a> from <a href="https://vimeo.com/vud">Ted Apel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <div class="caption">

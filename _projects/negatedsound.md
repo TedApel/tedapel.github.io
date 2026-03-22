@@ -17,7 +17,7 @@ Negated sound is an experimental analysis-synthesis method that creates conceptu
 
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
-<div style="padding:56.25% 0 0 0;position:relative;"><video controls style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://cloud.iem.at/index.php/s/3iqHzWEiWPRsn4r/download/apel-2-comp.mp4"></video></div>
+{% include video.liquid path="https://cloud.iem.at/index.php/s/3iqHzWEiWPRsn4r/download/apel-2-comp.mp4" class="img-fluid rounded z-depth-1" controls=true %}
 </div>
 </div>
 <div class="caption">
@@ -26,7 +26,7 @@ Negated Sound Analysis-Synthesis, presentation at the Speculative Sound Synthesi
 
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
-<div style="padding:56.25% 0 0 0;position:relative;"><video controls style="position:absolute;top:0;left:0;width:100%;height:100%;" src="/assets/video/negatedGong.mp4"></video></div>
+{% include video.liquid path="assets/video/negatedGong.mp4" class="img-fluid rounded z-depth-1" controls=true %}
 </div>
 </div>
 <div class="caption">

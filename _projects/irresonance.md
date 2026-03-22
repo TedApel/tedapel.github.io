@@ -19,7 +19,7 @@ Irresonance is a sound installation that uses feedback to resonate eight small b
 
 </div>
 
-<iframe src="https://player.vimeo.com/video/29014178?h=d310639c3d" width="640" height="492" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+{% include video.liquid path="https://player.vimeo.com/video/29014178" class="img-fluid rounded z-depth-1" %}
 <p><a href="https://vimeo.com/29014178">Irresonance</a> from <a href="https://vimeo.com/vud">Ted Apel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---

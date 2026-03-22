@@ -22,6 +22,6 @@ Handmade eurorack module for amplifying the sounds of stones placed on a wood pa
     Stones, wood panel, electronics
 </div>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/157764291?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Stones"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+{% include video.liquid path="https://player.vimeo.com/video/157764291" class="img-fluid rounded z-depth-1" %}
 
 Stones module with [Steady State Fate MMF](http://www.steadystatefate.com/mmf) filter and [RYO Penta](http://ljunggrenaudio.com/products/sequencing.html#penta) sequencer.
