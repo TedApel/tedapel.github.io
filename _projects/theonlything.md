@@ -22,10 +22,11 @@ During the 1930s, motion lamps were commonly displayed on top or near home radio
 </div>
 
 {% include video.liquid path="https://player.vimeo.com/video/651700806" class="img-fluid rounded z-depth-1" %}
+
 <p><a href="https://vimeo.com/651700806">The Only Thing We Have to Fear</a> from <a href="https://vimeo.com/vud">Ted Apel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
 **Exhibitions**
 
-**Surel's Place**, Boise, Idaho, *November–December 2021*
+**Surel's Place**, Boise, Idaho, _November–December 2021_

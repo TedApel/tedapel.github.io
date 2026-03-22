@@ -25,4 +25,4 @@ The Soviet space shuttle Buran completed one unmanned flight on November 15, 198
 
 **Exhibitions**
 
-**Modern Art 2010**, Boise, Idaho, *June 2010*
+**Modern Art 2010**, Boise, Idaho, _June 2010_

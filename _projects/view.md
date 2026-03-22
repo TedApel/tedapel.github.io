@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wenke's View
-description: A sound installation 
+description: A sound installation
 img: assets/img/wenkesvg.svg
 importance: 28
 category: soundart
@@ -15,10 +15,6 @@ Play two channel version of Wenke's View.
 <source src="/assets/sound/WenkesView.ogg" type="audio/ogg"/>
 <source src="/assets/sound/WenkesView.mp3" type="audio/mpeg"/>
 html5 browsers only.</audio>
-
-
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -34,4 +30,4 @@ html5 browsers only.</audio>
 
 **Exhibitions**
 
-**College of Santa Fe**, New Mexico, *2000*
+**College of Santa Fe**, New Mexico, _2000_

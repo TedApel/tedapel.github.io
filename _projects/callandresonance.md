@@ -16,6 +16,7 @@ Five very large test tubes are used to impart strong resonances on hand made sou
 </div>
 
 {% include video.liquid path="https://player.vimeo.com/video/29117451" class="img-fluid rounded z-depth-1" %}
+
 <p><a href="https://vimeo.com/29117451">Call and Resonance</a> from <a href="https://vimeo.com/vud">Ted Apel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <div class="caption">
@@ -27,8 +28,8 @@ Five very large test tubes are used to impart strong resonances on hand made sou
 
 **Exhibitions**
 
-**Boise Art Museum**, *December 2006–January 2007*<br>
-**Southwestern College**, *March 2007*<br>
-**Knob and Tube Variations**, Kristi Engle Gallery, Los Angeles, *January–February 2009*<br>
-**Black Box Gallery**, Copenhagen, Denmark, *July 2012*<br>
-**First Prize**, Foundation for Emerging Technologies and Arts (FETA) Prize in Sound Art, *2013*
+**Boise Art Museum**, _December 2006–January 2007_<br>
+**Southwestern College**, _March 2007_<br>
+**Knob and Tube Variations**, Kristi Engle Gallery, Los Angeles, _January–February 2009_<br>
+**Black Box Gallery**, Copenhagen, Denmark, _July 2012_<br>
+**First Prize**, Foundation for Emerging Technologies and Arts (FETA) Prize in Sound Art, _2013_

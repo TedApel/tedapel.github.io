@@ -18,7 +18,4 @@ by Ted Apel / Christopher Willits
 
 </div>
 
-
 [Tiger Flower Circle Sun](https://overlap.bandcamp.com/track/tiger-flower-circle-sun-ted-apel-remix)
-
-	

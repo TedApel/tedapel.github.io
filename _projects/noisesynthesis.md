@@ -11,7 +11,7 @@ An extension to the phase vocoder method of representing sound in which the "sin
 
 ## Paper
 
-Apel, T. (2014). Sinusoidality Analysis and Noise Synthesis in Phase Vocoder Based Time-Stretching. *Proceedings of the Australasian Computer Music Conference*, pp. 7-12. [PDF]({{ site.baseurl }}/assets/pdf/ApelACMC2014.pdf)
+Apel, T. (2014). Sinusoidality Analysis and Noise Synthesis in Phase Vocoder Based Time-Stretching. _Proceedings of the Australasian Computer Music Conference_, pp. 7-12. [PDF]({{ site.baseurl }}/assets/pdf/ApelACMC2014.pdf)
 
 ## Code
 

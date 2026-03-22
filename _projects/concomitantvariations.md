@@ -24,4 +24,4 @@ Concomitant Variations is a sound installation in which many glass tubes are use
 
 **Exhibitions**
 
-**Blue Galleries**, Boise State University, *September–October 2019*
+**Blue Galleries**, Boise State University, _September–October 2019_

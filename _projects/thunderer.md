@@ -30,5 +30,5 @@ html5 browsers only.</audio>
 
 **Exhibitions**
 
-**Bregman Electro-Acoustic Music Studio**, Dartmouth College, *1993*<br>
-**SoundCulture 96**, WORKS/San Jose, *April–May 1996*
+**Bregman Electro-Acoustic Music Studio**, Dartmouth College, _1993_<br>
+**SoundCulture 96**, WORKS/San Jose, _April–May 1996_

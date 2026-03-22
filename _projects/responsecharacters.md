@@ -28,6 +28,6 @@ Seven tubes are used to impart strong resonances on sound recording and playback
 
 **Exhibitions**
 
-**Black Box Gallery**, Copenhagen, *2012*<br>
-**Ussachevsky Electronic Music Festival**, Pomona College, *2014*<br>
-**The Auricle**, Sonic Arts Gallery, Christchurch, New Zealand, *September 2014*
+**Black Box Gallery**, Copenhagen, _2012_<br>
+**Ussachevsky Electronic Music Festival**, Pomona College, _2014_<br>
+**The Auricle**, Sonic Arts Gallery, Christchurch, New Zealand, _September 2014_

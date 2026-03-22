@@ -23,4 +23,4 @@ The traditional five senses depicted in the context of the loudspeaker.
 
 **Exhibitions**
 
-**Aotearoa Audio Arts Festival**, Potocki Paterson Gallery, Wellington, New Zealand, *September 2018*
+**Aotearoa Audio Arts Festival**, Potocki Paterson Gallery, Wellington, New Zealand, _September 2018_

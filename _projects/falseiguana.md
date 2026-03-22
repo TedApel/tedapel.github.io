@@ -18,7 +18,6 @@ by Ted Apel and Anthony Burr
 
 </div>
 
-
 [False Iguana](https://muzaneditions.bandcamp.com/album/false-iguana)
 
 Anthony Burr:
@@ -36,8 +35,3 @@ Ted Apel, electronics
 Anthony Burr, organ
 Mixed and edited by Anthony Burr
 Design by Standard Grey
-
-
-
-
-

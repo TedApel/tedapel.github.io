@@ -18,8 +18,6 @@ Amplified Audubon bird call. Rubber grommet for acoustic isolation. Piezo pickup
 +/-12V 5mA
 Skiff friendly
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/eurorack/birdcall2.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
@@ -29,6 +27,3 @@ Skiff friendly
     Bird call, aluminum panel, electronics
 
 </div>
-
-
-

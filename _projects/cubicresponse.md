@@ -24,4 +24,4 @@ The installation consists of seven circuits which record, manipulate and play so
 
 **Exhibitions**
 
-**Prichard Art Gallery**, Moscow, Idaho, *May 2016*
+**Prichard Art Gallery**, Moscow, Idaho, _May 2016_

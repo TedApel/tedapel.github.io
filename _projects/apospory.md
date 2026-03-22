@@ -18,16 +18,10 @@ by Ted Apel
 
 </div>
 
-
 [Apospory](https://tedapel.bandcamp.com/album/apospory)
 
-	
 1. Apospory 50:33
-
 
 released July 25, 2018
 
 cover: Jonathan Sadler
-
-
-

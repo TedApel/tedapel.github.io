@@ -18,11 +18,8 @@ by Ted Apel
 
 </div>
 
-
 [Findings](https://tedapel.bandcamp.com/album/findings)
 
-	
-	
 1. Intently 09:51
 
 2. Shepherd 06:20
@@ -37,12 +34,8 @@ by Ted Apel
 
 7. Pandanus 05:28
 
-
 Handmade instruments and electronics.
 credits
 released November 30, 2015
 
 cover Jonathan Sadler
-
-
-

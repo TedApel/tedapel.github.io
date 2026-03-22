@@ -24,12 +24,12 @@ The installation is comprised of ten freestanding sculptures. Each sculpture con
 
 **Exhibitions**
 
-**CEAIT Electronic Music Festival**, CalArts, *January 2002*<br>
-**Ussachevsky Festival**, Pomona College, *February 2002*<br>
-**SEARCH V**, UCSD, *October 2002*<br>
-**Activating the Medium**, Cuesta College Fine Arts Gallery, *February–March 2004*<br>
-**Boise Art Museum**, *December 2006–January 2007*<br>
-**Southwestern College**, *March 2007*<br>
-**Set in Motion: Kinetic Art in the Northwest**, Yellowstone Art Museum, Billings, Montana, *July–September 2007*<br>
-**Prichard Art Gallery**, Moscow, Idaho, *June–August 2010*<br>
-**Herrett Center for Arts and Sciences**, Twin Falls, Idaho, *February–March 2015*
+**CEAIT Electronic Music Festival**, CalArts, _January 2002_<br>
+**Ussachevsky Festival**, Pomona College, _February 2002_<br>
+**SEARCH V**, UCSD, _October 2002_<br>
+**Activating the Medium**, Cuesta College Fine Arts Gallery, _February–March 2004_<br>
+**Boise Art Museum**, _December 2006–January 2007_<br>
+**Southwestern College**, _March 2007_<br>
+**Set in Motion: Kinetic Art in the Northwest**, Yellowstone Art Museum, Billings, Montana, _July–September 2007_<br>
+**Prichard Art Gallery**, Moscow, Idaho, _June–August 2010_<br>
+**Herrett Center for Arts and Sciences**, Twin Falls, Idaho, _February–March 2015_

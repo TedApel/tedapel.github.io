@@ -44,4 +44,4 @@ A loudspeaker is represented in four ways, a carved sculpture of a loudspeaker, 
 
 **Exhibitions**
 
-**Aotearoa Audio Arts Festival**, New Zealand, *September 2018*
+**Aotearoa Audio Arts Festival**, New Zealand, _September 2018_

@@ -23,5 +23,5 @@ A loudspeaker with a crocheted speaker cone.
 
 **Exhibitions**
 
-**Art Department Faculty Exhibition**, Boise State University, *2013*<br>
-**Seeing of Sound**, Art League Rhode Island Gallery, Providence, Rhode Island, *December 2019*
+**Art Department Faculty Exhibition**, Boise State University, _2013_<br>
+**Seeing of Sound**, Art League Rhode Island Gallery, Providence, Rhode Island, _December 2019_

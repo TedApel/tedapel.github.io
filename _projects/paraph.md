@@ -18,17 +18,12 @@ by Ted Apel
 
 </div>
 
-
 [Paraph](https://tedapel.bandcamp.com/album/paraph)
 
 1.Revery 24:10
 2.Visive 23:54
 
-
 released March 5, 2022
 
 cover: Jonathan Sadler
 mastering: Lee Ray
-
-
-

@@ -19,9 +19,8 @@ by Franklin Bruno
 </div>
 
 Tracks 1 and 13 with Ted Apel
-	
+
 1. A Radial 00:59
-	
-13. Dia Lara 04:18
+2. Dia Lara 04:18
 
 [Kiss Without Makeup](https://franklinbruno.bandcamp.com/album/kiss-without-makeup)

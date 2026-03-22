@@ -15,7 +15,6 @@ category: recordings
 <div class="caption">
 The Frog Peak Collaborations Project
 
-
 </div>
 
 Lay Investiture, 1998

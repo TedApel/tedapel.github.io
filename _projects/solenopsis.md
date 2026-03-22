@@ -23,4 +23,4 @@ Many small speakers form a trail. The normally inaudible sounds of black ants ca
 
 **Exhibitions**
 
-**Djerassi Resident Artists Program**, Woodside, CA, *July 2001*
+**Djerassi Resident Artists Program**, Woodside, CA, _July 2001_

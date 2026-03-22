@@ -7,7 +7,7 @@ importance: 32
 category: soundart
 ---
 
-Two small loudspeakers contain salt and pepper. The sounds of using a salt shaker and pepper grinder emanate from each. These sounds cause the salt and pepper to overflow and mix on the table. 
+Two small loudspeakers contain salt and pepper. The sounds of using a salt shaker and pepper grinder emanate from each. These sounds cause the salt and pepper to overflow and mix on the table.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -23,5 +23,5 @@ Two small loudspeakers contain salt and pepper. The sounds of using a salt shake
 
 **Exhibitions**
 
-**Boise Art Museum**, *June 2005*<br>
-**Southwestern College**, *March 2007*
+**Boise Art Museum**, _June 2005_<br>
+**Southwestern College**, _March 2007_

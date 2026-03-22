@@ -23,7 +23,7 @@ category: soundart
 
 **Exhibitions**
 
-**Art Space at the Eagle Performing Arts Center**, Eagle, Idaho, *November–December 2013*
+**Art Space at the Eagle Performing Arts Center**, Eagle, Idaho, _November–December 2013_
 
 This installation breaks down the musical motifs of the music box into an interactive site-specific sonic environment utilizing computer processes, sonic transducers and two hand cranked music boxes. The clear plastic walls of the gallery have been transformed into the sounding mechanism of the loudspeaker, and no two interactions with the music boxes will result in the same sounds.
 

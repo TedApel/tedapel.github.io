@@ -23,4 +23,4 @@ Five large, sound-producing metal plates of differing widths are suspended from 
 
 **Exhibitions**
 
-**Boise Art Museum**, *December 2006–January 2007*
+**Boise Art Museum**, _December 2006–January 2007_

@@ -25,4 +25,4 @@ The Unfinished show catalog can be purchased here [Unfinished](http://www.blurb.
 
 **Exhibitions**
 
-**Unfinished**, Linen Building, Boise, Idaho, *2013*
+**Unfinished**, Linen Building, Boise, Idaho, _2013_

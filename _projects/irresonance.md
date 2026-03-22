@@ -20,12 +20,13 @@ Irresonance is a sound installation that uses feedback to resonate eight small b
 </div>
 
 {% include video.liquid path="https://player.vimeo.com/video/29014178" class="img-fluid rounded z-depth-1" %}
+
 <p><a href="https://vimeo.com/29014178">Irresonance</a> from <a href="https://vimeo.com/vud">Ted Apel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
 **Exhibitions**
 
-**Three Sound Works**, CRCA, UC San Diego, *2003*<br>
-**Idaho Triennial**, Boise Art Museum, *2004*<br>
-**Prichard Gallery**, University of Idaho, Moscow, Idaho, *2005*
+**Three Sound Works**, CRCA, UC San Diego, _2003_<br>
+**Idaho Triennial**, Boise Art Museum, _2004_<br>
+**Prichard Gallery**, University of Idaho, Moscow, Idaho, _2005_

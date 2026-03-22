@@ -33,5 +33,5 @@ I originally began experimenting with metal plates as an attempt to introduce "e
 
 **Exhibitions**
 
-**CRCA**, University of California, San Diego, *October 1998*<br>
-**Prizewinner**, 26th Bourges International Electroacoustic Music Competition, *1999*
+**CRCA**, University of California, San Diego, _October 1998_<br>
+**Prizewinner**, 26th Bourges International Electroacoustic Music Competition, _1999_

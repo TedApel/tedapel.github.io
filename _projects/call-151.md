@@ -29,7 +29,7 @@ Listen to Track 1 of the 6 tracks of "5:5 6:5 7:5 8:5 9:5".
 <source src="/assets/sound/Call-151Track01.mp3" type="audio/mpeg"/>
 html5 browsers only.</audio>
 
-This limited to 100 edition CD-R is available for purchase for $15.00 including shipping. Payment by Paypal only. Click below to purchase. 
+This limited to 100 edition CD-R is available for purchase for $15.00 including shipping. Payment by Paypal only. Click below to purchase.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 		<input type="hidden" name="cmd" value="_xclick">
@@ -46,5 +46,3 @@ This limited to 100 edition CD-R is available for purchase for $15.00 including 
 		<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif"  name="submit" alt="PayPal - The safer, easier way to pay online!">
 		<img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
-

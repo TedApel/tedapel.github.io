@@ -13,8 +13,6 @@ Amplified paper strip based music box. Spruce panel dyed grey. Piezo pickup.
 +/-12V 5mA
 Skiff friendly
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/eurorack/musicbox2.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
@@ -24,7 +22,4 @@ Skiff friendly
 
 </div>
 
-
-
 {% include video.liquid path="https://player.vimeo.com/video/160907171" class="img-fluid rounded z-depth-1" %}
-

@@ -6,7 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-
 Ted Apel is a sound artist whose work explores how sound becomes intelligible through material systems, speculative sonic processes, and distributed listening. He has exhibited his work at sound art festivals and exhibits including the SoundCulture festival in San Francisco; the Ussachevsky Festival in Claremont, California; the Audio Art Festival in Krakow, Poland; the Sound Symposium in St. John's Newfoundland; the O.K. Center for Contemporary Art in Linz, Austria; and the Academy of Arts, Berlin.
 
 He was twice a prizewinner at the Bourges International Electroacoustic Music Competition for his sound installations; his sound installation received an honorary mention at the Prix Ars Electronica; his sound installation won the grand prize in the Idaho Triennial; and he won the first annual FETA prize for Sound Art.

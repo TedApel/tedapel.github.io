@@ -71,30 +71,21 @@
       "position": "Adjunct Faculty",
       "startDate": "2010",
       "endDate": "2012",
-      "highlights": [
-        "Engr 120L: Introduction to Engineering Lab",
-        "Engr 397: Special Topics: Digital Audio"
-      ]
+      "highlights": ["Engr 120L: Introduction to Engineering Lab", "Engr 397: Special Topics: Digital Audio"]
     },
     {
       "name": "Boise State University, Art Department",
       "position": "Adjunct Faculty",
       "startDate": "2006",
       "endDate": "2012",
-      "highlights": [
-        "Art 298: Seminar: Contemporary Art Theory",
-        "Art 305: Studio in Visual Design: New Media Art"
-      ]
+      "highlights": ["Art 298: Seminar: Contemporary Art Theory", "Art 305: Studio in Visual Design: New Media Art"]
     },
     {
       "name": "Boise State University, Department of Music",
       "position": "Adjunct Faculty",
       "startDate": "2005",
       "endDate": "2012",
-      "highlights": [
-        "Music 312: Introduction to Computer Music (8 semesters)",
-        "Music 512: Electronic Music Applications (2 semesters)"
-      ]
+      "highlights": ["Music 312: Introduction to Computer Music (8 semesters)", "Music 512: Electronic Music Applications (2 semesters)"]
     },
     {
       "name": "Center for Research in Computing and the Arts, University of California, San Diego",

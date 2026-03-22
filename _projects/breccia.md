@@ -31,32 +31,29 @@ William Lewis - Guitar, Melodica
 
 ## Repertoire
 
-Robert Ashley, *She Was A Visitor* (1967)<br>
-Charles Amirkhanian, *Duet for Ratchets* (1966)<br>
-Bob Becker, *Coming Together* (1973)<br>
-Gavin Bryars, *Jesus' Blood Never Failed Me Yet*<br>
-Lynn Goldsmith, *Adventures in Success*<br>
-Gretchen Jude, *News Piece* (2007)<br>
-Alvin Lucier, *Crossings, for small orchestra with slow-sweep pure wave oscillator*<br>
-Tom Phillips, *Ornamentik* (1969)<br>
-Michael Pisaro, *The Collection*<br>
-Terry Riley, *In C* (1964)<br>
-Frederic Rzewski, *Les Moutons de Panurge* (1969)<br>
-James Tenney, *Swell Piece No. 2*<br>
-Christian Wolff, *Stones, Exercise 16*<br>
-La Monte Young, *Composition 1960, #7*
+Robert Ashley, _She Was A Visitor_ (1967)<br>
+Charles Amirkhanian, _Duet for Ratchets_ (1966)<br>
+Bob Becker, _Coming Together_ (1973)<br>
+Gavin Bryars, _Jesus' Blood Never Failed Me Yet_<br>
+Lynn Goldsmith, _Adventures in Success_<br>
+Gretchen Jude, _News Piece_ (2007)<br>
+Alvin Lucier, _Crossings, for small orchestra with slow-sweep pure wave oscillator_<br>
+Tom Phillips, _Ornamentik_ (1969)<br>
+Michael Pisaro, _The Collection_<br>
+Terry Riley, _In C_ (1964)<br>
+Frederic Rzewski, _Les Moutons de Panurge_ (1969)<br>
+James Tenney, _Swell Piece No. 2_<br>
+Christian Wolff, _Stones, Exercise 16_<br>
+La Monte Young, _Composition 1960, #7_
 
 ---
 
 **Performances**
 
-**Offset**, Visual Arts Collective, *April 27, 2006*<br>
-**Boise Experimental Music Festival**, Visual Arts Collective, *April 29, 2006*<br>
-**Contemporary Artists Exhibit**, 814 Idaho Street, *May 4, 2006*<br>
-**Gallery at Hyde Park**, *November 18, 2006*<br>
-**The Room Show**, Visual Arts Collective, *February 23, 2007*<br>
-**Visual Arts Open House**, Boise State University, *March 16, 2007*<br>
-**Boise Experimental Music Festival**, Visual Arts Collective, *April 28, 2007*
-
-
-
+**Offset**, Visual Arts Collective, _April 27, 2006_<br>
+**Boise Experimental Music Festival**, Visual Arts Collective, _April 29, 2006_<br>
+**Contemporary Artists Exhibit**, 814 Idaho Street, _May 4, 2006_<br>
+**Gallery at Hyde Park**, _November 18, 2006_<br>
+**The Room Show**, Visual Arts Collective, _February 23, 2007_<br>
+**Visual Arts Open House**, Boise State University, _March 16, 2007_<br>
+**Boise Experimental Music Festival**, Visual Arts Collective, _April 28, 2007_

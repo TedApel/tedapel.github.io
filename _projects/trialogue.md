@@ -23,4 +23,4 @@ Three organ pipes are modified with speakers. A trialogue between the resonant f
 
 **Exhibitions**
 
-**Merge Visual**, Macon Museum of Arts and Sciences, Macon, GA, *September–November 2008*
+**Merge Visual**, Macon Museum of Arts and Sciences, Macon, GA, _September–November 2008_

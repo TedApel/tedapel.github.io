@@ -3,11 +3,10 @@ layout: post
 date: 2023-06-15
 inline: true
 related_posts: false
-
 ---
 
-The sound installation [Conic Variations](/projects/conicvariations/) will be part of the Sound and Music Computing Conference at The Royal College of Music and The KTH Royal Institute of Technology in Stockholm, Sweden. 
+The sound installation [Conic Variations](/projects/conicvariations/) will be part of the Sound and Music Computing Conference at The Royal College of Music and The KTH Royal Institute of Technology in Stockholm, Sweden.
 
 <a href="https://smcnetwork.org/smc2023/">SMC 2023</a>
 
-Performance of *Sharing Speculative Relativity*.
+Performance of _Sharing Speculative Relativity_.

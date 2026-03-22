@@ -18,7 +18,6 @@ sound sculpture and other audio works.
 Ted Apel
 1995 CD-R
 
-
 </div>
 
 Platinum Segments (1994)
@@ -39,14 +38,12 @@ Light Monochromatic Line (1991)
 
 The Thunderer (1993)
 
-
-<a href="/assets/sound/01%20Platinum%20Segments.mp3">Download</a> or listen to Platinum Segments (1994)<br />      
+<a href="/assets/sound/01%20Platinum%20Segments.mp3">Download</a> or listen to Platinum Segments (1994)<br />  
 <audio controls="controls">
+
 <source src="/assets/sound/01%20Platinum%20Segments.ogg" type="audio/ogg"/>
 <source src="/assets/sound/01%20Platinum%20Segments.mp3" type="audio/mpeg"/>
 html5 browsers only.</audio>
-
-
 
 This limited edition CD-R is available for purchase for $15.00 including shipping. Payment by Paypal only. Click below to purchase.
 
@@ -65,4 +62,3 @@ This limited edition CD-R is available for purchase for $15.00 including shippin
 	<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif"  name="submit" alt="PayPal - The safer, easier way to pay online!">
 	<img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 	</form>
-	

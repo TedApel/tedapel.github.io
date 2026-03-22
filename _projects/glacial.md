@@ -15,11 +15,10 @@ category: recordings
 <div class="caption">
 Glacial Evidence - Athabaska
 
-
 </div>
 
 Ted Apel and Scott Crocker
-1984 
+1984
 LP
 
 Side 1
@@ -34,7 +33,7 @@ Motion (Slow Motion)
 
 Snow blind
 
-Ice Ax Orchestra*
+Ice Ax Orchestra\*
 
 Side 2
 
@@ -50,4 +49,4 @@ Isomorphism
 
 En Carard Canne
 
-* John Lopuck, Scott VanFleet, Eric Somers, Fred Mulder, Ted Apel, and Scott Crocker.
+- John Lopuck, Scott VanFleet, Eric Somers, Fred Mulder, Ted Apel, and Scott Crocker.

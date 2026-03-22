@@ -8,7 +8,6 @@ category: projects
 nav: false
 ---
 
-
 <!-- eurorack projects -->
 <div class="projects">
   {%- assign sorted_eurorack = site.projects | where: "category", "eurorack" | sort: "importance" | reverse %}

@@ -23,5 +23,5 @@ Two loudspeakers, one is electromagnetically shaken to cause two bells to sound,
 
 **Exhibitions**
 
-**Boise Art Museum**, *December 2006–January 2007*<br>
-**Southwestern College**, *March 2007*
+**Boise Art Museum**, _December 2006–January 2007_<br>
+**Southwestern College**, _March 2007_

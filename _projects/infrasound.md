@@ -16,7 +16,7 @@ The sonification algorithm is written in Faust and compiled to C++ for the Teens
 
 ## Publications
 
-Apel, T. & Johnson, J. (2021). Portable Realtime Volcano Infrasound Auditory Display Devices. *Proceedings of the 26th International Conference on Auditory Display (ICAD 2021)*. [PDF]({{ site.baseurl }}/assets/pdf/ICAD_2021_Apel_Johnson.pdf)
+Apel, T. & Johnson, J. (2021). Portable Realtime Volcano Infrasound Auditory Display Devices. _Proceedings of the 26th International Conference on Auditory Display (ICAD 2021)_. [PDF]({{ site.baseurl }}/assets/pdf/ICAD_2021_Apel_Johnson.pdf)
 
 [Portable Realtime Volcano Infrasound Auditory Display Devices - ICAD 2021](https://www.youtube.com/watch?v=VQlbgFXnrPo)
 

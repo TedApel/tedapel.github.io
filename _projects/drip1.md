@@ -23,4 +23,4 @@ A copper spigot creates a dripping sound.
 
 **Exhibitions**
 
-**Visual Arts Center**, Boise State University, *September 2006*
+**Visual Arts Center**, Boise State University, _September 2006_
