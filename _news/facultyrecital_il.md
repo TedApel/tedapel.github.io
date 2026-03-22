@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Faculty Artist Series Recital: Dr. Kramer Milan, percussion, and Dr. Ted Apel, electronics. [Read more](../projects/percussionandelectronics).
+Faculty Artist Series Recital: Dr. Kramer Milan, percussion, and Dr. Ted Apel, electronics. [Read more](/projects/percussionandelectronics/).
