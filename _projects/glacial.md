@@ -9,45 +9,30 @@ category: recordings
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/glacial_768.jpg" title="Transforms" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/glacial_768.jpg" title="Glacial Evidence - Athabaska" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-Glacial Evidence - Athabaska
-
+    Glacial Evidence - Athabaska
 </div>
 
-Ted Apel and Scott Crocker
-1984
-LP
+Ted Apel and Scott Crocker, 1984. LP.
 
-Side 1
-
-Pulmonary Edema
-
-Flatland Symphony
-
-Bergschrund
-
-Motion (Slow Motion)
-
-Snow blind
-
+**Side 1**<br>
+Pulmonary Edema<br>
+Flatland Symphony<br>
+Bergschrund<br>
+Motion (Slow Motion)<br>
+Snow blind<br>
 Ice Ax Orchestra\*
 
-Side 2
-
-Avalanche
-
-Ptarmigan Rap
-
-Grind of Granite
-
-Between the Slabs
-
-Isomorphism
-
+**Side 2**<br>
+Avalanche<br>
+Ptarmigan Rap<br>
+Grind of Granite<br>
+Between the Slabs<br>
+Isomorphism<br>
 En Carard Canne
 
-- John Lopuck, Scott VanFleet, Eric Somers, Fred Mulder, Ted Apel, and Scott Crocker.
+\* John Lopuck, Scott VanFleet, Eric Somers, Fred Mulder, Ted Apel, and Scott Crocker.
