@@ -475,8 +475,8 @@ ninja.data = [{
           description: "A sound sculpture",
           section: "Projects",handler: () => {
               window.location.href = "/projects/shakers/";
-            },},{id: "projects-drip",
-          title: 'Drip',
+            },},{id: "projects-drip-1",
+          title: 'Drip #1',
           description: "A sound installation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/drip1/";
@@ -491,7 +491,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/callandresonance/";
             },},{id: "projects-drip-2",
-          title: 'Drip#2',
+          title: 'Drip #2',
           description: "A sound installation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/drip2/";
