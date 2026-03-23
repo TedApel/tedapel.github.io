@@ -3,6 +3,7 @@ layout: page
 title: Potential Difference
 description: A sound installation
 img: assets/img/potential02.jpg
+date: 1999-01-01
 importance: 30
 category: soundart
 ---

@@ -3,6 +3,7 @@ layout: page
 title: VADD
 description: Volcano Auditory Display Devices
 img: assets/img/infrasound.jpg
+date: 2021-01-01
 importance: 1900
 category: projects
 nav: false

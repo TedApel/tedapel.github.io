@@ -3,6 +3,7 @@ layout: page
 title: Pasapas
 description: A sound installation
 img: assets/img/foramacher.jpg
+date: 2010-02-01
 importance: 70
 category: soundart
 ---

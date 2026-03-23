@@ -3,6 +3,7 @@ layout: page
 title: The Frog Peak Collaborations Project
 description: CD
 img: assets/img/frogpeak2.jpg
+date: 1998-01-01
 importance: 15
 category: recordings
 ---

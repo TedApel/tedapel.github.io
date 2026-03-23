@@ -3,6 +3,7 @@ layout: page
 title: Cubic Response
 description: A sound installation
 img: assets/img/cubicresponse.jpg
+date: 2016-05-01
 importance: 112
 category: coupledresonance
 ---

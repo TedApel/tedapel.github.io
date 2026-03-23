@@ -3,6 +3,7 @@ layout: page
 title: Sinusoidality Analysis and Noise Synthesis
 description: Phase vocoder noise preservation during time-stretching
 img: assets/img/noisesynthesis.png
+date: 2014-01-01
 importance: 51
 category: projects
 ---

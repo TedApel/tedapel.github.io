@@ -3,6 +3,7 @@ layout: page
 title: Tiger Flower Circle Sun
 description: Remix
 img: assets/img/willits2.jpg
+date: 2012-01-01
 importance: 93
 category: recordings
 ---

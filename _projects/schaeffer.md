@@ -3,6 +3,7 @@ layout: page
 title: Schaeffer
 description: Sculpture
 img: assets/img/schaeffer.jpg
+date: 2013-01-01
 importance: 108
 category: incidentalspeakers
 ---

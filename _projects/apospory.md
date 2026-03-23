@@ -3,6 +3,7 @@ layout: page
 title: Apospory
 description: digital album
 img: assets/img/apospory.jpg
+date: 2018-07-01
 importance: 113
 category: recordings
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Bird Call
 description: Eurorack Module
 img: assets/img/eurorack/birdcall2.jpg
+date: 2015-01-01
 importance: 7
 category: eurorack
 ---

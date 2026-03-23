@@ -3,6 +3,7 @@ layout: page
 title: surface osculations II
 description: A sound installation
 img: assets/img/surfaceosculations2b.jpg
+date: 2000-08-01
 importance: 38
 category: surfaceosculations
 ---

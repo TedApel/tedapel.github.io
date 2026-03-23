@@ -3,6 +3,7 @@ layout: page
 title: Conic Variations
 description: A sound installation
 img: assets/img/conic01a.jpg
+date: 2023-06-01
 importance: 118
 category: coupledresonance
 ---

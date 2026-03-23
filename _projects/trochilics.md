@@ -3,6 +3,7 @@ layout: page
 title: Trochilics
 description: A sound installation
 img: assets/img/trochilics10a_768.jpg
+date: 2002-01-01
 importance: 58
 category: soundart
 ---

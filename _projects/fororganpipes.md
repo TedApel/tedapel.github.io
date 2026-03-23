@@ -3,6 +3,7 @@ layout: page
 title: For Organ Pipes
 description: A sound installation
 img: assets/img/organseptet.jpg
+date: 2024-02-01
 importance: 120
 category: soundart
 ---

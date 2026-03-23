@@ -3,6 +3,7 @@ layout: page
 title: Solenopsis
 description: A site specific sound installation
 img: assets/img/solenopsis_768.jpg
+date: 2001-07-01
 importance: 36
 category: soundart
 ---

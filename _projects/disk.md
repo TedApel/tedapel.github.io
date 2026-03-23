@@ -3,6 +3,7 @@ layout: page
 title: Electromagnetic Steel Disk
 description: A sound installation
 img: assets/img/disktwo.jpg
+date: 1993-01-01
 importance: 18
 category: surfaceosculations
 ---

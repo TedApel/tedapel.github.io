@@ -3,6 +3,7 @@ layout: page
 title: Jump Start
 description: A sound sculpture
 img: assets/img/jumpstart02.jpg
+date: 2006-12-01
 importance: 50
 category: soundart
 ---

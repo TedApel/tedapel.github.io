@@ -3,6 +3,7 @@ layout: page
 title: The Thunderer
 description: A sound installation
 img: assets/img/thunderer1a.jpg
+date: 1993-01-01
 importance: 14
 category: soundart
 ---

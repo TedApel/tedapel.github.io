@@ -3,6 +3,7 @@ layout: page
 title: Units of Conveyance
 description: A sound installation
 img: assets/img/unitsofconveyance.jpg
+date: 2016-05-01
 importance: 110
 category: incidentalspeakers
 ---

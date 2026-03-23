@@ -3,6 +3,7 @@ layout: page
 title: Speaker[lego]
 description: Sculpture
 img: assets/img/speakerlego.jpg
+date: 2013-01-01
 importance: 106
 category: incidentalspeakers
 ---

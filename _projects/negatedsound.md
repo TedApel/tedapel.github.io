@@ -3,6 +3,7 @@ layout: page
 title: Negated Sound
 description: Sound Analysis synthesis method
 img: assets/img/negatedsound.png
+date: 2024-09-01
 importance: 1800
 category: projects
 ---

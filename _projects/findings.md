@@ -3,6 +3,7 @@ layout: page
 title: Findings
 description: digital album
 img: assets/img/findings.jpg
+date: 2015-11-01
 importance: 111
 category: recordings
 ---

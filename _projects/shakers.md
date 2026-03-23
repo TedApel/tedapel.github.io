@@ -3,6 +3,7 @@ layout: page
 title: Shakers
 description: A sound sculpture
 img: assets/img/shakers.jpg
+date: 2005-06-01
 importance: 32
 category: soundart
 ---

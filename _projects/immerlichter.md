@@ -3,6 +3,7 @@ layout: page
 title: Immer Lichter
 description: A Radiohead remix
 img: assets/img/immerlichter.jpg
+date: 2008-01-01
 importance: 50
 category: recordings
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Stiction
 description: digital album
 img: assets/img/stiction.jpg
+date: 2018-05-01
 importance: 113
 category: recordings
 ---

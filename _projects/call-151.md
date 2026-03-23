@@ -3,6 +3,7 @@ layout: page
 title: call-151
 description: Album
 img: assets/img/call-151.jpg
+date: 2009-01-01
 importance: 67
 category: recordings
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Rods
 description: Eurorack Module
 img: assets/img/eurorack/rods2.jpg
+date: 2015-01-01
 importance: 16
 category: eurorack
 ---

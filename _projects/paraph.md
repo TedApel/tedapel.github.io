@@ -3,6 +3,7 @@ layout: page
 title: Paraph
 description: digital album
 img: assets/img/paraph.jpg
+date: 2022-03-01
 importance: 117
 category: recordings
 ---

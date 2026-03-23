@@ -3,6 +3,7 @@ layout: page
 title: Surface Osculations
 description: Series of metal plate sound installations
 img: assets/img/surfaceosculations1a_768.jpg
+date: 2025-05-01
 importance: 999
 category: soundart
 ---

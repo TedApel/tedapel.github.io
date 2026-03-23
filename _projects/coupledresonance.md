@@ -3,6 +3,7 @@ layout: page
 title: Coupled Resonance
 description: Series of interdependent resonant sound works
 img: assets/img/concomitant5.jpg
+date: 2025-06-01
 importance: 1000
 category: soundart
 ---

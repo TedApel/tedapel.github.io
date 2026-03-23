@@ -3,6 +3,7 @@ layout: page
 title: Modes
 description: A sound sculpture
 img: assets/img/modes1.jpg
+date: 2013-01-01
 importance: 102
 category: incidentalspeakers
 ---

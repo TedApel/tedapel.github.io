@@ -3,6 +3,7 @@ layout: page
 title: Transforms, The Nerve Event Project
 description: CD
 img: assets/img/transform_768.jpg
+date: 1993-01-01
 importance: 13
 category: recordings
 ---

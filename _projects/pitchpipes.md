@@ -3,6 +3,7 @@ layout: page
 title: Pitch Pipes
 description: Eurorack Module
 img: assets/img/eurorack/pitchpipes2.jpg
+date: 2015-01-01
 importance: 8
 category: eurorack
 ---

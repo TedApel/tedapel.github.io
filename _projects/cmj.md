@@ -3,6 +3,7 @@ layout: page
 title: CMJ, Sound and Video Anthology
 description: DVD
 img: assets/img/cmj.jpg
+date: 2003-01-01
 importance: 39
 category: recordings
 ---

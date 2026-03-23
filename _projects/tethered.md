@@ -3,6 +3,7 @@ layout: page
 title: Tethered and Lambent Planes
 description: A sound installation
 img: assets/img/tetheredandlambent_768.jpg
+date: 2000-01-01
 importance: 34
 category: surfaceosculations
 ---

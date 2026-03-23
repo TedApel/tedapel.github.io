@@ -3,6 +3,7 @@ layout: page
 title: Wenke's View
 description: A sound installation
 img: assets/img/wenkesvg.svg
+date: 2000-01-01
 importance: 28
 category: soundart
 ---

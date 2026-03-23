@@ -3,6 +3,7 @@ layout: page
 title: Vibrato and Tremolo Preservation
 description: Preserving sub-audio modulations during phase vocoder time-stretching
 img: assets/img/vibratotremolo.png
+date: 2010-01-01
 importance: 52
 category: projects
 ---

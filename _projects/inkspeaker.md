@@ -3,6 +3,7 @@ layout: page
 title: Ink Speaker
 description: A sound sculpture
 img: assets/img/inkspeaker.jpg
+date: 2013-01-01
 importance: 80
 category: incidentalspeakers
 ---

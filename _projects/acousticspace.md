@@ -3,6 +3,7 @@ layout: page
 title: Acoustic Space
 description: A sonic sculpture
 img: assets/img/acousticspace.jpg
+date: 2013-01-01
 importance: 100
 category: incidentalspeakers
 ---

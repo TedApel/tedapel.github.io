@@ -3,6 +3,7 @@ layout: page
 title: BOSQUE, MOBILE, MARICOPA, BON
 description: CD-R
 img: assets/img/bosque.jpg
+date: 1995-01-01
 importance: 15
 category: recordings
 ---

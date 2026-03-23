@@ -3,6 +3,7 @@ layout: page
 title: Glacial Evidence - Athabaska
 description: LP
 img: assets/img/glacial_768.jpg
+date: 1984-01-01
 importance: 10
 category: recordings
 ---

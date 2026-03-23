@@ -3,6 +3,7 @@ layout: page
 title: Recordings
 description: Albums and compilation appearances
 img: assets/img/paraph.jpg
+date: 2025-03-01
 importance: 117
 category: projects
 ---

@@ -3,6 +3,7 @@ layout: page
 title: The Dreaming Subject Itself
 description: A sound sculpture
 img: assets/img/subject.jpg
+date: 1999-03-01
 importance: 26
 category: surfaceosculations
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Portrait of Malleus
 description: A sound installation
 img: assets/img/portraitofmalleus.jpg
+date: 1997-05-01
 importance: 22
 category: surfaceosculations
 ---

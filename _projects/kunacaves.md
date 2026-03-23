@@ -3,6 +3,7 @@ layout: page
 title: Kuna Caves
 description: Laptop improvisation
 img: assets/img/kunabw.jpg
+date: 2009-06-01
 importance: 68
 category: soundart
 ---

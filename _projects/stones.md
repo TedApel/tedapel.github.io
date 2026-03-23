@@ -3,6 +3,7 @@ layout: page
 title: Stones
 description: Eurorack Module
 img: assets/img/eurorack/stones2.jpg
+date: 2015-01-01
 importance: 9
 category: eurorack
 ---

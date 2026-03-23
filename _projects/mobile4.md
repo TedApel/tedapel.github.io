@@ -3,6 +3,7 @@ layout: page
 title: Mobile 4
 description: A sound installation
 img: assets/img/mobile4b.jpg
+date: 1989-01-01
 importance: 10
 category: soundart
 ---
