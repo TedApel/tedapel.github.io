@@ -51,7 +51,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "news-fleming-fellowship-for-the-built-environment-pomona-college-1990",
+        },{id: "news-glacial-evidence-athabaska-lp-with-scott-crocker-1984",
+          title: 'Glacial Evidence - Athabaska, LP with Scott Crocker, 1984.',
+          description: "",
+          section: "News",},{id: "news-fleming-fellowship-for-the-built-environment-pomona-college-1990",
           title: 'Fleming Fellowship for the Built Environment, Pomona College, 1990.',
           description: "",
           section: "News",},{id: "news-electromagnetic-steel-disk-1-live-performance-with-pauline-oliveros-new-music-festival-dartmouth-college-hanover-new-hampshire-1992",
@@ -352,324 +355,246 @@ ninja.data = [{
           section: "News",},{id: "news-real-time-infrasound-sonification-for-on-site-active-volcano-monitoring-presentation-at-the-annual-workshop-2025-iaspei-iavcei-inter-association-commission-on-volcano-seismology-amp-amp-acoustics-volcano-seismology-and-acoustics-workshop",
           title: 'Real-Time Infrasound Sonification for On-Site Active Volcano Monitoring, Presentation at the Annual Workshop...',
           description: "",
-          section: "News",},{id: "projects-589-and-589-6",
-          title: '589 and 589.6',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/589and5986/";
-            },},{id: "projects-acoustic-space",
-          title: 'Acoustic Space',
-          description: "A sonic sculpture",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/acousticspace/";
-            },},{id: "projects-apospory",
-          title: 'Apospory',
-          description: "digital album",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/apospory/";
-            },},{id: "projects-kiss-without-makeup",
-          title: 'Kiss Without Makeup',
-          description: "CD",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/aradial/";
-            },},{id: "projects-articulations",
-          title: 'Articulations',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/articulations/";
-            },},{id: "projects-bell-synchresis",
-          title: 'Bell Synchresis',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/bellsynchresis/";
-            },},{id: "projects-bird-call",
-          title: 'Bird Call',
-          description: "Eurorack Module",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/birdcall/";
-            },},{id: "projects-bosque-mobile-maricopa-bon",
-          title: 'BOSQUE, MOBILE, MARICOPA, BON',
-          description: "CD-R",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/bosque/";
-            },},{id: "projects-breccia",
-          title: 'Breccia',
-          description: "an experimental music ensemble",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/breccia/";
-            },},{id: "projects-бура́н-buran",
-          title: 'Бура́н (Buran)',
-          description: "A video and sound installation, Amanda Hamilton and Ted Apel",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/buran/";
-            },},{id: "projects-call-151",
-          title: 'call-151',
-          description: "Album",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/call-151/";
-            },},{id: "projects-call-and-resonance",
-          title: 'Call and Resonance',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/callandresonance/";
-            },},{id: "projects-chimes",
-          title: 'Chimes',
-          description: "Eurorack Module",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/chimes/";
-            },},{id: "projects-cmj-sound-and-video-anthology",
-          title: 'CMJ, Sound and Video Anthology',
-          description: "DVD",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/cmj/";
-            },},{id: "projects-concomitant-variations",
-          title: 'Concomitant Variations',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/concomitantvariations/";
-            },},{id: "projects-conic-variations",
-          title: 'Conic Variations',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/conicvariations/";
-            },},{id: "projects-corvus-brachyrhynchos-chimes",
-          title: 'Corvus Brachyrhynchos Chimes',
-          description: "Field sound recording installed as permanent part of Terry Allen&#39;s Trees installation of the Stuart Collection at UCSD.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/corvus/";
-            },},{id: "projects-coupled-resonance",
-          title: 'Coupled Resonance',
-          description: "Series of interdependent resonant sound works",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/coupledresonance/";
-            },},{id: "projects-coupled-shifts",
-          title: 'Coupled Shifts',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/coupledshifts/";
-            },},{id: "projects-cubic-response",
-          title: 'Cubic Response',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/cubicresponse/";
-            },},{id: "projects-cyber-arts-2001-digital-musics",
-          title: 'Cyber Arts 2001, Digital Musics',
-          description: "CD",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/cyberarts/";
-            },},{id: "projects-electromagnetic-steel-disk",
-          title: 'Electromagnetic Steel Disk',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/disk/";
-            },},{id: "projects-drip",
-          title: 'Drip',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/drip1/";
-            },},{id: "projects-drip-2",
-          title: 'Drip#2',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/drip2/";
-            },},{id: "projects-eurorack",
-          title: 'eurorack',
-          description: "handmade eurorack modules",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/eurorack/";
-            },},{id: "projects-false-iguana",
-          title: 'False Iguana',
-          description: "cassette",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/falseiguana/";
-            },},{id: "projects-findings",
-          title: 'Findings',
-          description: "digital album",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/findings/";
-            },},{id: "projects-pasapas",
-          title: 'Pasapas',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/foramacher/";
-            },},{id: "projects-for-organ-pipes",
-          title: 'For Organ Pipes',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/fororganpipes/";
-            },},{id: "projects-the-frog-peak-collaborations-project",
-          title: 'The Frog Peak Collaborations Project',
-          description: "CD",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/frogpeak/";
-            },},{id: "projects-glacial-evidence-athabaska",
+          section: "News",},{id: "projects-glacial-evidence-athabaska",
           title: 'Glacial Evidence - Athabaska',
           description: "LP",
           section: "Projects",handler: () => {
               window.location.href = "/projects/glacial/";
-            },},{id: "projects-immer-lichter",
-          title: 'Immer Lichter',
-          description: "A Radiohead remix",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/immerlichter/";
-            },},{id: "projects-incidental-speakers",
-          title: 'Incidental speakers',
-          description: "A series of sound sculptures",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/incidentalspeakers/";
-            },},{id: "projects-incremental-instances",
-          title: 'Incremental Instances',
-          description: "Live electroacoustic performances with distributed sound sources",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/incrementalinstances/";
-            },},{id: "projects-vadd",
-          title: 'VADD',
-          description: "Volcano Auditory Display Devices",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/infrasound/";
-            },},{id: "projects-ink-speaker",
-          title: 'Ink Speaker',
-          description: "A sound sculpture",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/inkspeaker/";
-            },},{id: "projects-irresonance",
-          title: 'Irresonance',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/irresonance/";
-            },},{id: "projects-jump-start",
-          title: 'Jump Start',
-          description: "A sound sculpture",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/jumpstart/";
-            },},{id: "projects-kuna-caves",
-          title: 'Kuna Caves',
-          description: "Laptop improvisation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/kunacaves/";
-            },},{id: "projects-mirror-music-box",
-          title: 'Mirror Music Box',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/mirrormusicbox/";
             },},{id: "projects-mobile-4",
           title: 'Mobile 4',
           description: "A sound installation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mobile4/";
-            },},{id: "projects-modes",
-          title: 'Modes',
-          description: "A sound sculpture",
+            },},{id: "projects-electromagnetic-steel-disk",
+          title: 'Electromagnetic Steel Disk',
+          description: "A sound installation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/modes/";
+              window.location.href = "/projects/disk/";
             },},{id: "projects-mqt-mcaulay-quatieri-transformer",
           title: 'MQT — McAulay-Quatieri Transformer',
           description: "Macintosh application for spectral transformations of sound (1993)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mqt/";
-            },},{id: "projects-music-box",
-          title: 'Music Box',
-          description: "Eurorack Module, Music box, spruce panel, electronics",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/musicbox/";
-            },},{id: "projects-negated-sound",
-          title: 'Negated Sound',
-          description: "Sound Analysis synthesis method",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/negatedsound/";
-            },},{id: "projects-sinusoidality-analysis-and-noise-synthesis",
-          title: 'Sinusoidality Analysis and Noise Synthesis',
-          description: "Phase vocoder noise preservation during time-stretching",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/noisesynthesis/";
-            },},{id: "projects-one-and-four-speakers",
-          title: 'One and Four Speakers',
-          description: "Sonic Sculpture",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/oneandfourspeakers/";
-            },},{id: "projects-surface-osculations-ii",
-          title: 'surface osculations II',
+            },},{id: "projects-the-thunderer",
+          title: 'The Thunderer',
           description: "A sound installation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/osculate2/";
-            },},{id: "projects-surface-osculations",
-          title: 'Surface Osculations',
-          description: "Series of metal plate sound installations",
+              window.location.href = "/projects/thunderer/";
+            },},{id: "projects-transforms-the-nerve-event-project",
+          title: 'Transforms, The Nerve Event Project',
+          description: "CD",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/osculations/";
-            },},{id: "projects-paraph",
-          title: 'Paraph',
-          description: "digital album",
+              window.location.href = "/projects/transforms/";
+            },},{id: "projects-bosque-mobile-maricopa-bon",
+          title: 'BOSQUE, MOBILE, MARICOPA, BON',
+          description: "CD-R",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/paraph/";
-            },},{id: "projects-boise-state-university-faculty-artist-series-recital-dr-kramer-milan-percussion-dr-ted-apel-electronics-friday-april-18-2025-at-7-30-pm-morrison-center-recital-hall-program-variations-on-the-mystery-sonata-s-passacaglia-heinrich-biber-1604-1744-arr-ted-apel-and-kramer-milan-mvmt-1-burst-from-the-mathematics-of-resonant-bodies-john-luther-adams-b-1953-to-a-landscape-ted-apel-and-kramer-milan-in-a-landscape-john-cage-1912-1992-arr-ted-apel-and-kramer-milan-faculty-artist-series-recital",
-          title: 'Boise State University — Faculty Artist Series Recital Dr. Kramer Milan, percussion Dr....',
-          description: "",
-          section: "Projects",},{id: "projects-pitch-pipes",
-          title: 'Pitch Pipes',
-          description: "Eurorack Module",
+              window.location.href = "/projects/bosque/";
+            },},{id: "projects-coupled-shifts",
+          title: 'Coupled Shifts',
+          description: "A sound installation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/pitchpipes/";
+              window.location.href = "/projects/coupledshifts/";
             },},{id: "projects-portrait-of-malleus",
           title: 'Portrait of Malleus',
           description: "A sound installation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/portraitofmalleus/";
+            },},{id: "projects-the-frog-peak-collaborations-project",
+          title: 'The Frog Peak Collaborations Project',
+          description: "CD",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/frogpeak/";
+            },},{id: "projects-surface-osculations",
+          title: 'Surface Osculations',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/surfaceosculations/";
             },},{id: "projects-potential-difference",
           title: 'Potential Difference',
           description: "A sound installation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/potentialdifference/";
-            },},{id: "projects-production-reproduction",
-          title: 'Production Reproduction',
+            },},{id: "projects-the-dreaming-subject-itself",
+          title: 'The Dreaming Subject Itself',
           description: "A sound sculpture",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/productionreproduction/";
-            },},{id: "projects-raspberry-pi",
-          title: 'Raspberry Pi',
-          description: "Eurorack Module",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/raspberrypi/";
-            },},{id: "projects-recordings",
-          title: 'Recordings',
-          description: "Albums and compilation appearances",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/recordings/";
-            },},{id: "projects-response",
-          title: 'Response',
-          description: "A sound sculpture",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/response/";
-            },},{id: "projects-response-characters",
-          title: 'Response Characters',
+              window.location.href = "/projects/subject/";
+            },},{id: "projects-tethered-and-lambent-planes",
+          title: 'Tethered and Lambent Planes',
           description: "A sound installation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/responsecharacters/";
-            },},{id: "projects-rods",
-          title: 'Rods',
-          description: "Eurorack Module",
+              window.location.href = "/projects/tethered/";
+            },},{id: "projects-wenke-39-s-view",
+          title: 'Wenke&amp;#39;s View',
+          description: "A sound installation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/rods/";
-            },},{id: "projects-schaeffer",
-          title: 'Schaeffer',
-          description: "Sculpture",
+              window.location.href = "/projects/view/";
+            },},{id: "projects-surface-osculations-ii",
+          title: 'surface osculations II',
+          description: "A sound installation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/schaeffer/";
-            },},{id: "projects-senses",
-          title: 'Senses',
-          description: "A sonic sculpture",
+              window.location.href = "/projects/osculate2/";
+            },},{id: "projects-cyber-arts-2001-digital-musics",
+          title: 'Cyber Arts 2001, Digital Musics',
+          description: "CD",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/senses/";
-            },},{id: "projects-shakers",
-          title: 'Shakers',
-          description: "A sound sculpture",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/shakers/";
+              window.location.href = "/projects/cyberarts/";
             },},{id: "projects-solenopsis",
           title: 'Solenopsis',
           description: "A site specific sound installation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/solenopsis/";
+            },},{id: "projects-trochilics",
+          title: 'Trochilics',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/trochilics/";
+            },},{id: "projects-corvus-brachyrhynchos-chimes",
+          title: 'Corvus Brachyrhynchos Chimes',
+          description: "Field sound recording installed as permanent part of Terry Allen&#39;s Trees installation of the Stuart Collection at UCSD.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/corvus/";
+            },},{id: "projects-cmj-sound-and-video-anthology",
+          title: 'CMJ, Sound and Video Anthology',
+          description: "DVD",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cmj/";
+            },},{id: "projects-irresonance",
+          title: 'Irresonance',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/irresonance/";
+            },},{id: "projects-breccia",
+          title: 'Breccia',
+          description: "an experimental music ensemble",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/breccia/";
+            },},{id: "projects-shakers",
+          title: 'Shakers',
+          description: "A sound sculpture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/shakers/";
+            },},{id: "projects-drip",
+          title: 'Drip',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/drip1/";
+            },},{id: "projects-bell-synchresis",
+          title: 'Bell Synchresis',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bellsynchresis/";
+            },},{id: "projects-call-and-resonance",
+          title: 'Call and Resonance',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/callandresonance/";
+            },},{id: "projects-drip-2",
+          title: 'Drip#2',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/drip2/";
+            },},{id: "projects-jump-start",
+          title: 'Jump Start',
+          description: "A sound sculpture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/jumpstart/";
+            },},{id: "projects-surface-osculations-iii",
+          title: 'Surface Osculations III',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/surfaceosculations3/";
+            },},{id: "projects-string-quartet-no-1",
+          title: 'String Quartet no. 1',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/stringquartetone/";
+            },},{id: "projects-whiteout",
+          title: 'Whiteout',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/whiteout/";
+            },},{id: "projects-immer-lichter",
+          title: 'Immer Lichter',
+          description: "A Radiohead remix",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/immerlichter/";
+            },},{id: "projects-trialogue",
+          title: 'Trialogue',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/trialogue/";
+            },},{id: "projects-call-151",
+          title: 'call-151',
+          description: "Album",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/call-151/";
+            },},{id: "projects-kuna-caves",
+          title: 'Kuna Caves',
+          description: "Laptop improvisation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/kunacaves/";
+            },},{id: "projects-vibrato-and-tremolo-preservation",
+          title: 'Vibrato and Tremolo Preservation',
+          description: "Preserving sub-audio modulations during phase vocoder time-stretching",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vibratotremolo/";
+            },},{id: "projects-pasapas",
+          title: 'Pasapas',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/foramacher/";
+            },},{id: "projects-бура́н-buran",
+          title: 'Бура́н (Buran)',
+          description: "A video and sound installation, Amanda Hamilton and Ted Apel",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/buran/";
+            },},{id: "projects-response-characters",
+          title: 'Response Characters',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/responsecharacters/";
+            },},{id: "projects-tiger-flower-circle-sun",
+          title: 'Tiger Flower Circle Sun',
+          description: "Remix",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tigerflowercirclesun/";
+            },},{id: "projects-washer-dryer",
+          title: 'Washer Dryer',
+          description: "A sound sculpture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/washerdryer/";
+            },},{id: "projects-acoustic-space",
+          title: 'Acoustic Space',
+          description: "A sonic sculpture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/acousticspace/";
+            },},{id: "projects-ink-speaker",
+          title: 'Ink Speaker',
+          description: "A sound sculpture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/inkspeaker/";
+            },},{id: "projects-modes",
+          title: 'Modes',
+          description: "A sound sculpture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/modes/";
+            },},{id: "projects-production-reproduction",
+          title: 'Production Reproduction',
+          description: "A sound sculpture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/productionreproduction/";
+            },},{id: "projects-response",
+          title: 'Response',
+          description: "A sound sculpture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/response/";
+            },},{id: "projects-schaeffer",
+          title: 'Schaeffer',
+          description: "Sculpture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/schaeffer/";
             },},{id: "projects-sound-activated-switch",
           title: 'Sound Activated Switch',
           description: "A sound installation",
@@ -685,101 +610,179 @@ ninja.data = [{
           description: "Sculpture",
           section: "Projects",handler: () => {
               window.location.href = "/projects/speakerlego/";
-            },},{id: "projects-stiction",
-          title: 'Stiction',
-          description: "digital album",
+            },},{id: "projects-589-and-589-6",
+          title: '589 and 589.6',
+          description: "A sound installation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/stiction/";
-            },},{id: "projects-stones",
-          title: 'Stones',
+              window.location.href = "/projects/589and5986/";
+            },},{id: "projects-mirror-music-box",
+          title: 'Mirror Music Box',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mirrormusicbox/";
+            },},{id: "projects-sinusoidality-analysis-and-noise-synthesis",
+          title: 'Sinusoidality Analysis and Noise Synthesis',
+          description: "Phase vocoder noise preservation during time-stretching",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/noisesynthesis/";
+            },},{id: "projects-raspberry-pi",
+          title: 'Raspberry Pi',
           description: "Eurorack Module",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/stones/";
-            },},{id: "projects-string-quartet-no-1",
-          title: 'String Quartet no. 1',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/stringquartetone/";
-            },},{id: "projects-the-dreaming-subject-itself",
-          title: 'The Dreaming Subject Itself',
-          description: "A sound sculpture",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/subject/";
-            },},{id: "projects-surface-osculations",
-          title: 'Surface Osculations',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/surfaceosculations/";
-            },},{id: "projects-surface-osculations-iii",
-          title: 'Surface Osculations III',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/surfaceosculations3/";
-            },},{id: "projects-tethered-and-lambent-planes",
-          title: 'Tethered and Lambent Planes',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/tethered/";
-            },},{id: "projects-the-only-thing-we-have-to-fear",
-          title: 'The Only Thing We Have to Fear',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/theonlything/";
-            },},{id: "projects-the-thunderer",
-          title: 'The Thunderer',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/thunderer/";
-            },},{id: "projects-tiger-flower-circle-sun",
-          title: 'Tiger Flower Circle Sun',
-          description: "Remix",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/tigerflowercirclesun/";
-            },},{id: "projects-transforms-the-nerve-event-project",
-          title: 'Transforms, The Nerve Event Project',
-          description: "CD",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/transforms/";
-            },},{id: "projects-trialogue",
-          title: 'Trialogue',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/trialogue/";
-            },},{id: "projects-trochilics",
-          title: 'Trochilics',
-          description: "A sound installation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/trochilics/";
+              window.location.href = "/projects/raspberrypi/";
             },},{id: "projects-uca202",
           title: 'UCA202',
           description: "Eurorack Module",
           section: "Projects",handler: () => {
               window.location.href = "/projects/uca202/";
+            },},{id: "projects-bird-call",
+          title: 'Bird Call',
+          description: "Eurorack Module",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/birdcall/";
+            },},{id: "projects-chimes",
+          title: 'Chimes',
+          description: "Eurorack Module",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/chimes/";
+            },},{id: "projects-music-box",
+          title: 'Music Box',
+          description: "Eurorack Module, Music box, spruce panel, electronics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/musicbox/";
+            },},{id: "projects-pitch-pipes",
+          title: 'Pitch Pipes',
+          description: "Eurorack Module",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pitchpipes/";
+            },},{id: "projects-rods",
+          title: 'Rods',
+          description: "Eurorack Module",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rods/";
+            },},{id: "projects-stones",
+          title: 'Stones',
+          description: "Eurorack Module",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/stones/";
+            },},{id: "projects-findings",
+          title: 'Findings',
+          description: "digital album",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/findings/";
+            },},{id: "projects-cubic-response",
+          title: 'Cubic Response',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cubicresponse/";
             },},{id: "projects-units-of-conveyance",
           title: 'Units of Conveyance',
           description: "A sound installation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/unitsofconveyance/";
-            },},{id: "projects-vibrato-and-tremolo-preservation",
-          title: 'Vibrato and Tremolo Preservation',
-          description: "Preserving sub-audio modulations during phase vocoder time-stretching",
+            },},{id: "projects-stiction",
+          title: 'Stiction',
+          description: "digital album",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/vibratotremolo/";
-            },},{id: "projects-wenke-39-s-view",
-          title: 'Wenke&amp;#39;s View',
+              window.location.href = "/projects/stiction/";
+            },},{id: "projects-apospory",
+          title: 'Apospory',
+          description: "digital album",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/apospory/";
+            },},{id: "projects-kiss-without-makeup",
+          title: 'Kiss Without Makeup',
+          description: "CD",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/aradial/";
+            },},{id: "projects-articulations",
+          title: 'Articulations',
           description: "A sound installation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/view/";
-            },},{id: "projects-washer-dryer",
-          title: 'Washer Dryer',
-          description: "A sound sculpture",
+              window.location.href = "/projects/articulations/";
+            },},{id: "projects-one-and-four-speakers",
+          title: 'One and Four Speakers',
+          description: "Sonic Sculpture",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/washerdryer/";
-            },},{id: "projects-whiteout",
-          title: 'Whiteout',
+              window.location.href = "/projects/oneandfourspeakers/";
+            },},{id: "projects-senses",
+          title: 'Senses',
+          description: "A sonic sculpture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/senses/";
+            },},{id: "projects-false-iguana",
+          title: 'False Iguana',
+          description: "cassette",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/falseiguana/";
+            },},{id: "projects-concomitant-variations",
+          title: 'Concomitant Variations',
           description: "A sound installation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/whiteout/";
+              window.location.href = "/projects/concomitantvariations/";
+            },},{id: "projects-incremental-instances",
+          title: 'Incremental Instances',
+          description: "Live electroacoustic performances with distributed sound sources",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/incrementalinstances/";
+            },},{id: "projects-vadd",
+          title: 'VADD',
+          description: "Volcano Auditory Display Devices",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/infrasound/";
+            },},{id: "projects-the-only-thing-we-have-to-fear",
+          title: 'The Only Thing We Have to Fear',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/theonlything/";
+            },},{id: "projects-paraph",
+          title: 'Paraph',
+          description: "digital album",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/paraph/";
+            },},{id: "projects-conic-variations",
+          title: 'Conic Variations',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/conicvariations/";
+            },},{id: "projects-for-organ-pipes",
+          title: 'For Organ Pipes',
+          description: "A sound installation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fororganpipes/";
+            },},{id: "projects-negated-sound",
+          title: 'Negated Sound',
+          description: "Sound Analysis synthesis method",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/negatedsound/";
+            },},{id: "projects-eurorack",
+          title: 'eurorack',
+          description: "handmade eurorack modules",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/eurorack/";
+            },},{id: "projects-recordings",
+          title: 'Recordings',
+          description: "Albums and compilation appearances",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/recordings/";
+            },},{id: "projects-incidental-speakers",
+          title: 'Incidental speakers',
+          description: "A series of sound sculptures",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/incidentalspeakers/";
+            },},{id: "projects-boise-state-university-faculty-artist-series-recital-dr-kramer-milan-percussion-dr-ted-apel-electronics-friday-april-18-2025-at-7-30-pm-morrison-center-recital-hall-program-variations-on-the-mystery-sonata-s-passacaglia-heinrich-biber-1604-1744-arr-ted-apel-and-kramer-milan-mvmt-1-burst-from-the-mathematics-of-resonant-bodies-john-luther-adams-b-1953-to-a-landscape-ted-apel-and-kramer-milan-in-a-landscape-john-cage-1912-1992-arr-ted-apel-and-kramer-milan-faculty-artist-series-recital",
+          title: 'Boise State University — Faculty Artist Series Recital Dr. Kramer Milan, percussion Dr....',
+          description: "",
+          section: "Projects",},{id: "projects-surface-osculations",
+          title: 'Surface Osculations',
+          description: "Series of metal plate sound installations",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/osculations/";
+            },},{id: "projects-coupled-resonance",
+          title: 'Coupled Resonance',
+          description: "Series of interdependent resonant sound works",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/coupledresonance/";
             },},{
         id: 'social-email',
         title: 'email',
