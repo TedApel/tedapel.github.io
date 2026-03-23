@@ -1,0 +1,72 @@
+# Ted Apel
+
+> Sound artist, composer, and researcher whose work explores how sound becomes intelligible through material systems, speculative sonic processes, and distributed listening.
+
+## About
+
+Ted Apel is a sound artist and Full Teaching Professor at Boise State University. His projects include sound installations, performances, recordings, eurorack synthesizer modules, and the development of algorithms that treat sound as the audible consequence of physical, perceptual, and computational conditions.
+
+He holds a PhD in Computer Music from the University of California, San Diego (2008), an MA in Electro-Acoustic Music from Dartmouth College (1993), and a BA in Physics from Pomona College (1990).
+
+Website: https://vud.org
+Google Scholar: https://scholar.google.com/citations?user=j_Hn6wEAAAAJ
+
+## Sound Installations
+
+Apel's sound installations use physical materials — glass tubes, metal plates, paper, piezoelectric elements, light bulbs, loudspeakers — as both the visual and sonic medium of the work. Key works include:
+
+- **Potential Difference** (1999) — Incandescent light bulbs paired with piezoelectric "sound bulbs." Prizewinner at the 28th Bourges International Electroacoustic Music Competition. Honorary Mention, Prix Ars Electronica 2001. Exhibited at Ars Electronica Festival, Kraków Audio Art Festival, Consolidated Works Seattle.
+- **Trochilics** (2002) — Rotating metal plates driven by motors. Shown at CalArts, Cuesta College, Yellowstone Art Museum, Herrett Center, and others.
+- **Irresonance** (2003) — Grand Prize winner, Idaho Triennial 2004, Boise Art Museum.
+- **Call and Resonance** (2006) — Glass tubes with feedback circuits. Winner of the 2013 FETA Prize in Sound Art. Selected for Artforum International's Best of 2013. Exhibited at Black Box Gallery Copenhagen, FETA Foundation.
+- **Concomitant Variations** (2019) — Glass tube feedback installation. Blue Galleries, Boise State University.
+- **The Only Thing We Have to Fear** (2021) — Motion lamp, radio, and processed fireside chat. Surel's Place, Boise.
+- **For Organ Pipes** (2024) — Sound installation with organ pipes. Ussachevsky Festival, Pomona College.
+- **Conic Variations** (2023) — Sound and Music Computing Conference, Stockholm.
+
+## Incidental Speakers Series
+
+An ongoing series of sculptures exploring the loudspeaker as a representation of sound — the idea that issues around sound can be explored artistically without sound itself. Published in eContact! 21.2 (Canadian Electroacoustic Community, 2023). Works include One and Four Speakers, Senses, Modes, Speaker[lego], Schaeffer, Units of Conveyance, Washer Dryer, Speaker [crochet], and others. Exhibited at Enso Artspace, The Auricle (New Zealand), Herrett Center, SEAMUS Conference, Aotearoa Audio Arts Festival, Art League Rhode Island.
+
+## Surface Osculations Series
+
+A series of metal plate sound installations exploring electromagnetic excitation of steel. Prizewinner at the 26th Bourges International Electroacoustic Music Competition (1999). Works include the original surface osculations (1998, CRCA La Jolla), surface osculations II (2000, Akademie der Künste Berlin), Surface Osculations III (2006, Boise Art Museum), Coupled Shifts, Electromagnetic Steel Disk, Portrait of Malleus, Tethered and Lambent Planes, and The Thunderer.
+
+## Coupled Resonance Series
+
+Installations using acoustic feedback and resonance in physical materials — glass, metal, wood. Works include Call and Resonance, Concomitant Variations, Conic Variations, Articulations, and Cubic Response.
+
+## Research and Publications
+
+- **Negated Sound Analysis-Synthesis** (2024) — A method that creates conceptually negated versions of sounds through spectral subtraction. Presented at the Speculative Sound Synthesis Symposium, Graz.
+- **Feature Preservation and Negated Music in a Phase Vocoder Sound Representation** (2008) — PhD dissertation, UCSD.
+- **Portable Real-time Volcano Infrasound Auditory Display Devices** (2021) — With Jeffrey Johnson. ICAD 2021.
+- **Sinusoidality Analysis and Noise Synthesis in Phase Vocoder Based Time-Stretching** (2014) — ACMC 2014.
+- **Real-time audio analysis tools for Pd and MSP** (1998) — With Miller Puckette. ICMC 1998.
+- **Thin Layer Liquid Acoustical Filters** (1990) — BA thesis, Pomona College.
+
+## Recordings
+
+- **Paraph** (2022) — Solo electronic music
+- **False Iguana** (2018) — With Anthony Burr. Muzan Editions, Japan.
+- **Apospory** (2018) — Solo live electronic music
+- **Stiction** (2018) — Solo live electronic music
+- **Findings** (2015) — Solo live electronic music
+- **BOSQUE, MOBILE, MARICOPA, BON** (1995) — Independent CD release
+- **Glacial Evidence - Athabaska** (1984) — LP with Scott Crocker
+
+## Residencies and Awards
+
+- Residency, Elektronmusikstudion (EMS), Stockholm (2025)
+- Residency, MEME, Brown University (2019)
+- Best of 2013, Artforum International Magazine
+- First Prize, FETA Prize in Sound Art (2013)
+- Composer in Residence, Douglas Lilburn Residence, New Zealand (2014)
+- Grand Prize, Idaho Triennial, Boise Art Museum (2005)
+- Honorary Mention, Prix Ars Electronica (2001)
+- Prizewinner, Bourges International Electroacoustic Music Competition (1999, 2001)
+- Rebecca Goldfarb Fellowship, Djerassi Resident Artist Program (2001)
+
+## Teaching
+
+Full Teaching Professor in Games, Interactive Media, and Mobile Technology (GIMM) at Boise State University since 2016. Previously Assistant Professor of Sonic Arts and Electronic Music at Victoria University of Wellington, New Zealand (2013-2015). Adjunct faculty at Boise State in Music, Art, and Engineering departments (2005-2017). Technical Director at CRCA, UC San Diego (1997-2004).
