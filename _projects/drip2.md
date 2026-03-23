@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drip#2
+title: "Drip #2"
 description: A sound installation
 img: assets/img/drip21.jpg
 date: 2006-12-01
