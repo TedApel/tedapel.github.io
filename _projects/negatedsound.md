@@ -27,7 +27,7 @@ Negated Sound Analysis-Synthesis, presentation at the Speculative Sound Synthesi
 
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
-{% include video.liquid path="assets/video/negatedGong.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+{% include video.liquid path="assets/img/negatedGong.mp4" class="img-fluid rounded z-depth-1" controls=true %}
 </div>
 </div>
 <div class="caption">

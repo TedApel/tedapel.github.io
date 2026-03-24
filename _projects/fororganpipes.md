@@ -14,6 +14,6 @@ In this work, the evolving sonic structure has no fixed point of origin. Each pi
 
 {% include figure.liquid loading="eager" path="assets/img/organseptet.jpg" class="img-fluid rounded z-depth-1" %}
 
-{% include video.liquid path="assets/video/Organ_Septet.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+{% include video.liquid path="assets/img/Organ_Septet.mp4" class="img-fluid rounded z-depth-1" controls=true %}
 
 The Pomona College Festival of Electroacoustic Music, Claremont California. February 2024.
