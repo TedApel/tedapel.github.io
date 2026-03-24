@@ -725,11 +725,6 @@ ninja.data = [{
           description: "Live electroacoustic performances with distributed sound sources",
           section: "Projects",handler: () => {
               window.location.href = "/projects/incrementalinstances/";
-            },},{id: "projects-vadd",
-          title: 'VADD',
-          description: "Volcano Auditory Display Devices",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/infrasound/";
             },},{id: "projects-the-only-thing-we-have-to-fear",
           title: 'The Only Thing We Have to Fear',
           description: "A sound installation",
@@ -765,6 +760,11 @@ ninja.data = [{
           description: "handmade eurorack modules",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eurorack/";
+            },},{id: "projects-vadd",
+          title: 'VADD',
+          description: "Volcano Auditory Display Devices",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/infrasound/";
             },},{id: "projects-recordings",
           title: 'Recordings',
           description: "Albums and compilation appearances",
