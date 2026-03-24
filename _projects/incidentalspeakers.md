@@ -4,7 +4,7 @@ title: Incidental speakers
 description: A series of sound sculptures
 img: assets/img/incidentalspeakers.jpg
 og_image: assets/img/incidentalspeakers.jpg
-date: 2025-04-01
+date: 2022-04-01
 importance: 117
 category: soundart
 ---
