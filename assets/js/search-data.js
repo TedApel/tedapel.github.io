@@ -720,11 +720,6 @@ ninja.data = [{
           description: "A sound installation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/concomitantvariations/";
-            },},{id: "projects-incremental-instances",
-          title: 'Incremental Instances',
-          description: "Live electroacoustic performances with distributed sound sources",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/incrementalinstances/";
             },},{id: "projects-the-only-thing-we-have-to-fear",
           title: 'The Only Thing We Have to Fear',
           description: "A sound installation",
@@ -750,6 +745,11 @@ ninja.data = [{
           description: "A sound installation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/conicvariations/";
+            },},{id: "projects-incremental-instances",
+          title: 'Incremental Instances',
+          description: "Live electroacoustic performances with distributed sound sources",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/incrementalinstances/";
             },},{id: "projects-for-organ-pipes",
           title: 'For Organ Pipes',
           description: "A sound installation",
