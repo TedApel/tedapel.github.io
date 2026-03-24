@@ -740,6 +740,11 @@ ninja.data = [{
           description: "digital album",
           section: "Projects",handler: () => {
               window.location.href = "/projects/paraph/";
+            },},{id: "projects-surface-osculations",
+          title: 'Surface Osculations',
+          description: "Series of metal plate sound installations",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/osculations/";
             },},{id: "projects-conic-variations",
           title: 'Conic Variations',
           description: "A sound installation",
@@ -773,12 +778,7 @@ ninja.data = [{
             },},{id: "projects-boise-state-university-faculty-artist-series-recital-dr-kramer-milan-percussion-dr-ted-apel-electronics-friday-april-18-2025-at-7-30-pm-morrison-center-recital-hall-program-variations-on-the-mystery-sonata-s-passacaglia-heinrich-biber-1604-1744-arr-ted-apel-and-kramer-milan-mvmt-1-burst-from-the-mathematics-of-resonant-bodies-john-luther-adams-b-1953-to-a-landscape-ted-apel-and-kramer-milan-in-a-landscape-john-cage-1912-1992-arr-ted-apel-and-kramer-milan-faculty-artist-series-recital",
           title: 'Boise State University — Faculty Artist Series Recital Dr. Kramer Milan, percussion Dr....',
           description: "",
-          section: "Projects",},{id: "projects-surface-osculations",
-          title: 'Surface Osculations',
-          description: "Series of metal plate sound installations",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/osculations/";
-            },},{id: "projects-coupled-resonance",
+          section: "Projects",},{id: "projects-coupled-resonance",
           title: 'Coupled Resonance',
           description: "Series of interdependent resonant sound works",
           section: "Projects",handler: () => {
