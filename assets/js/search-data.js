@@ -360,11 +360,21 @@ ninja.data = [{
           description: "LP",
           section: "Projects",handler: () => {
               window.location.href = "/projects/glacial/";
+            },},{id: "projects-mobile-4",
+          title: 'Mobile 4',
+          description: "Four speaker tubes hung as a mobile with four-channel tape",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mobile4/";
             },},{id: "projects-electromagnetic-steel-disk",
           title: 'Electromagnetic Steel Disk',
           description: "Steel disk driven by electromagnet and electronics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/disk/";
+            },},{id: "projects-mqt-mcaulay-quatieri-transformer",
+          title: 'MQT — McAulay-Quatieri Transformer',
+          description: "Macintosh application for spectral transformations of sound (1993)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mqt/";
             },},{id: "projects-the-thunderer",
           title: 'The Thunderer',
           description: "Sousaphone bell with spectrally convolved Sousa march",
@@ -385,6 +395,11 @@ ninja.data = [{
           description: "Steel plates driven by composed electronic signals",
           section: "Projects",handler: () => {
               window.location.href = "/projects/coupledshifts/";
+            },},{id: "projects-portrait-of-malleus",
+          title: 'Portrait of Malleus',
+          description: "Bronze plate electromagnetically excited to produce evolving sound",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/portraitofmalleus/";
             },},{id: "projects-the-frog-peak-collaborations-project",
           title: 'The Frog Peak Collaborations Project',
           description: "CD",
@@ -445,6 +460,11 @@ ninja.data = [{
           description: "DVD",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cmj/";
+            },},{id: "projects-irresonance",
+          title: 'Irresonance',
+          description: "Eight brass tubes resonated and irresonated by feedback",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/irresonance/";
             },},{id: "projects-breccia",
           title: 'Breccia',
           description: "an experimental music ensemble",
@@ -475,6 +495,11 @@ ninja.data = [{
           description: "Water drip from separatory funnel with desynchronized sound",
           section: "Projects",handler: () => {
               window.location.href = "/projects/drip2/";
+            },},{id: "projects-jump-start",
+          title: 'Jump Start',
+          description: "Car battery connected to speaker via jumper cables",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/jumpstart/";
             },},{id: "projects-surface-osculations-iii",
           title: 'Surface Osculations III',
           description: "Five suspended steel plates with computer-processed sound",
@@ -490,6 +515,11 @@ ninja.data = [{
           description: "Averaged ambient sounds played through a paper loudspeaker",
           section: "Projects",handler: () => {
               window.location.href = "/projects/whiteout/";
+            },},{id: "projects-immer-lichter",
+          title: 'Immer Lichter',
+          description: "A Radiohead remix",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/immerlichter/";
             },},{id: "projects-trialogue",
           title: 'Trialogue',
           description: "Three organ pipes with speakers in a live feedback system",
@@ -500,11 +530,21 @@ ninja.data = [{
           description: "Album",
           section: "Projects",handler: () => {
               window.location.href = "/projects/call-151/";
+            },},{id: "projects-kuna-caves",
+          title: 'Kuna Caves',
+          description: "Laptop improvisation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/kunacaves/";
             },},{id: "projects-vibrato-and-tremolo-preservation",
           title: 'Vibrato and Tremolo Preservation',
           description: "Preserving sub-audio modulations during phase vocoder time-stretching",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vibratotremolo/";
+            },},{id: "projects-pasapas",
+          title: 'Pasapas',
+          description: "Sixty-four speakers distributing sine waves to moving listeners",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/foramacher/";
             },},{id: "projects-бура́н-buran",
           title: 'Бура́н (Buran)',
           description: "A video and sound installation, Amanda Hamilton and Ted Apel",
@@ -530,11 +570,26 @@ ninja.data = [{
           description: "Loudspeaker cone extending into a wall",
           section: "Projects",handler: () => {
               window.location.href = "/projects/acousticspace/";
+            },},{id: "projects-ink-speaker",
+          title: 'Ink Speaker',
+          description: "Speaker box filled with ink, after Charles Ray",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/inkspeaker/";
+            },},{id: "projects-modes",
+          title: 'Modes',
+          description: "Three speakers evoking Chion&#39;s listening modes",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/modes/";
             },},{id: "projects-production-reproduction",
           title: 'Production Reproduction',
           description: "Two speakers depicting sound production and reproduction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/productionreproduction/";
+            },},{id: "projects-response",
+          title: 'Response',
+          description: "Loudspeaker reimagined as tissue box",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/response/";
             },},{id: "projects-schaeffer",
           title: 'Schaeffer',
           description: "Wooden loudspeaker sculpture inspired by Schaeffer&#39;s train etude",
@@ -560,6 +615,11 @@ ninja.data = [{
           description: "Sodium vapor lamp paired with two beating sine tones",
           section: "Projects",handler: () => {
               window.location.href = "/projects/589and5986/";
+            },},{id: "projects-mirror-music-box",
+          title: 'Mirror Music Box',
+          description: "Interactive music boxes with plexiglass walls as speakers",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mirrormusicbox/";
             },},{id: "projects-sinusoidality-analysis-and-noise-synthesis",
           title: 'Sinusoidality Analysis and Noise Synthesis',
           description: "Phase vocoder noise preservation during time-stretching",
@@ -590,11 +650,26 @@ ninja.data = [{
           description: "Eurorack Module, Music box, spruce panel, electronics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/musicbox/";
+            },},{id: "projects-pitch-pipes",
+          title: 'Pitch Pipes',
+          description: "Eurorack Module",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pitchpipes/";
+            },},{id: "projects-rods",
+          title: 'Rods',
+          description: "Eurorack Module",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rods/";
             },},{id: "projects-stones",
           title: 'Stones',
           description: "Eurorack Module",
           section: "Projects",handler: () => {
               window.location.href = "/projects/stones/";
+            },},{id: "projects-findings",
+          title: 'Findings',
+          description: "digital album",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/findings/";
             },},{id: "projects-cubic-response",
           title: 'Cubic Response',
           description: "Seven autonomous feedback circuits creating a sonic ecosystem",
@@ -630,101 +705,21 @@ ninja.data = [{
           description: "Loudspeaker as sculpture, painting, object, and photograph",
           section: "Projects",handler: () => {
               window.location.href = "/projects/oneandfourspeakers/";
-            },},{id: "projects-concomitant-variations",
-          title: 'Concomitant Variations',
-          description: "Glass tubes with coupled feedback circuits producing emergent sound",
+            },},{id: "projects-senses",
+          title: 'Senses',
+          description: "Five senses depicted through speaker-scale objects",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/concomitantvariations/";
-            },},{id: "projects-the-only-thing-we-have-to-fear",
-          title: 'The Only Thing We Have to Fear',
-          description: "Motion lamp and radio with altered FDR fireside chat",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/theonlything/";
-            },},{id: "projects-conic-variations",
-          title: 'Conic Variations',
-          description: "Cardboard conic sections with coupled feedback circuits",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/conicvariations/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/coupledresonance/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/eurorack/";
-            },},{id: "projects-immer-lichter",
-          title: 'Immer Lichter',
-          description: "A Radiohead remix",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/immerlichter/";
-            },},{id: "projects-pasapas",
-          title: 'Pasapas',
-          description: "Sixty-four speakers distributing sine waves to moving listeners",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/foramacher/";
-            },},{id: "projects-findings",
-          title: 'Findings',
-          description: "digital album",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/findings/";
+              window.location.href = "/projects/senses/";
             },},{id: "projects-false-iguana",
           title: 'False Iguana',
           description: "cassette",
           section: "Projects",handler: () => {
               window.location.href = "/projects/falseiguana/";
-            },},{id: "projects-for-organ-pipes",
-          title: 'For Organ Pipes',
-          description: "Scattered organ pipes with cellphones creating evolving feedback",
+            },},{id: "projects-concomitant-variations",
+          title: 'Concomitant Variations',
+          description: "Glass tubes with coupled feedback circuits producing emergent sound",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/fororganpipes/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/incidentalspeakers/";
-            },},{id: "projects-mobile-4",
-          title: 'Mobile 4',
-          description: "Four speaker tubes hung as a mobile with four-channel tape",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/mobile4/";
-            },},{id: "projects-mqt-mcaulay-quatieri-transformer",
-          title: 'MQT — McAulay-Quatieri Transformer',
-          description: "Macintosh application for spectral transformations of sound (1993)",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/mqt/";
-            },},{id: "projects-irresonance",
-          title: 'Irresonance',
-          description: "Eight brass tubes resonated and irresonated by feedback",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/irresonance/";
-            },},{id: "projects-jump-start",
-          title: 'Jump Start',
-          description: "Car battery connected to speaker via jumper cables",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/jumpstart/";
-            },},{id: "projects-kuna-caves",
-          title: 'Kuna Caves',
-          description: "Laptop improvisation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/kunacaves/";
-            },},{id: "projects-ink-speaker",
-          title: 'Ink Speaker',
-          description: "Speaker box filled with ink, after Charles Ray",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/inkspeaker/";
-            },},{id: "projects-modes",
-          title: 'Modes',
-          description: "Three speakers evoking Chion&#39;s listening modes",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/modes/";
-            },},{id: "projects-mirror-music-box",
-          title: 'Mirror Music Box',
-          description: "Interactive music boxes with plexiglass walls as speakers",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/mirrormusicbox/";
+              window.location.href = "/projects/concomitantvariations/";
             },},{id: "projects-incremental-instances",
           title: 'Incremental Instances',
           description: "Live electroacoustic performances with distributed sound sources",
@@ -735,54 +730,59 @@ ninja.data = [{
           description: "Volcano Auditory Display Devices",
           section: "Projects",handler: () => {
               window.location.href = "/projects/infrasound/";
-            },},{id: "projects-negated-sound",
-          title: 'Negated Sound',
-          description: "Sound Analysis synthesis method",
+            },},{id: "projects-the-only-thing-we-have-to-fear",
+          title: 'The Only Thing We Have to Fear',
+          description: "Motion lamp and radio with altered FDR fireside chat",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/negatedsound/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/osculations/";
-            },},{id: "projects-portrait-of-malleus",
-          title: 'Portrait of Malleus',
-          description: "Bronze plate electromagnetically excited to produce evolving sound",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/portraitofmalleus/";
-            },},{id: "projects-pitch-pipes",
-          title: 'Pitch Pipes',
-          description: "Eurorack Module",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/pitchpipes/";
+              window.location.href = "/projects/theonlything/";
             },},{id: "projects-paraph",
           title: 'Paraph',
           description: "digital album",
           section: "Projects",handler: () => {
               window.location.href = "/projects/paraph/";
+            },},{id: "projects-conic-variations",
+          title: 'Conic Variations',
+          description: "Cardboard conic sections with coupled feedback circuits",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/conicvariations/";
+            },},{id: "projects-for-organ-pipes",
+          title: 'For Organ Pipes',
+          description: "Scattered organ pipes with cellphones creating evolving feedback",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fororganpipes/";
+            },},{id: "projects-negated-sound",
+          title: 'Negated Sound',
+          description: "Sound Analysis synthesis method",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/negatedsound/";
+            },},{id: "projects-eurorack",
+          title: 'eurorack',
+          description: "handmade eurorack modules",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/eurorack/";
+            },},{id: "projects-recordings",
+          title: 'Recordings',
+          description: "Albums and compilation appearances",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/recordings/";
+            },},{id: "projects-incidental-speakers",
+          title: 'Incidental speakers',
+          description: "A series of sound sculptures",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/incidentalspeakers/";
             },},{id: "projects-boise-state-university-faculty-artist-series-recital-dr-kramer-milan-percussion-dr-ted-apel-electronics-friday-april-18-2025-at-7-30-pm-morrison-center-recital-hall-program-variations-on-the-mystery-sonata-s-passacaglia-heinrich-biber-1604-1744-arr-ted-apel-and-kramer-milan-mvmt-1-burst-from-the-mathematics-of-resonant-bodies-john-luther-adams-b-1953-to-a-landscape-ted-apel-and-kramer-milan-in-a-landscape-john-cage-1912-1992-arr-ted-apel-and-kramer-milan-faculty-artist-series-recital",
           title: 'Boise State University — Faculty Artist Series Recital Dr. Kramer Milan, percussion Dr....',
           description: "",
-          section: "Projects",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "Projects",},{id: "projects-surface-osculations",
+          title: 'Surface Osculations',
+          description: "Series of metal plate sound installations",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/recordings/";
-            },},{id: "projects-response",
-          title: 'Response',
-          description: "Loudspeaker reimagined as tissue box",
+              window.location.href = "/projects/osculations/";
+            },},{id: "projects-coupled-resonance",
+          title: 'Coupled Resonance',
+          description: "Series of interdependent resonant sound works",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/response/";
-            },},{id: "projects-rods",
-          title: 'Rods',
-          description: "Eurorack Module",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/rods/";
-            },},{id: "projects-senses",
-          title: 'Senses',
-          description: "Five senses depicted through speaker-scale objects",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/senses/";
+              window.location.href = "/projects/coupledresonance/";
             },},{
         id: 'social-email',
         title: 'email',
