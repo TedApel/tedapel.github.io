@@ -362,12 +362,12 @@ ninja.data = [{
               window.location.href = "/projects/glacial/";
             },},{id: "projects-mobile-4",
           title: 'Mobile 4',
-          description: "A sound installation",
+          description: "Four speaker tubes hung as a mobile with four-channel tape",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mobile4/";
             },},{id: "projects-electromagnetic-steel-disk",
           title: 'Electromagnetic Steel Disk',
-          description: "A sound installation",
+          description: "Steel disk driven by electromagnet and electronics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/disk/";
             },},{id: "projects-mqt-mcaulay-quatieri-transformer",
@@ -377,7 +377,7 @@ ninja.data = [{
               window.location.href = "/projects/mqt/";
             },},{id: "projects-the-thunderer",
           title: 'The Thunderer',
-          description: "A sound installation",
+          description: "Sousaphone bell with spectrally convolved Sousa march",
           section: "Projects",handler: () => {
               window.location.href = "/projects/thunderer/";
             },},{id: "projects-transforms-the-nerve-event-project",
@@ -392,12 +392,12 @@ ninja.data = [{
               window.location.href = "/projects/bosque/";
             },},{id: "projects-coupled-shifts",
           title: 'Coupled Shifts',
-          description: "A sound installation",
+          description: "Steel plates driven by composed electronic signals",
           section: "Projects",handler: () => {
               window.location.href = "/projects/coupledshifts/";
             },},{id: "projects-portrait-of-malleus",
           title: 'Portrait of Malleus',
-          description: "A sound installation",
+          description: "Bronze plate electromagnetically excited to produce evolving sound",
           section: "Projects",handler: () => {
               window.location.href = "/projects/portraitofmalleus/";
             },},{id: "projects-the-frog-peak-collaborations-project",
@@ -407,32 +407,32 @@ ninja.data = [{
               window.location.href = "/projects/frogpeak/";
             },},{id: "projects-surface-osculations",
           title: 'Surface Osculations',
-          description: "A sound installation",
+          description: "Two suspended metal plates with computer-processed resonant sound",
           section: "Projects",handler: () => {
               window.location.href = "/projects/surfaceosculations/";
             },},{id: "projects-potential-difference",
           title: 'Potential Difference',
-          description: "A sound installation",
+          description: "Light bulbs paired with piezoelectric sound bulbs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/potentialdifference/";
             },},{id: "projects-the-dreaming-subject-itself",
           title: 'The Dreaming Subject Itself',
-          description: "A sound sculpture",
+          description: "Interactive rusted metal plate with electronic wand control",
           section: "Projects",handler: () => {
               window.location.href = "/projects/subject/";
             },},{id: "projects-tethered-and-lambent-planes",
           title: 'Tethered and Lambent Planes',
-          description: "A sound installation",
+          description: "Nine metal and wooden plates on floor with shifting resonance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tethered/";
             },},{id: "projects-wenke-39-s-view",
           title: 'Wenke&amp;#39;s View',
-          description: "A sound installation",
+          description: "Four-channel rain recording for an outdoor Berlin courtyard",
           section: "Projects",handler: () => {
               window.location.href = "/projects/view/";
             },},{id: "projects-surface-osculations-ii",
           title: 'surface osculations II',
-          description: "A sound installation",
+          description: "Suspended metal plates with computer-processed sound, Berlin",
           section: "Projects",handler: () => {
               window.location.href = "/projects/osculate2/";
             },},{id: "projects-cyber-arts-2001-digital-musics",
@@ -442,12 +442,12 @@ ninja.data = [{
               window.location.href = "/projects/cyberarts/";
             },},{id: "projects-solenopsis",
           title: 'Solenopsis',
-          description: "A site specific sound installation",
+          description: "Trail of small speakers emitting amplified ant sounds",
           section: "Projects",handler: () => {
               window.location.href = "/projects/solenopsis/";
             },},{id: "projects-trochilics",
           title: 'Trochilics',
-          description: "A sound installation",
+          description: "Ten motor-driven metal panels producing sound and movement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/trochilics/";
             },},{id: "projects-corvus-brachyrhynchos-chimes",
@@ -462,7 +462,7 @@ ninja.data = [{
               window.location.href = "/projects/cmj/";
             },},{id: "projects-irresonance",
           title: 'Irresonance',
-          description: "A sound installation",
+          description: "Eight brass tubes resonated and irresonated by feedback",
           section: "Projects",handler: () => {
               window.location.href = "/projects/irresonance/";
             },},{id: "projects-breccia",
@@ -472,47 +472,47 @@ ninja.data = [{
               window.location.href = "/projects/breccia/";
             },},{id: "projects-shakers",
           title: 'Shakers',
-          description: "A sound sculpture",
+          description: "Speakers filled with salt and pepper, vibrating to overflow",
           section: "Projects",handler: () => {
               window.location.href = "/projects/shakers/";
             },},{id: "projects-drip-1",
           title: 'Drip #1',
-          description: "A sound installation",
+          description: "Copper spigot producing an electronic dripping sound",
           section: "Projects",handler: () => {
               window.location.href = "/projects/drip1/";
             },},{id: "projects-bell-synchresis",
           title: 'Bell Synchresis',
-          description: "A sound installation",
+          description: "Speakers and bells exploring audiovisual synchresis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bellsynchresis/";
             },},{id: "projects-call-and-resonance",
           title: 'Call and Resonance',
-          description: "A sound installation",
+          description: "Five test tubes with interdependent sound circuits",
           section: "Projects",handler: () => {
               window.location.href = "/projects/callandresonance/";
             },},{id: "projects-drip-2",
           title: 'Drip #2',
-          description: "A sound installation",
+          description: "Water drip from separatory funnel with desynchronized sound",
           section: "Projects",handler: () => {
               window.location.href = "/projects/drip2/";
             },},{id: "projects-jump-start",
           title: 'Jump Start',
-          description: "A sound sculpture",
+          description: "Car battery connected to speaker via jumper cables",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jumpstart/";
             },},{id: "projects-surface-osculations-iii",
           title: 'Surface Osculations III',
-          description: "A sound installation",
+          description: "Five suspended steel plates with computer-processed sound",
           section: "Projects",handler: () => {
               window.location.href = "/projects/surfaceosculations3/";
             },},{id: "projects-string-quartet-no-1",
           title: 'String Quartet no. 1',
-          description: "A sound installation",
+          description: "Four piano strings excited by glissando sine waves",
           section: "Projects",handler: () => {
               window.location.href = "/projects/stringquartetone/";
             },},{id: "projects-whiteout",
           title: 'Whiteout',
-          description: "A sound installation",
+          description: "Averaged ambient sounds played through a paper loudspeaker",
           section: "Projects",handler: () => {
               window.location.href = "/projects/whiteout/";
             },},{id: "projects-immer-lichter",
@@ -522,7 +522,7 @@ ninja.data = [{
               window.location.href = "/projects/immerlichter/";
             },},{id: "projects-trialogue",
           title: 'Trialogue',
-          description: "A sound installation",
+          description: "Three organ pipes with speakers in a live feedback system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/trialogue/";
             },},{id: "projects-call-151",
@@ -542,7 +542,7 @@ ninja.data = [{
               window.location.href = "/projects/vibratotremolo/";
             },},{id: "projects-pasapas",
           title: 'Pasapas',
-          description: "A sound installation",
+          description: "Sixty-four speakers distributing sine waves to moving listeners",
           section: "Projects",handler: () => {
               window.location.href = "/projects/foramacher/";
             },},{id: "projects-бура́н-buran",
@@ -552,7 +552,7 @@ ninja.data = [{
               window.location.href = "/projects/buran/";
             },},{id: "projects-response-characters",
           title: 'Response Characters',
-          description: "A sound installation",
+          description: "Seven acrylic tubes with interdependent sound circuits",
           section: "Projects",handler: () => {
               window.location.href = "/projects/responsecharacters/";
             },},{id: "projects-tiger-flower-circle-sun",
@@ -562,62 +562,62 @@ ninja.data = [{
               window.location.href = "/projects/tigerflowercirclesun/";
             },},{id: "projects-washer-dryer",
           title: 'Washer Dryer',
-          description: "A sound sculpture",
+          description: "Two small speakers playing washer and dryer sounds",
           section: "Projects",handler: () => {
               window.location.href = "/projects/washerdryer/";
             },},{id: "projects-acoustic-space",
           title: 'Acoustic Space',
-          description: "A sonic sculpture",
+          description: "Loudspeaker cone extending into a wall",
           section: "Projects",handler: () => {
               window.location.href = "/projects/acousticspace/";
             },},{id: "projects-ink-speaker",
           title: 'Ink Speaker',
-          description: "A sound sculpture",
+          description: "Speaker box filled with ink, after Charles Ray",
           section: "Projects",handler: () => {
               window.location.href = "/projects/inkspeaker/";
             },},{id: "projects-modes",
           title: 'Modes',
-          description: "A sound sculpture",
+          description: "Three speakers evoking Chion&#39;s listening modes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/modes/";
             },},{id: "projects-production-reproduction",
           title: 'Production Reproduction',
-          description: "A sound sculpture",
+          description: "Two speakers depicting sound production and reproduction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/productionreproduction/";
             },},{id: "projects-response",
           title: 'Response',
-          description: "A sound sculpture",
+          description: "Loudspeaker reimagined as tissue box",
           section: "Projects",handler: () => {
               window.location.href = "/projects/response/";
             },},{id: "projects-schaeffer",
           title: 'Schaeffer',
-          description: "Sculpture",
+          description: "Wooden loudspeaker sculpture inspired by Schaeffer&#39;s train etude",
           section: "Projects",handler: () => {
               window.location.href = "/projects/schaeffer/";
             },},{id: "projects-sound-activated-switch",
           title: 'Sound Activated Switch',
-          description: "A sound installation",
+          description: "Boxes of interconnected sound-activated switches triggering clicks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/soundactivatedswitch/";
             },},{id: "projects-speaker-crochet",
           title: 'Speaker [crochet]',
-          description: "A sound sculpture",
+          description: "Loudspeaker with a crocheted wool cone",
           section: "Projects",handler: () => {
               window.location.href = "/projects/speakercrochet/";
             },},{id: "projects-speaker-lego",
           title: 'Speaker[lego]',
-          description: "Sculpture",
+          description: "Loudspeaker built from lego blocks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/speakerlego/";
             },},{id: "projects-589-and-589-6",
           title: '589 and 589.6',
-          description: "A sound installation",
+          description: "Sodium vapor lamp paired with two beating sine tones",
           section: "Projects",handler: () => {
               window.location.href = "/projects/589and5986/";
             },},{id: "projects-mirror-music-box",
           title: 'Mirror Music Box',
-          description: "A sound installation",
+          description: "Interactive music boxes with plexiglass walls as speakers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mirrormusicbox/";
             },},{id: "projects-sinusoidality-analysis-and-noise-synthesis",
@@ -672,12 +672,12 @@ ninja.data = [{
               window.location.href = "/projects/findings/";
             },},{id: "projects-cubic-response",
           title: 'Cubic Response',
-          description: "A sound installation",
+          description: "Seven autonomous feedback circuits creating a sonic ecosystem",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cubicresponse/";
             },},{id: "projects-units-of-conveyance",
           title: 'Units of Conveyance',
-          description: "A sound installation",
+          description: "Eight self-contained speakers with asynchronous electronics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/unitsofconveyance/";
             },},{id: "projects-stiction",
@@ -697,17 +697,17 @@ ninja.data = [{
               window.location.href = "/projects/aradial/";
             },},{id: "projects-articulations",
           title: 'Articulations',
-          description: "A sound installation",
+          description: "Serpentine form of thirty-five clarinet bells emitting glissandi",
           section: "Projects",handler: () => {
               window.location.href = "/projects/articulations/";
             },},{id: "projects-one-and-four-speakers",
           title: 'One and Four Speakers',
-          description: "Sonic Sculpture",
+          description: "Loudspeaker as sculpture, painting, object, and photograph",
           section: "Projects",handler: () => {
               window.location.href = "/projects/oneandfourspeakers/";
             },},{id: "projects-senses",
           title: 'Senses',
-          description: "A sonic sculpture",
+          description: "Five senses depicted through speaker-scale objects",
           section: "Projects",handler: () => {
               window.location.href = "/projects/senses/";
             },},{id: "projects-false-iguana",
@@ -717,7 +717,7 @@ ninja.data = [{
               window.location.href = "/projects/falseiguana/";
             },},{id: "projects-concomitant-variations",
           title: 'Concomitant Variations',
-          description: "A sound installation",
+          description: "Glass tubes with coupled feedback circuits producing emergent sound",
           section: "Projects",handler: () => {
               window.location.href = "/projects/concomitantvariations/";
             },},{id: "projects-incremental-instances",
@@ -732,7 +732,7 @@ ninja.data = [{
               window.location.href = "/projects/infrasound/";
             },},{id: "projects-the-only-thing-we-have-to-fear",
           title: 'The Only Thing We Have to Fear',
-          description: "A sound installation",
+          description: "Motion lamp and radio with altered FDR fireside chat",
           section: "Projects",handler: () => {
               window.location.href = "/projects/theonlything/";
             },},{id: "projects-paraph",
@@ -742,12 +742,12 @@ ninja.data = [{
               window.location.href = "/projects/paraph/";
             },},{id: "projects-conic-variations",
           title: 'Conic Variations',
-          description: "A sound installation",
+          description: "Cardboard conic sections with coupled feedback circuits",
           section: "Projects",handler: () => {
               window.location.href = "/projects/conicvariations/";
             },},{id: "projects-for-organ-pipes",
           title: 'For Organ Pipes',
-          description: "A sound installation",
+          description: "Scattered organ pipes with cellphones creating evolving feedback",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fororganpipes/";
             },},{id: "projects-negated-sound",
