@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Drip #1"
-description: A sound installation
+description: Copper spigot producing an electronic dripping sound
 img: assets/img/drip1a_768.jpg
 date: 2006-09-01
 importance: 46

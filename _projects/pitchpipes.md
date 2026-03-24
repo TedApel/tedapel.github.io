@@ -24,7 +24,7 @@ E2 (82.41 Hz), A2 (110.00 Hz), D3 (146.83 Hz), G3 (196.00 Hz), B3 (246.94 Hz), E
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/eurorack/pitchpipes2.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/eurorack/pitchpipes2.jpg" title="Pitch Pipes eurorack module - six pitch pipes on aluminum panel" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

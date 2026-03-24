@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mobile 4
-description: A sound installation
+description: Four speaker tubes hung as a mobile with four-channel tape
 img: assets/img/mobile4b.jpg
 date: 1989-01-01
 importance: 10
@@ -19,7 +19,7 @@ Play a sample of Mobile 4.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mobile4b.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mobile4b.jpg" title="Mobile 4 - four tubes with speakers hung as a mobile" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

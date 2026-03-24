@@ -23,6 +23,6 @@ Eurorack mounted Raspberry Pi.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/eurorack/eurorackRPi02.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/eurorack/eurorackRPi02.jpg" title="Raspberry Pi eurorack module - mounted computer board" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

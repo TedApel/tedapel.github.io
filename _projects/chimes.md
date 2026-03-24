@@ -21,7 +21,7 @@ Amplified grandfather clock chime and Tingsha cymbal.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/eurorack/chimes2.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/eurorack/chimes2.jpg" title="Chimes eurorack module - clock chime and tingsha cymbal" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

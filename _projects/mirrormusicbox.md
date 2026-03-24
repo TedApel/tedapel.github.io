@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mirror Music Box
-description: A sound installation
+description: Interactive music boxes with plexiglass walls as speakers
 img: assets/img/mirrormusicbox2.jpg
 date: 2013-11-01
 importance: 98
@@ -10,10 +10,10 @@ category: soundart
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mirrormusicbox1.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mirrormusicbox1.jpg" title="Mirror Music Box - music box and transducer on plexiglass" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mirrormusicbox3.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mirrormusicbox3.jpg" title="Mirror Music Box - detail of hand crank music box" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

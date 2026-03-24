@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Articulations
-description: A sound installation
+description: Serpentine form of thirty-five clarinet bells emitting glissandi
 img: assets/img/articulations.jpg
 date: 2010-06-01
 importance: 76
@@ -12,7 +12,7 @@ Thirty five clarinet bells create a serpentine form that emits a recording of cl
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/articulations.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/articulations.jpg" title="Articulations - serpentine arrangement of clarinet bells" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

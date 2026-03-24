@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Response
-description: A sound sculpture
+description: Loudspeaker reimagined as tissue box
 img: assets/img/response.jpg
 date: 2013-01-01
 importance: 82

@@ -21,7 +21,7 @@ Amplified steel rods. Rods are sounded by bowing. Rods are removable for transpo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/eurorack/rods2.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/eurorack/rods2.jpg" title="Rods eurorack module - steel rods on aluminum panel" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

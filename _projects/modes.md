@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modes
-description: A sound sculpture
+description: Three speakers evoking Chion's listening modes
 img: assets/img/modes1.jpg
 date: 2013-01-01
 importance: 102
@@ -12,15 +12,15 @@ Michel Chion's three listening modes are evoked with a causal speaker, a set of 
 
 <div class="row">
     
-        {% include figure.liquid path="assets/img/modes1.jpg" title="One and Four Speakers" class="img-fluid  z-depth-1" %}
+        {% include figure.liquid path="assets/img/modes1.jpg" title="Modes - causal speaker shaped as birdhouse" class="img-fluid  z-depth-1" %}
  
     
-        {% include figure.liquid path="assets/img/modes2.jpg" title="example image" class="img-fluid  z-depth-1" %}
+        {% include figure.liquid path="assets/img/modes2.jpg" title="Modes - semantic speakers" class="img-fluid  z-depth-1" %}
 
-        {% include figure.liquid path="assets/img/modes3.jpg" title="example image" class="img-fluid  z-depth-1" %}
+        {% include figure.liquid path="assets/img/modes3.jpg" title="Modes - reduced listening speaker" class="img-fluid  z-depth-1" %}
 
 
-        {% include figure.liquid path="assets/img/modes4.jpg" title="example image" class="img-fluid  z-depth-1" %}
+        {% include figure.liquid path="assets/img/modes4.jpg" title="Modes - detail view" class="img-fluid  z-depth-1" %}
 
 </div>
 

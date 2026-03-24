@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Solenopsis
-description: A site specific sound installation
+description: Trail of small speakers emitting amplified ant sounds
 img: assets/img/solenopsis_768.jpg
 date: 2001-07-01
 importance: 36

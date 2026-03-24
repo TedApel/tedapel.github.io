@@ -1,7 +1,7 @@
 ---
 layout: page
 title: One and Four Speakers
-description: Sonic Sculpture
+description: Loudspeaker as sculpture, painting, object, and photograph
 img: assets/img/oneandfourspeakers1.jpg
 date: 2018-09-01
 importance: 104
@@ -18,20 +18,20 @@ A loudspeaker is represented in four ways, a carved sculpture of a loudspeaker, 
 
 <div class="row">
     <div class="col">
-        {% include figure.liquid path="assets/img/oneandfourspeakers2.jpg" title="example image" class="img-fluid  z-depth-1" %}
+        {% include figure.liquid path="assets/img/oneandfourspeakers2.jpg" title="One and Four Speakers - carved wood speaker" class="img-fluid  z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.liquid path="assets/img/oneandfourspeakers3.jpg" title="example image" class="img-fluid  z-depth-1" %}
+        {% include figure.liquid path="assets/img/oneandfourspeakers3.jpg" title="One and Four Speakers - oil painting of speaker" class="img-fluid  z-depth-1" %}
     </div>
 
 </div>
 
 <div class="row">
     <div class="col">
-        {% include figure.liquid path="assets/img/oneandfourspeakers4.jpg" title="example image" class="img-fluid  z-depth-1" %}
+        {% include figure.liquid path="assets/img/oneandfourspeakers4.jpg" title="One and Four Speakers - loudspeaker" class="img-fluid  z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.liquid path="assets/img/oneandfourspeakers5.jpg" title="example image" class="img-fluid  z-depth-1" %}
+        {% include figure.liquid path="assets/img/oneandfourspeakers5.jpg" title="One and Four Speakers - photograph of speaker" class="img-fluid  z-depth-1" %}
     </div>
 
 </div>

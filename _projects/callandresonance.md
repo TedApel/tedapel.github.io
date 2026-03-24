@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call and Resonance
-description: A sound installation
+description: Five test tubes with interdependent sound circuits
 img: assets/img/callandresonance1.jpg
 date: 2006-12-01
 importance: 62
@@ -12,7 +12,7 @@ Five very large test tubes are used to impart strong resonances on hand made sou
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/callandresonance1.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/callandresonance1.jpg" title="Call and Resonance - test tubes with electronics" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

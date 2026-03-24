@@ -1,7 +1,7 @@
 ---
 layout: page
 title: String Quartet no. 1
-description: A sound installation
+description: Four piano strings excited by glissando sine waves
 img: assets/img/stringquartetone.jpg
 date: 2007-01-01
 importance: 72
@@ -12,7 +12,7 @@ Four electronically generated sine waves that slowly glissando are used to excit
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/stringquartetone.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/stringquartetone.jpg" title="String Quartet no. 1 - piano strings stretched between posts" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

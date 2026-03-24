@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Washer Dryer
-description: A sound sculpture
+description: Two small speakers playing washer and dryer sounds
 img: assets/img/washerdryer.jpg
 date: 2012-04-01
 importance: 84
@@ -12,7 +12,7 @@ Two small loudspeakers produce the sound of a clothes washer and dryer. A viewer
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/washerdryer.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/washerdryer.jpg" title="Washer Dryer - two small loudspeakers side by side" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

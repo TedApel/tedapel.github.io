@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portrait of Malleus
-description: A sound installation
+description: Bronze plate electromagnetically excited to produce evolving sound
 img: assets/img/portraitofmalleus.jpg
 date: 1997-05-01
 importance: 22
@@ -14,7 +14,7 @@ Traditionally, a fundamental principle of loudspeaker design has been to reprodu
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/portraitofmalleus.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/portraitofmalleus.jpg" title="Portrait of Malleus - bronze plate mounted on wall" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

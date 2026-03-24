@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Surface Osculations III
-description: A sound installation
+description: Five suspended steel plates with computer-processed sound
 img: assets/img/surface301.jpg
 date: 2006-12-01
 importance: 54
@@ -12,7 +12,7 @@ Five large, sound-producing metal plates of differing widths are suspended from 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/surfaceosculations3.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/surfaceosculations3.jpg" title="Surface Osculations III - five metal plates suspended from ceiling" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

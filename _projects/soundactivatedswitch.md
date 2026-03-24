@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sound Activated Switch
-description: A sound installation
+description: Boxes of interconnected sound-activated switches triggering clicks
 img: assets/img/soundactivatedswitch.jpg
 date: 2013-01-01
 importance: 88
@@ -14,7 +14,7 @@ The Unfinished show catalog can be purchased here [Unfinished](http://www.blurb.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/soundactivatedswitch.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/soundactivatedswitch.jpg" title="Sound Activated Switch - boxes of switches and piezo speakers" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

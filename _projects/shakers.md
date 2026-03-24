@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shakers
-description: A sound sculpture
+description: Speakers filled with salt and pepper, vibrating to overflow
 img: assets/img/shakers.jpg
 date: 2005-06-01
 importance: 32
@@ -12,7 +12,7 @@ Two small loudspeakers contain salt and pepper. The sounds of using a salt shake
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/shakers.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/shakers.jpg" title="Shakers - two small speakers containing salt and pepper" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

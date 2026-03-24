@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acoustic Space
-description: A sonic sculpture
+description: Loudspeaker cone extending into a wall
 img: assets/img/acousticspace.jpg
 date: 2013-01-01
 importance: 100
@@ -12,7 +12,7 @@ The virtual acoustic space created by electronic sound reproduction is represent
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/acousticspace.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/acousticspace.jpg" title="Acoustic Space - loudspeaker cone extending into wall" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Dreaming Subject Itself
-description: A sound sculpture
+description: Interactive rusted metal plate with electronic wand control
 img: assets/img/subject.jpg
 date: 1999-03-01
 importance: 26
@@ -12,7 +12,7 @@ A rusted metal plate is suspended from the wall. Viewers/listeners use an electr
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/subject.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/subject.jpg" title="The Dreaming Subject Itself - rusted metal plate on wall" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

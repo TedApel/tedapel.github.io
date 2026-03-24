@@ -1,7 +1,7 @@
 ---
 layout: page
 title: For Organ Pipes
-description: A sound installation
+description: Scattered organ pipes with cellphones creating evolving feedback
 img: assets/img/organseptet.jpg
 date: 2024-02-01
 importance: 120

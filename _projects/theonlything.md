@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Only Thing We Have to Fear
-description: A sound installation
+description: Motion lamp and radio with altered FDR fireside chat
 img: assets/img/theonlything.jpg
 date: 2021-11-01
 importance: 116

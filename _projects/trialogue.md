@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trialogue
-description: A sound installation
+description: Three organ pipes with speakers in a live feedback system
 img: assets/img/trialogue.jpg
 date: 2008-09-01
 importance: 66
@@ -12,7 +12,7 @@ Three organ pipes are modified with speakers. A trialogue between the resonant f
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/trialogue.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/trialogue.jpg" title="Trialogue - three organ pipes with speakers" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

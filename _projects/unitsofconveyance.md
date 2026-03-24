@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Units of Conveyance
-description: A sound installation
+description: Eight self-contained speakers with asynchronous electronics
 img: assets/img/unitsofconveyance.jpg
 date: 2016-05-01
 importance: 110

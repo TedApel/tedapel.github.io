@@ -14,7 +14,7 @@ The Soviet space shuttle Buran completed one unmanned flight on November 15, 198
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/buraninstall.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/buraninstall.jpg" title="Buran - multi-channel video and sound installation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

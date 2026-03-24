@@ -16,7 +16,7 @@ Handmade eurorack module for amplifying the sounds of stones placed on a wood pa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/eurorack/stones2.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/eurorack/stones2.jpg" title="Stones eurorack module - stones on wood panel" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

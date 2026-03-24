@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Potential Difference
-description: A sound installation
+description: Light bulbs paired with piezoelectric sound bulbs
 img: assets/img/potential02.jpg
 date: 1999-01-01
 importance: 30
@@ -10,7 +10,7 @@ category: soundart
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/potential02.jpg" title="Title" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/potential02.jpg" title="Potential Difference - light bulbs and piezoelectric sound bulbs" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

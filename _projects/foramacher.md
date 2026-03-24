@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pasapas
-description: A sound installation
+description: Sixty-four speakers distributing sine waves to moving listeners
 img: assets/img/foramacher.jpg
 date: 2010-02-01
 importance: 70

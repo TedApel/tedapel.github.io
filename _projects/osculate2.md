@@ -1,7 +1,7 @@
 ---
 layout: page
 title: surface osculations II
-description: A sound installation
+description: Suspended metal plates with computer-processed sound, Berlin
 img: assets/img/surfaceosculations2b.jpg
 date: 2000-08-01
 importance: 38
