@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ink Speaker
-description: Speaker box filled with ink, after Charles Ray
+description: A sound sculpture
 img: assets/img/inkspeaker.jpg
 date: 2013-01-01
 importance: 80

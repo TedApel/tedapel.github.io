@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shakers
-description: Speakers filled with salt and pepper, vibrating to overflow
+description: A sound sculpture
 img: assets/img/shakers.jpg
 date: 2005-06-01
 importance: 32

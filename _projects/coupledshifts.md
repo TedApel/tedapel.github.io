@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coupled Shifts
-description: Steel plates driven by composed electronic signals
+description: A sound installation
 img: assets/img/coupled.jpg
 date: 1996-02-01
 importance: 20

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Senses
-description: Five senses depicted through speaker-scale objects
+description: A sonic sculpture
 img: assets/img/senses.jpg
 date: 2018-09-01
 importance: 96

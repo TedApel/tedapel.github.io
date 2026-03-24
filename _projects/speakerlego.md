@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Speaker[lego]
-description: Loudspeaker built from lego blocks
+description: Sculpture
 img: assets/img/speakerlego.jpg
 date: 2013-01-01
 importance: 106

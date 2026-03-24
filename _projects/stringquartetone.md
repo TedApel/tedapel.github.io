@@ -1,7 +1,7 @@
 ---
 layout: page
 title: String Quartet no. 1
-description: Four piano strings excited by glissando sine waves
+description: A sound installation
 img: assets/img/stringquartetone.jpg
 date: 2007-01-01
 importance: 72

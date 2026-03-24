@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Production Reproduction
-description: Two speakers depicting sound production and reproduction
+description: A sound sculpture
 img: assets/img/production.jpg
 date: 2013-01-01
 importance: 92

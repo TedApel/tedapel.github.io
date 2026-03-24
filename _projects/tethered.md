@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tethered and Lambent Planes
-description: Nine metal and wooden plates on floor with shifting resonance
+description: A sound installation
 img: assets/img/tetheredandlambent_768.jpg
 date: 2000-01-01
 importance: 34

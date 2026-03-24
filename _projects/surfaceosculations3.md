@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Surface Osculations III
-description: Five suspended steel plates with computer-processed sound
+description: A sound installation
 img: assets/img/surface301.jpg
 date: 2006-12-01
 importance: 54

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Potential Difference
-description: Light bulbs paired with piezoelectric sound bulbs
+description: A sound installation
 img: assets/img/potential02.jpg
 date: 1999-01-01
 importance: 30

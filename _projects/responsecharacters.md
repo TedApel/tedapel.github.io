@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Response Characters
-description: Seven acrylic tubes with interdependent sound circuits
+description: A sound installation
 img: assets/img/responsecharacters.jpg
 date: 2012-01-01
 importance: 94

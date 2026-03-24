@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Concomitant Variations
-description: Glass tubes with coupled feedback circuits producing emergent sound
+description: A sound installation
 img: assets/img/concomitant3.jpg
 date: 2019-09-01
 importance: 114

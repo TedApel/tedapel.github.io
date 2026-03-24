@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schaeffer
-description: Wooden loudspeaker sculpture inspired by Schaeffer's train etude
+description: Sculpture
 img: assets/img/schaeffer.jpg
 date: 2013-01-01
 importance: 108

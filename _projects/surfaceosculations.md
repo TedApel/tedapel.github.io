@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Surface Osculations
-description: Two suspended metal plates with computer-processed resonant sound
+description: A sound installation
 img: assets/img/surfaceosculations1a_768.jpg
 date: 1998-10-01
 importance: 24

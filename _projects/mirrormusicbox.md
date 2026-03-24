@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mirror Music Box
-description: Interactive music boxes with plexiglass walls as speakers
+description: A sound installation
 img: assets/img/mirrormusicbox2.jpg
 date: 2013-11-01
 importance: 98

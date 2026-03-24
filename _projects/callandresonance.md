@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call and Resonance
-description: Five test tubes with interdependent sound circuits
+description: A sound installation
 img: assets/img/callandresonance1.jpg
 date: 2006-12-01
 importance: 62

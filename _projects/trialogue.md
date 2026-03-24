@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trialogue
-description: Three organ pipes with speakers in a live feedback system
+description: A sound installation
 img: assets/img/trialogue.jpg
 date: 2008-09-01
 importance: 66

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Whiteout
-description: Averaged ambient sounds played through a paper loudspeaker
+description: A sound installation
 img: assets/img/whiteout.jpg
 date: 2007-08-01
 importance: 58

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bell Synchresis
-description: Speakers and bells exploring audiovisual synchresis
+description: A sound installation
 img: assets/img/bellsynchresis.jpg
 date: 2006-12-01
 importance: 56

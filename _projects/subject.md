@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Dreaming Subject Itself
-description: Interactive rusted metal plate with electronic wand control
+description: A sound sculpture
 img: assets/img/subject.jpg
 date: 1999-03-01
 importance: 26

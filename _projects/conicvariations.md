@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conic Variations
-description: Cardboard conic sections with coupled feedback circuits
+description: A sound installation
 img: assets/img/conic01a.jpg
 date: 2023-06-01
 importance: 118

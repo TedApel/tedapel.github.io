@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Irresonance
-description: Eight brass tubes resonated and irresonated by feedback
+description: A sound installation
 img: assets/img/irresonance2_768.jpg
 date: 2003-01-01
 importance: 42

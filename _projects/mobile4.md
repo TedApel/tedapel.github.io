@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mobile 4
-description: Four speaker tubes hung as a mobile with four-channel tape
+description: A sound installation
 img: assets/img/mobile4b.jpg
 date: 1989-01-01
 importance: 10

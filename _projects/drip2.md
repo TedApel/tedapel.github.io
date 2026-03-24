@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Drip #2"
-description: Water drip from separatory funnel with desynchronized sound
+description: A sound installation
 img: assets/img/drip21.jpg
 date: 2006-12-01
 importance: 60

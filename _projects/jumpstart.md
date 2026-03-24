@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jump Start
-description: Car battery connected to speaker via jumper cables
+description: A sound sculpture
 img: assets/img/jumpstart02.jpg
 date: 2006-12-01
 importance: 50

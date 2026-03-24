@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Electromagnetic Steel Disk
-description: Steel disk driven by electromagnet and electronics
+description: A sound installation
 img: assets/img/disktwo.jpg
 date: 1993-01-01
 importance: 18

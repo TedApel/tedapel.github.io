@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wenke's View
-description: Four-channel rain recording for an outdoor Berlin courtyard
+description: A sound installation
 img: assets/img/wenkesvg.svg
 date: 2000-01-01
 importance: 28

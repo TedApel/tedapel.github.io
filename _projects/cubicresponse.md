@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cubic Response
-description: Seven autonomous feedback circuits creating a sonic ecosystem
+description: A sound installation
 img: assets/img/cubicresponse.jpg
 date: 2016-05-01
 importance: 112
