@@ -8,13 +8,9 @@ importance: 6
 category: eurorack
 ---
 
-Raspberry Pi
+A Raspberry Pi computer mounted in eurorack format for running Pure Data audio processing patches without a laptop.
 
-Eurorack Module
-
-Eurorack mounted Raspberry Pi.
-
-[Muff Wiggler thread](https://www.muffwiggler.com/forum/viewtopic.php?t=201864)
+[Mod Wiggler thread](https://www.modwiggler.com/forum/viewtopic.php?t=201864)
 
 [Modular Grid](https://www.modulargrid.net/e/other-unknown-raspberry-pi-)
 

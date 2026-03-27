@@ -12,8 +12,8 @@ nav: false
 
 <!-- eurorack projects -->
 <div class="projects">
-  {%- assign sorted_eurorack = site.projects | where: "category", "eurorack" | sort: "importance" | reverse %}
-  <div class="grid">
+  {%- assign sorted_eurorack = site.projects | where: "category", "eurorack" | sort: "date" | reverse %}
+  <div class="row row-cols-1 row-cols-md-3">
     {%- for project in sorted_eurorack -%}
       {% include projects.liquid %}
     {%- endfor %}

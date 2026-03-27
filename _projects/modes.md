@@ -8,7 +8,7 @@ importance: 102
 category: incidentalspeakers
 ---
 
-Michel Chion's three listening modes are evoked with a causal speaker, a set of semantic speakers, and a reduced listening speaker. The causal speaker takes the shape of a birdhouse, the semantic speakers are arranged as if to send a message between them, and the reduced listening speaker does not display the speaker cone element.
+Three loudspeaker sculptures interpret Michel Chion's three listening modes. Causal listening is evoked by a speaker configured as a birdhouse. Semantic listening is suggested by four speakers arranged to send a message between them. Reduced listening is represented by a completely closed speaker enclosure with no cone. By examining these listening modes as physical objects entirely devoid of sound, we can see that each mode is dependent on its own context for its interpretation.
 
 <div class="row">
     
