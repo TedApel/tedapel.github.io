@@ -8,7 +8,7 @@ importance: 46
 category: soundart
 ---
 
-A copper spigot creates a dripping sound.
+A copper spigot produces the sound of dripping water.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
