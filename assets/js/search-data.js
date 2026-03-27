@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "",
@@ -790,7 +783,87 @@ ninja.data = [{
             },},{id: "projects-boise-state-university-faculty-artist-series-recital-dr-kramer-milan-percussion-dr-ted-apel-electronics-friday-april-18-2025-at-7-30-pm-morrison-center-recital-hall-program-variations-on-the-mystery-sonata-s-passacaglia-heinrich-biber-1604-1744-arr-ted-apel-and-kramer-milan-mvmt-1-burst-from-the-mathematics-of-resonant-bodies-john-luther-adams-b-1953-to-a-landscape-ted-apel-and-kramer-milan-in-a-landscape-john-cage-1912-1992-arr-ted-apel-and-kramer-milan-faculty-artist-series-recital",
           title: 'Boise State University — Faculty Artist Series Recital Dr. Kramer Milan, percussion Dr....',
           description: "",
-          section: "Projects",},{
+          section: "Projects",},{id: "teachings-art-298-seminar",
+          title: 'Art 298: Seminar',
+          description: "Boise State University",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/art298/";
+            },},{id: "teachings-art-305-new-media-art",
+          title: 'Art 305: New Media Art',
+          description: "Boise State University",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/art305/";
+            },},{id: "teachings-cmpo-181-introduction-to-music-technology",
+          title: 'CMPO 181: Introduction to Music Technology',
+          description: "Victoria University of Wellington, New Zealand",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/cmpo181/";
+            },},{id: "teachings-cmpo-211-creative-projects-in-sonic-arts",
+          title: 'CMPO 211: Creative Projects in Sonic Arts',
+          description: "Victoria University of Wellington, New Zealand",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/cmpo211/";
+            },},{id: "teachings-cmpo-281-computer-music-programming-for-live-electronics",
+          title: 'CMPO 281: Computer Music Programming for Live Electronics',
+          description: "Victoria University of Wellington, New Zealand",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/cmpo281/";
+            },},{id: "teachings-cmpo-311-advanced-projects-in-sonic-arts",
+          title: 'CMPO 311: Advanced Projects in Sonic Arts',
+          description: "Victoria University of Wellington, New Zealand",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/cmpo311/";
+            },},{id: "teachings-ece-397-digital-audio-and-computer-music",
+          title: 'ECE 397: Digital Audio and Computer Music',
+          description: "Boise State University",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/ece397/";
+            },},{id: "teachings-engr-120-introduction-to-engineering-lab",
+          title: 'Engr 120: Introduction to Engineering Lab',
+          description: "Boise State University",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/engr120/";
+            },},{id: "teachings-gimm-270-interactive-audio-and-video",
+          title: 'GIMM 270: Interactive Audio and Video',
+          description: "Boise State University",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/gimm270/";
+            },},{id: "teachings-gimm-280-interactive-physical-computing",
+          title: 'GIMM 280: Interactive Physical Computing',
+          description: "Boise State University",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/gimm280/";
+            },},{id: "teachings-gimm-290-game-design-theory",
+          title: 'GIMM 290: Game Design Theory',
+          description: "Boise State University",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/gimm290/";
+            },},{id: "teachings-gimm-360-game-and-virtual-reality-audio",
+          title: 'GIMM 360: Game and Virtual Reality Audio',
+          description: "Boise State University",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/gimm360/";
+            },},{id: "teachings-music-174-audio-and-midi-studio-techniques",
+          title: 'Music 174: Audio and MIDI Studio Techniques',
+          description: "University of California, San Diego",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/music174/";
+            },},{id: "teachings-music-294-introduction-to-computer-music",
+          title: 'Music 294: Introduction to Computer Music',
+          description: "Boise State University",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/music294/";
+            },},{id: "teachings-music-312-introduction-to-computer-music",
+          title: 'Music 312: Introduction to Computer Music',
+          description: "Boise State University",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/music312/";
+            },},{id: "teachings-music-512-electronic-music-applications",
+          title: 'Music 512: Electronic Music Applications',
+          description: "Boise State University",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/music512/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
