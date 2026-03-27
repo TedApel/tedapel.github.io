@@ -562,37 +562,37 @@ ninja.data = [{
               window.location.href = "/projects/tigerflowercirclesun/";
             },},{id: "projects-washer-dryer",
           title: 'Washer Dryer',
-          description: "A sound sculpture",
+          description: "A sound sculpture, part of the Incidental Speakers series",
           section: "Projects",handler: () => {
               window.location.href = "/projects/washerdryer/";
             },},{id: "projects-acoustic-space",
           title: 'Acoustic Space',
-          description: "A sonic sculpture",
+          description: "A sound sculpture, part of the Incidental Speakers series",
           section: "Projects",handler: () => {
               window.location.href = "/projects/acousticspace/";
             },},{id: "projects-medium",
           title: 'Medium',
-          description: "A sound sculpture",
+          description: "A sound sculpture, part of the Incidental Speakers series",
           section: "Projects",handler: () => {
               window.location.href = "/projects/medium/";
             },},{id: "projects-modes",
           title: 'Modes',
-          description: "A sound sculpture",
+          description: "A sound sculpture, part of the Incidental Speakers series",
           section: "Projects",handler: () => {
               window.location.href = "/projects/modes/";
             },},{id: "projects-production-reproduction",
           title: 'Production Reproduction',
-          description: "A sound sculpture",
+          description: "A sound sculpture, part of the Incidental Speakers series",
           section: "Projects",handler: () => {
               window.location.href = "/projects/productionreproduction/";
             },},{id: "projects-response",
           title: 'Response',
-          description: "A sound sculpture",
+          description: "A sound sculpture, part of the Incidental Speakers series",
           section: "Projects",handler: () => {
               window.location.href = "/projects/response/";
             },},{id: "projects-schaeffer",
           title: 'Schaeffer',
-          description: "Sculpture",
+          description: "A sound sculpture, part of the Incidental Speakers series",
           section: "Projects",handler: () => {
               window.location.href = "/projects/schaeffer/";
             },},{id: "projects-sound-activated-switch",
@@ -602,12 +602,12 @@ ninja.data = [{
               window.location.href = "/projects/soundactivatedswitch/";
             },},{id: "projects-speaker-crochet",
           title: 'Speaker [crochet]',
-          description: "A sound sculpture",
+          description: "A sound sculpture, part of the Incidental Speakers series",
           section: "Projects",handler: () => {
               window.location.href = "/projects/speakercrochet/";
             },},{id: "projects-speaker-lego",
           title: 'Speaker[lego]',
-          description: "Sculpture",
+          description: "A sound sculpture, part of the Incidental Speakers series",
           section: "Projects",handler: () => {
               window.location.href = "/projects/speakerlego/";
             },},{id: "projects-589-and-589-6",
@@ -677,7 +677,7 @@ ninja.data = [{
               window.location.href = "/projects/cubicresponse/";
             },},{id: "projects-units-of-conveyance",
           title: 'Units of Conveyance',
-          description: "A sound installation",
+          description: "A sound sculpture, part of the Incidental Speakers series",
           section: "Projects",handler: () => {
               window.location.href = "/projects/unitsofconveyance/";
             },},{id: "projects-stiction",
@@ -702,12 +702,12 @@ ninja.data = [{
               window.location.href = "/projects/articulations/";
             },},{id: "projects-one-and-four-speakers",
           title: 'One and Four Speakers',
-          description: "Sonic Sculpture",
+          description: "A sound sculpture, part of the Incidental Speakers series",
           section: "Projects",handler: () => {
               window.location.href = "/projects/oneandfourspeakers/";
             },},{id: "projects-senses",
           title: 'Senses',
-          description: "A sonic sculpture",
+          description: "A sound sculpture, part of the Incidental Speakers series",
           section: "Projects",handler: () => {
               window.location.href = "/projects/senses/";
             },},{id: "projects-false-iguana",
