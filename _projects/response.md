@@ -8,7 +8,7 @@ importance: 82
 category: incidentalspeakers
 ---
 
-The loudspeaker as tissue box.
+A loudspeaker the size and shape of a tissue box, with a tissue replacing the speaker cone.
 
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
