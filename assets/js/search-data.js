@@ -570,11 +570,11 @@ ninja.data = [{
           description: "A sonic sculpture",
           section: "Projects",handler: () => {
               window.location.href = "/projects/acousticspace/";
-            },},{id: "projects-ink-speaker",
-          title: 'Ink Speaker',
+            },},{id: "projects-medium",
+          title: 'Medium',
           description: "A sound sculpture",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/inkspeaker/";
+              window.location.href = "/projects/medium/";
             },},{id: "projects-modes",
           title: 'Modes',
           description: "A sound sculpture",
