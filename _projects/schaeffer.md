@@ -8,7 +8,7 @@ importance: 108
 category: incidentalspeakers
 ---
 
-Pierre Schaeffer's Étude aux chemins de fer is reinterpreted as a loudspeaker.
+Pierre Schaeffer's Étude aux chemins de fer (Study of the Railroads) is reinterpreted as a loudspeaker. The dark form of the cube can be seen as an abstract form or as a train emerging from the speaker, mirroring the dual nature of Schaefferian acousmatic listening.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Electromagnetic Steel Disk 2 at the SEAMUS Conference, University of Texas, Austin, Texas, 1993.
+[Electromagnetic Steel Disk](/projects/disk/) at the SEAMUS Conference, University of Texas, Austin, Texas, 1993.
