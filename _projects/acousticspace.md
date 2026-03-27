@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acoustic Space
-description: A sonic sculpture
+description: A sound sculpture, part of the Incidental Speakers series
 img: assets/img/acousticspace.jpg
 date: 2013-01-01
 importance: 100

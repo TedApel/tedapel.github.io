@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Senses
-description: A sonic sculpture
+description: A sound sculpture, part of the Incidental Speakers series
 img: assets/img/senses.jpg
 date: 2018-09-01
 importance: 96

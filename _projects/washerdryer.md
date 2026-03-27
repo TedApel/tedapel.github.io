@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Washer Dryer
-description: A sound sculpture
+description: A sound sculpture, part of the Incidental Speakers series
 img: assets/img/washerdryer.jpg
 date: 2012-04-01
 importance: 84

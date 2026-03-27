@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Speaker[lego]
-description: Sculpture
+description: A sound sculpture, part of the Incidental Speakers series
 img: assets/img/speakerlego.jpg
 date: 2013-01-01
 importance: 106

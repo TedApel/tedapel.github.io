@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Units of Conveyance
-description: A sound installation
+description: A sound sculpture, part of the Incidental Speakers series
 img: assets/img/unitsofconveyance.jpg
 date: 2016-05-01
 importance: 110

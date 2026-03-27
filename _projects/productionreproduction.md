@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Production Reproduction
-description: A sound sculpture
+description: A sound sculpture, part of the Incidental Speakers series
 img: assets/img/production.jpg
 date: 2013-01-01
 importance: 92

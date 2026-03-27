@@ -1,7 +1,7 @@
 ---
 layout: page
 title: One and Four Speakers
-description: Sonic Sculpture
+description: A sound sculpture, part of the Incidental Speakers series
 img: assets/img/oneandfourspeakers1.jpg
 date: 2018-09-01
 importance: 104
