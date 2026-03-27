@@ -8,7 +8,7 @@ importance: 86
 category: incidentalspeakers
 ---
 
-A loudspeaker with a crocheted speaker cone.
+A loudspeaker with a crocheted wool cone replacing the speaker cone. The work was made in collaboration with Janice Neri.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
