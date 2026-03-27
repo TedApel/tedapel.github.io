@@ -157,6 +157,9 @@ collections:
   infrasound:
     output: true
     permalink: /infrasound/:path/
+  teachings:
+    output: true
+    permalink: /teaching/:path/
 
 announcements:
   enabled: true
