@@ -8,15 +8,7 @@ importance: 30
 category: soundart
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/potential02.jpg" title="Potential Difference - light bulbs and piezoelectric sound bulbs" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Potential Difference, a sound installation - Ted Apel - light bulbs, sound bulbs, electronics, sound
-
-</div>
+{% include figure.liquid path="assets/img/potential02.jpg" title="Potential Difference - light bulbs and piezoelectric sound bulbs" class="img-fluid rounded z-depth-1" caption="Potential Difference, a sound installation - Ted Apel - light bulbs, sound bulbs, electronics, sound" %}
 
 Piezoelectricity was discovered by Jacques and Pierre Curie at the same time that Thomas Edison made his major breakthrough in his work on the incandescent light bulb. The present installation consists of several incandescent light bulbs and corresponding piezoelectric "sound bulbs". The sound levels of the electroacoustic sound bulbs modulate the luminosity of corresponding light bulbs.
 

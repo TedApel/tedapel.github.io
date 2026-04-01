@@ -8,14 +8,7 @@ importance: 70
 category: soundart
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foramacher.jpg" title="Pasapas" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Pasapas, a sound installation - Ted Apel - speakers, electronics, sound
-</div>
+{% include figure.liquid path="assets/img/foramacher.jpg" title="Pasapas" class="img-fluid rounded z-depth-1" caption="Pasapas, a sound installation - Ted Apel - speakers, electronics, sound" %}
 
 In 1981, composer Rolf Gehlhaar presented _Step by Step -- Music for Ears in Motion_ in the Espace de Projection at IRCAM in Paris. The installation consisted of sixteen loudspeakers suspended in a twelve-meter diameter circle. A software program written by Philippe Prevot generated a sine wave signal and distributed it among the sixteen speakers by projecting one cycle to each speaker in turn. After one speaker played a cycle of the sine wave, the next speaker would play the next cycle. A listener located at the exact center of the circle would hear the sine wave reconstructed at its original frequency. A listener at any other location would experience a changed timbre because of the different amounts of time the sounds took to reach the listener, and because of the resultant breakup of the original sine wave.
 

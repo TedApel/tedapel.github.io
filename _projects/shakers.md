@@ -10,15 +10,7 @@ category: soundart
 
 Two small loudspeakers contain salt and pepper. The sounds of using a salt shaker and pepper grinder emanate from each. These sounds cause the salt and pepper to overflow and mix on the table.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/shakers.jpg" title="Shakers - two small speakers containing salt and pepper" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Shakers, a sound sculpture - Ted Apel - speakers, salt, pepper, sound
-
-</div>
+{% include figure.liquid path="assets/img/shakers.jpg" title="Shakers - two small speakers containing salt and pepper" class="img-fluid rounded z-depth-1" caption="Shakers, a sound sculpture - Ted Apel - speakers, salt, pepper, sound" %}
 
 ---
 

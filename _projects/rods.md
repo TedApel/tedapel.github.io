@@ -19,14 +19,7 @@ Amplified steel rods. Rods are sounded by bowing. Rods are removable for transpo
 - +/-12V 5mA
 - Skiff friendly
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/eurorack/rods2.jpg" title="Rods eurorack module - steel rods on aluminum panel" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Steel rods, aluminum panel, electronics
-</div>
+{% include figure.liquid path="assets/img/eurorack/rods2.jpg" title="Rods eurorack module - steel rods on aluminum panel" class="img-fluid rounded z-depth-1" caption="Steel rods, aluminum panel, electronics" %}
 
 {% include video.liquid path="https://player.vimeo.com/video/157757997" class="img-fluid rounded z-depth-1" %}
 

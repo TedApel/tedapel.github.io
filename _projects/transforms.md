@@ -8,15 +8,7 @@ importance: 13
 category: recordings
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/transform_768.jpg" title="Transforms" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-Transforms: The Nerve Events Project
-
-</div>
+{% include figure.liquid path="assets/img/transform_768.jpg" title="Transforms" class="img-fluid rounded z-depth-1" %}
 
 Venation Division
 Music By – Ted Apel

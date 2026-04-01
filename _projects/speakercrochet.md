@@ -10,15 +10,7 @@ category: incidentalspeakers
 
 A loudspeaker with a crocheted wool cone replacing the speaker cone. The work was made in collaboration with Janice Neri.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/speakercrochet.jpg" title="Speaker [crochet] - loudspeaker with crocheted cone" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Speaker [crochet], a sound sculpture - Ted Apel and Janice Neri - speaker, wool
-
-</div>
+{% include figure.liquid path="assets/img/speakercrochet.jpg" title="Speaker [crochet] - loudspeaker with crocheted cone" class="img-fluid rounded z-depth-1" caption="Speaker [crochet], a sound sculpture - Ted Apel and Janice Neri - speaker, wool" %}
 
 ---
 

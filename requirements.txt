@@ -1,2 +1,4 @@
 # Python dependencies for GitHub Actions deploy
 nbconvert
+scholarly
+pyyaml

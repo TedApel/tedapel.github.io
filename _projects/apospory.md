@@ -8,16 +8,7 @@ importance: 113
 category: recordings
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/apospory.jpg" title="Apospory" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Apospory
-by Ted Apel
-
-</div>
+{% include figure.liquid path="assets/img/apospory.jpg" title="Apospory" class="img-fluid rounded z-depth-1" %}
 
 [Apospory](https://tedapel.bandcamp.com/album/apospory)
 

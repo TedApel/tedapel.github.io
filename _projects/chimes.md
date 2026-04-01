@@ -19,14 +19,7 @@ Amplified grandfather clock chime and Tingsha cymbal.
 - +/-12V 5mA
 - Skiff friendly
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/eurorack/chimes2.jpg" title="Chimes eurorack module - clock chime and tingsha cymbal" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Grandfather clock chime, tingsha cymbal, panel, electronics
-</div>
+{% include figure.liquid path="assets/img/eurorack/chimes2.jpg" title="Chimes eurorack module - clock chime and tingsha cymbal" class="img-fluid rounded z-depth-1" caption="Grandfather clock chime, tingsha cymbal, panel, electronics" %}
 
 {% include video.liquid path="https://player.vimeo.com/video/160461225" class="img-fluid rounded z-depth-1" %}
 

@@ -10,15 +10,7 @@ category: soundart
 
 Two loudspeakers, one is electromagnetically shaken to cause two bells to sound, the other plays the sound of bells. Two doll house loudspeakers serve as the synchretic source of the recorded bell sounds. Synchresis is defined by Michel Chion as the "spontaneous and irresistible mental fusion ... that happens between a sound and a visual when these occur at exactly the same time."
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/bellsynchresis.jpg" title="Bell Synchresis - speakers with bells and doll house speakers" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Bell Synchresis, a sound sculpture - Ted Apel - speakers, bells, doll house speakers, sound
-
-</div>
+{% include figure.liquid path="assets/img/bellsynchresis.jpg" title="Bell Synchresis - speakers with bells and doll house speakers" class="img-fluid rounded z-depth-1" caption="Bell Synchresis, a sound sculpture - Ted Apel - speakers, bells, doll house speakers, sound" %}
 
 ---
 

@@ -10,11 +10,7 @@ category: coupledresonance
 
 Five very large test tubes are used to impart strong resonances on hand made sound making circuits in each tube. Each circuit independently alternates between recording sound and playing back its recording. The sounds recorded are a combination of the sounds produced by the other tubes, the ambient sounds of the space, and the resonance of the tube. In this way, the combined soundfield is an emergent property of the five tubes, that is, each tubes sound is dependent on the contributions of the others.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/callandresonance1.jpg" title="Call and Resonance - test tubes with electronics" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+{% include figure.liquid path="assets/img/callandresonance1.jpg" title="Call and Resonance - test tubes with electronics" class="img-fluid rounded z-depth-1" %}
 
 {% include video.liquid path="https://player.vimeo.com/video/29117451" class="img-fluid rounded z-depth-1" %}
 

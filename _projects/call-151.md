@@ -8,16 +8,7 @@ importance: 67
 category: recordings
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/call-151.jpg" title="call-151" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Call-151
-by Ted Apel, Patrick Benolkin, Hope Hampton, and Edward Stumpp.
-
-</div>
+{% include figure.liquid path="assets/img/call-151.jpg" title="call-151" class="img-fluid rounded z-depth-1" %}
 
 This recording employs a system of just intonation based on the ratios 5/5 6/5 7/5 8/5 and 9/5 for sound synthesis. Eight metal and wooden plates are used to combine these electronic signals with each plate's own natural vibrational modes.
 

@@ -17,8 +17,4 @@ A Raspberry Pi computer mounted in eurorack format for running Pure Data audio p
 - 5 HP eurorack format
 - 90 mm deep
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/eurorack/eurorackRPi02.jpg" title="Raspberry Pi eurorack module - mounted computer board" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+{% include figure.liquid path="assets/img/eurorack/eurorackRPi02.jpg" title="Raspberry Pi eurorack module - mounted computer board" class="img-fluid rounded z-depth-1" %}

@@ -10,14 +10,7 @@ category: soundart
 
 Laptop improvisation in Kuna Caves
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/kunabw.jpg" title="Kuna Caves - laptop performance in lava tube cave" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">Gretchen Jude and Ted Apel, June 26, 2009
-
-</div>
+{% include figure.liquid path="assets/img/kunabw.jpg" title="Kuna Caves - laptop performance in lava tube cave" class="img-fluid rounded z-depth-1" caption="Gretchen Jude and Ted Apel, June 26, 2009" %}
 
 <p>
 Listen to the Apel Mix.

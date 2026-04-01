@@ -10,15 +10,7 @@ category: coupledresonance
 
 Seven tubes are used to impart strong resonances on sound recording and playback circuits in each tube. Each circuit independently alternates between recording sound and playing back its recording. The sounds recorded are a combination of the sounds produced by the other tubes, the ambient sounds of the space, and the resonance of the tube. In this way, the combined soundfield is an emergent property of the seven tubes, that is, each tubes sound is dependent on the contributions of the others.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/responsecharacters.jpg" title="Response Characters - acrylic tubes with Arduino circuits" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Response Characters, a sound installation - Ted Apel - Arduinos, electronics, acrylic tubing, sound.
-
-</div>
+{% include figure.liquid path="assets/img/responsecharacters.jpg" title="Response Characters - acrylic tubes with Arduino circuits" class="img-fluid rounded z-depth-1" caption="Response Characters, a sound installation - Ted Apel - Arduinos, electronics, acrylic tubing, sound." %}
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
     {% include video.liquid path="https://player.vimeo.com/video/85556465" class="img-fluid rounded z-depth-1" %}

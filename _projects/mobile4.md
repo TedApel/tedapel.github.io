@@ -17,12 +17,4 @@ Play a sample of Mobile 4.
 <source src="/assets/sound/mobile4.mp3" type="audio/mpeg"/>
 </audio>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mobile4b.jpg" title="Mobile 4 - four tubes with speakers hung as a mobile" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Mobile 4, a sound installation - Ted Apel - heating ducts, speakers, computer generated sound
-
-</div>
+{% include figure.liquid path="assets/img/mobile4b.jpg" title="Mobile 4 - four tubes with speakers hung as a mobile" class="img-fluid rounded z-depth-1" caption="Mobile 4, a sound installation - Ted Apel - heating ducts, speakers, computer generated sound" %}

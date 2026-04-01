@@ -8,16 +8,7 @@ importance: 113
 category: recordings
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/falseiguana04sq.jpg" title="False Iguana" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    False Iguana
-by Ted Apel and Anthony Burr
-
-</div>
+{% include figure.liquid path="assets/img/falseiguana04sq.jpg" title="False Iguana" class="img-fluid rounded z-depth-1" %}
 
 [False Iguana](https://muzaneditions.bandcamp.com/album/false-iguana)
 

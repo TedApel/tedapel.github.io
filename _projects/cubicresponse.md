@@ -12,14 +12,7 @@ Cubic response uses acoustic feedback and acoustic resonance to create autonomou
 
 The installation consists of seven circuits which record, manipulate and play sounds heard from other parts of the installation. This process creates a unique sonic ecosystem in which each agent reacts to the space differently. A viewer / listener is free to move around the space. The installation is interactive in that sounds produced in the space will have a direct and immediate impact on the individual sound producing agents as they adapt in response to the new sound.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cubicresponse.jpg" title="Cubic Response" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Cubic Response, a sound installation - Ted Apel - electronics, sound
-</div>
+{% include figure.liquid path="assets/img/cubicresponse.jpg" title="Cubic Response" class="img-fluid rounded z-depth-1" caption="Cubic Response, a sound installation - Ted Apel - electronics, sound" %}
 
 ---
 

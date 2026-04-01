@@ -8,15 +8,7 @@ importance: 15
 category: recordings
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/frogpeak2.jpg" title="The Frog Peak Collaborations Project CD cover" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-The Frog Peak Collaborations Project
-
-</div>
+{% include figure.liquid path="assets/img/frogpeak2.jpg" title="The Frog Peak Collaborations Project CD cover" class="img-fluid rounded z-depth-1" %}
 
 Lay Investiture, 1998
 

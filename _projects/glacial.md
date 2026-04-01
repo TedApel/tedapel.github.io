@@ -8,14 +8,7 @@ importance: 10
 category: recordings
 ---
 
-<div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/glacial_768.jpg" title="Glacial Evidence - Athabaska" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Glacial Evidence - Athabaska
-</div>
+{% include figure.liquid path="assets/img/glacial_768.jpg" title="Glacial Evidence - Athabaska" class="img-fluid rounded z-depth-1" %}
 
 Ted Apel and Scott Crocker, 1984. LP.
 

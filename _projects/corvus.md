@@ -17,12 +17,4 @@ I spent several afternoons and early evenings in the eucalyptus grove near the T
 <source src="/assets/sound/corvus.mp3" type="audio/mpeg"/>
 html5 browsers only.</audio>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/corvus1a_768.jpg" title="corvus" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Corvus Brachyrhynchos Chimes, a sound installation - Ted Apel - sound
-
-</div>
+{% include figure.liquid path="assets/img/corvus1a_768.jpg" title="corvus" class="img-fluid rounded z-depth-1" caption="Corvus Brachyrhynchos Chimes, a sound installation - Ted Apel - sound" %}

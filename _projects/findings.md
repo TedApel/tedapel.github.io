@@ -8,16 +8,7 @@ importance: 111
 category: recordings
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/findings.jpg" title="Findings album cover" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Findings
-by Ted Apel
-
-</div>
+{% include figure.liquid path="assets/img/findings.jpg" title="Findings album cover" class="img-fluid rounded z-depth-1" %}
 
 [Findings](https://tedapel.bandcamp.com/album/findings)
 

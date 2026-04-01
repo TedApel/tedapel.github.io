@@ -17,15 +17,7 @@ Play two channel version of Wenke's View.
 <source src="/assets/sound/WenkesView.mp3" type="audio/mpeg"/>
 html5 browsers only.</audio>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wenkesvg.svg" title="Wenke's View" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Wenke's View, a sound installation - Ted Apel
-
-</div>
+{% include figure.liquid path="assets/img/wenkesvg.svg" title="Wenke's View" class="img-fluid rounded z-depth-1" caption="Wenke's View, a sound installation - Ted Apel" %}
 
 ---
 

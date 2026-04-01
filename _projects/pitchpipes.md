@@ -22,14 +22,7 @@ E2 (82.41 Hz), A2 (110.00 Hz), D3 (146.83 Hz), G3 (196.00 Hz), B3 (246.94 Hz), E
 - +/-12V 5mA
 - Skiff friendly
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/eurorack/pitchpipes2.jpg" title="Pitch Pipes eurorack module - six pitch pipes on aluminum panel" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Pitch pipes, aluminum panel, electronics
-</div>
+{% include figure.liquid path="assets/img/eurorack/pitchpipes2.jpg" title="Pitch Pipes eurorack module - six pitch pipes on aluminum panel" class="img-fluid rounded z-depth-1" caption="Pitch pipes, aluminum panel, electronics" %}
 
 {% include video.liquid path="https://player.vimeo.com/video/160462898" class="img-fluid rounded z-depth-1" %}
 
