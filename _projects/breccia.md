@@ -25,7 +25,7 @@ William Lewis - Guitar, Melodica
 
 Robert Ashley, _She Was A Visitor_ (1967)<br>
 Charles Amirkhanian, _Duet for Ratchets_ (1966)<br>
-Bob Becker, _Coming Together_ (1973)<br>
+Frederic Rzewski, _Coming Together_ (1973)<br>
 Gavin Bryars, _Jesus' Blood Never Failed Me Yet_<br>
 Lynn Goldsmith, _Adventures in Success_<br>
 Gretchen Jude, _News Piece_ (2007)<br>
