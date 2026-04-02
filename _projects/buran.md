@@ -12,7 +12,7 @@ The Soviet space shuttle Buran completed one unmanned flight on November 15, 198
 
 [Amanda Hamilton](https://amandahamiltonart.com/section/165641_BURAN.html)
 
-{% include figure.liquid path="assets/img/buraninstall.jpg" title="Buran - multi-channel video and sound installation" class="img-fluid rounded z-depth-1" caption='Buran, a sound installation - Amanda Hamilton and Ted Apel - 7 channel video with 3 audio tracks 21" x 21" x 8'' %}
+{% include figure.liquid path="assets/img/buraninstall.jpg" title="Buran - multi-channel video and sound installation" class="img-fluid rounded z-depth-1" caption="Buran, a sound installation - Amanda Hamilton and Ted Apel - 7 channel video with 3 audio tracks" %}
 
 ---
 
