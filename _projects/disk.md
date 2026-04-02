@@ -27,6 +27,6 @@ A steel disk is mounted on a wall and excited by a hand-wound electromagnet posi
 
 **Exhibitions**
 
-**New Music Festival**, Dartmouth College, Hanover, New Hampshire, *1992*, live performance with Pauline Oliveros<br>
-**SEAMUS Conference**, University of Texas, Austin, Texas, *March 31 – April 4, 1993*<br>
-**SoundCulture 96**, WORKS/San Jose, California, *1996*
+**New Music Festival**, Dartmouth College, Hanover, New Hampshire, _1992_, live performance with Pauline Oliveros<br>
+**SEAMUS Conference**, University of Texas, Austin, Texas, _March 31 – April 4, 1993_<br>
+**SoundCulture 96**, WORKS/San Jose, California, _1996_
