@@ -1,2 +1,59 @@
-# Google Scholar citation data - auto-updated by GitHub Actions
-papers: {}
+metadata:
+  last_updated: '2026-04-05'
+papers:
+  j_Hn6wEAAAAJ:2osOgNQ5qMEC:
+    citations: 2
+    title: Feature preservation and negated music in a phase vocoder sound representation
+    year: '2008'
+  j_Hn6wEAAAAJ:9yKSN-GCB0IC:
+    citations: 9
+    title: Audio segmentation by singular value clustering
+    year: '2004'
+  j_Hn6wEAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: Thin Layer Liquid Acoustical Filters
+    year: '1990'
+  j_Hn6wEAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: Spectral Transformation and Cross Synthesis of Sinusoidal Analysis Peaks
+    year: '1993'
+  j_Hn6wEAAAAJ:UeHWp8X0CEIC:
+    citations: 3
+    title: Transformation of audio signals by use of the McAulay-Quatieri sinusoidal model of sound
+    year: '1993'
+  j_Hn6wEAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: DVD Program Notes
+    year: '2003'
+  j_Hn6wEAAAAJ:YsMSGLbcyi4C:
+    citations: 1
+    title: Portable Real-time Volcano Infrasound Auditory Display Devices
+    year: '2021'
+  j_Hn6wEAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: Negated Sound Analysis-Synthesis
+    year: '2024'
+  j_Hn6wEAAAAJ:d1gkVwhDpl0C:
+    citations: 1
+    title: Real-time Complex Cepstral Signal Processing for Musical Applications
+    year: '2001'
+  j_Hn6wEAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: Incidental Speakers
+    year: '2023'
+  j_Hn6wEAAAAJ:qjMakFHDy7sC:
+    citations: 0
+    title: Real-time audio analysis tools for Pd and MSP
+    year: '1998'
+  j_Hn6wEAAAAJ:u-x6o8ySG0sC:
+    citations: 14
+    title: Real-time implementation of a general model for spatial processing of sounds
+    year: '2002'
+  j_Hn6wEAAAAJ:u5HHmVD_uO8C:
+    citations: 3
+    title: Sinusoidality analysis and noise synthesis in phase vocoder based timestretching
+    year: '2014'
+  j_Hn6wEAAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: bonk~, version 1.4 for Mac OSX, Max 5. Percussion follower for Max/MSP (MSP port by Ted Apel and Barry Threw)
+    year: '2009'
