@@ -2,10 +2,11 @@ github_users:
   - tedapel
 
 github_repos:
+  - tedapel/VADD
+  - TedApel/the-gravity-game
   - tedapel/pv-noise-synthesis
   - tedapel/pv-vibrato-tremolo
   - TedApel/Max-externals
   - tedapel/Max-Stable-Transient
-  - tedapel/VADD
   - tedapel/MQT
   - tedapel/Raspberry-Pi-Eurorack-Panel
