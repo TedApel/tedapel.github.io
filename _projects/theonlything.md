@@ -16,7 +16,7 @@ During the 1930s, motion lamps were commonly displayed on top or near home radio
 
 {% include video.liquid path="https://player.vimeo.com/video/651700806" class="img-fluid rounded z-depth-1" %}
 
-<p><a href="https://vimeo.com/651700806">The Only Thing We Have to Fear</a> from <a href="https://vimeo.com/vud">Ted Apel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+[Virtual tour of the installation at Surel's Place](https://artisticjourney.s3.us-west-2.amazonaws.com/index.htm)
 
 ---
 
