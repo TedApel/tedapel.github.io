@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-05'
+  last_updated: '2026-05-27'
 papers:
   j_Hn6wEAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -50,7 +50,7 @@ papers:
     title: Real-time implementation of a general model for spatial processing of sounds
     year: '2002'
   j_Hn6wEAAAAJ:u5HHmVD_uO8C:
-    citations: 3
+    citations: 4
     title: Sinusoidality analysis and noise synthesis in phase vocoder based timestretching
     year: '2014'
   j_Hn6wEAAAAJ:ufrVoPGSRksC:
