@@ -789,9 +789,9 @@ ninja.data = [{
             },},{id: "projects-boise-state-university-faculty-artist-series-recital-dr-kramer-milan-percussion-dr-ted-apel-electronics-friday-april-18-2025-at-7-30-pm-morrison-center-recital-hall-program-variations-on-the-mystery-sonata-s-passacaglia-heinrich-biber-1604-1744-arr-ted-apel-and-kramer-milan-mvmt-1-burst-from-the-mathematics-of-resonant-bodies-john-luther-adams-b-1953-to-a-landscape-ted-apel-and-kramer-milan-in-a-landscape-john-cage-1912-1992-arr-ted-apel-and-kramer-milan-faculty-artist-series-recital",
           title: 'Boise State University — Faculty Artist Series Recital Dr. Kramer Milan, percussion Dr....',
           description: "",
-          section: "Projects",},{id: "projects-ballast",
-          title: 'Ballast',
-          description: "",
+          section: "Projects",},{id: "projects-ballast-apel-and-sadler",
+          title: 'Ballast, Apel and Sadler',
+          description: "Ted Apel and Jon Sadler. June 8, 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/ballast/";
             },},{id: "teachings-art-298-seminar",
