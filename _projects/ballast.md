@@ -6,6 +6,7 @@ img:
 date: 2026-05-17
 importance: 1
 category: unlisted
+permalink: /ballast/
 ---
 
 8 pm to 9:30 pm, Monday June 8, 2026
