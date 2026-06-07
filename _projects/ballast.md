@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ballast
-description: 
+title: Ballast, Apel and Sadler
+description: Ted Apel and Jon Sadler. June 8, 2026.
 img:
 date: 2026-05-17
 importance: 1
