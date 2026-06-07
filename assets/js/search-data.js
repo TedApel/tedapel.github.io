@@ -793,7 +793,7 @@ ninja.data = [{
           title: 'Ballast',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/ballast/";
+              window.location.href = "/ballast/";
             },},{id: "teachings-art-298-seminar",
           title: 'Art 298: Seminar',
           description: "Boise State University",
