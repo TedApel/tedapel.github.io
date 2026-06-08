@@ -9,7 +9,7 @@ category: unlisted
 permalink: /ballast/
 ---
 
-8 pm to 9:30 pm, Monday June 8, 2026
+Open from 8 pm to 9:30 pm, Monday June 8, 2026
 
 **Ballast** by Ted Apel (Sound) and Jon Sadler (Photography) at the Universal Dressing Room.
 
