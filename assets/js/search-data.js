@@ -794,6 +794,11 @@ ninja.data = [{
           description: "Ted Apel and Jon Sadler. June 8, 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/ballast/";
+            },},{id: "projects-group-delay-manipulation-with-the-giant-fft",
+          title: 'Group Delay Manipulation with the Giant FFT',
+          description: "Coherent temporal manipulation of sound in the group delay domain",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/groupdelay/";
             },},{id: "teachings-art-298-seminar",
           title: 'Art 298: Seminar',
           description: "Boise State University",
