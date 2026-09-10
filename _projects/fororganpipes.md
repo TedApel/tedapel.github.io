@@ -6,6 +6,7 @@ img: assets/img/organseptet.jpg
 date: 2024-02-01
 importance: 120
 category: soundart
+parent: coupledresonance
 ---
 
 For Organ Pipes is a sound installation that produces a self-modifying set of tones from scattered organ pipes. Each pipe contains a cellphone that picks up sound from outside the pipe, compresses the dynamic range, and amplifies it through the resonant tube of the pipe. Sound produced by each pipe is captured by the microphones in the other pipes, resulting in a continuously evolving system.
