@@ -12,6 +12,10 @@ A method for preserving vibrato and tremolo during phase vocoder time-stretching
 
 Based on Chapter 3 of the dissertation _Feature Preservation and Negated Music in a Phase Vocoder Sound Representation_ (UCSD, 2008).
 
+## Paper
+
+Apel, T. (2010). Vibrato and Tremolo Preservation during Phase Vocoder Time-Stretching. Unpublished manuscript. [PDF]({{ site.baseurl }}/assets/pdf/ApelVibratoTremolo.pdf)
+
 ## Code
 
 <a href="https://github.com/tedapel/pv-vibrato-tremolo"><i class="fab fa-github gh-icon"></i> <strong>pv-vibrato-tremolo</strong></a> -- Octave source code and sound examples.
