@@ -3,18 +3,18 @@ layout: page
 title: Vibrato and Tremolo Preservation
 description: Preserving sub-audio modulations during phase vocoder time-stretching
 img: assets/img/vibratotremolo.png
-date: 2010-01-01
+date: 2011-01-01
 importance: 52
 category: projects
 ---
 
 A method for preserving vibrato and tremolo during phase vocoder time-stretching. When a phase vocoder time-stretches a sound, sub-audio modulations such as vibrato and tremolo are slowed along with the sound, altering the character of the original performance. This work uses a second-order spectral analysis to identify and extract these modulations before stretching, then re-imposes them at their original rate on the time-stretched result.
 
-Based on Chapter 3 of the dissertation _Feature Preservation and Negated Music in a Phase Vocoder Sound Representation_ (UCSD, 2008).
+Based on Chapter 4 of the dissertation _Feature Preservation and Negated Music in a Phase Vocoder Sound Representation_ (UCSD, 2008).
 
 ## Paper
 
-Apel, T. (2010). Vibrato and Tremolo Preservation during Phase Vocoder Time-Stretching. Unpublished manuscript. [PDF]({{ site.baseurl }}/assets/pdf/ApelVibratoTremolo.pdf)
+Apel, T. (2011). Vibrato and Tremolo Preservation during Phase Vocoder Time-Dilation. Unpublished manuscript. [PDF]({{ site.baseurl }}/assets/pdf/ApelVibratoTremolo.pdf)
 
 ## Code
 
