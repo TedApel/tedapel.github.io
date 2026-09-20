@@ -544,11 +544,6 @@ ninja.data = [{
           description: "Laptop improvisation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/kunacaves/";
-            },},{id: "projects-vibrato-and-tremolo-preservation",
-          title: 'Vibrato and Tremolo Preservation',
-          description: "Preserving sub-audio modulations during phase vocoder time-stretching",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/vibratotremolo/";
             },},{id: "projects-pasapas",
           title: 'Pasapas',
           description: "A sound installation",
@@ -559,6 +554,11 @@ ninja.data = [{
           description: "A video and sound installation, Amanda Hamilton and Ted Apel",
           section: "Projects",handler: () => {
               window.location.href = "/projects/buran/";
+            },},{id: "projects-vibrato-and-tremolo-preservation",
+          title: 'Vibrato and Tremolo Preservation',
+          description: "Preserving sub-audio modulations during phase vocoder time-stretching",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vibratotremolo/";
             },},{id: "projects-response-characters",
           title: 'Response Characters',
           description: "A sound installation",
