@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-09-19'
 papers:
   j_Hn6wEAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: Thin Layer Liquid Acoustical Filters
     year: '1990'
+  j_Hn6wEAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: Vibrato and Tremolo Preservation during Phase Vocoder Time-Stretching
+    year: '2015'
   j_Hn6wEAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Spectral Transformation and Cross Synthesis of Sinusoidal Analysis Peaks
@@ -21,10 +25,10 @@ papers:
     citations: 3
     title: Transformation of audio signals by use of the McAulay-Quatieri sinusoidal model of sound
     year: '1993'
-  j_Hn6wEAAAAJ:WF5omc3nYNoC:
+  j_Hn6wEAAAAJ:UebtZRa9Y70C:
     citations: 0
-    title: DVD Program Notes
-    year: '2003'
+    title: Group Delay Manipulation for Creative Sound Transformation with the Giant FFT
+    year: '2026'
   j_Hn6wEAAAAJ:YsMSGLbcyi4C:
     citations: 1
     title: Portable Real-time Volcano Infrasound Auditory Display Devices
@@ -37,12 +41,12 @@ papers:
     citations: 1
     title: Real-time Complex Cepstral Signal Processing for Musical Applications
     year: '2001'
-  j_Hn6wEAAAAJ:eQOLeE2rZwMC:
+  j_Hn6wEAAAAJ:hqOjcs7Dif8C:
     citations: 0
     title: Incidental Speakers
     year: '2023'
   j_Hn6wEAAAAJ:qjMakFHDy7sC:
-    citations: 0
+    citations: 371
     title: Real-time audio analysis tools for Pd and MSP
     year: '1998'
   j_Hn6wEAAAAJ:u-x6o8ySG0sC:
@@ -53,7 +57,3 @@ papers:
     citations: 4
     title: Sinusoidality analysis and noise synthesis in phase vocoder based timestretching
     year: '2014'
-  j_Hn6wEAAAAJ:ufrVoPGSRksC:
-    citations: 0
-    title: bonk~, version 1.4 for Mac OSX, Max 5. Percussion follower for Max/MSP (MSP port by Ted Apel and Barry Threw)
-    year: '2009'
