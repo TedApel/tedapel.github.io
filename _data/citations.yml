@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-09-19'
+  last_updated: '2026-10-21'
 papers:
   j_Hn6wEAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -15,8 +15,8 @@ papers:
     year: '1990'
   j_Hn6wEAAAAJ:Se3iqnhoufwC:
     citations: 0
-    title: Vibrato and Tremolo Preservation during Phase Vocoder Time-Stretching
-    year: '2015'
+    title: VIBRATO AND TREMOLO PRESERVATION DURING PHASE VOCODER TIME-DILATION
+    year: 'Unknown Year'
   j_Hn6wEAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Spectral Transformation and Cross Synthesis of Sinusoidal Analysis Peaks
@@ -46,7 +46,7 @@ papers:
     title: Incidental Speakers
     year: '2023'
   j_Hn6wEAAAAJ:qjMakFHDy7sC:
-    citations: 371
+    citations: 372
     title: Real-time audio analysis tools for Pd and MSP
     year: '1998'
   j_Hn6wEAAAAJ:u-x6o8ySG0sC:
