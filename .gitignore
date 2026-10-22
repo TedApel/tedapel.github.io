@@ -15,3 +15,6 @@ vendor
 context/
 CLAUDE.md
 .claude/
+al-folio-upgrade-report.md
+__pycache__/
+*.pyc
